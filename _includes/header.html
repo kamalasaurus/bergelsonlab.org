@@ -1,13 +1,13 @@
 <header>
-    <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+    <h1 class="item"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
     {% if site.logo %}
         <img src="{{site.logo | relative_url}}" alt="Logo" />
     {% endif %}
 
-    <p>{{ site.description | default: site.github.project_tagline }}</p>
+    <!-- <p class="item">{{ site.description | default: site.github.project_tagline }}</p> -->
 
-    <nav>
+    <nav class="item">
         <ul>
             {% for page in site.pages %}
                 {% assign page_extension = page.path | split: '.' | last %}

@@ -1,8 +1,40 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
 header {
     background-color: rgb(68, 202, 171);
     color: black;
     padding: 10px 0;
-    text-align: center;
+    text-align: left;
+    width: 100%;
+    position: relative;
+    float: none;
+}
+header h1 {
+    padding: 0 10px;
+    margin: 0 20px 0 10px;
+}
+
+header .item {
+    display: inline-block
+}
+
+header nav.item ul li {
+    display: inline-block;
+    padding-right: 30px;
+    box-sizing: content-box;
+}
+
+header nav.item ul li a:hover {
+    font-weight: normal !important;
+    text-decoration: underline;
+}
+
+header nav.item ul li a:focus {
+    font-weight: normal !important;
+    text-decoration: underline;
 }
 
 header a {
@@ -14,13 +46,37 @@ header a:hover {
     color: black;
 }
 
+header nav {
+    position: relative;
+    right: 0;
+}
+
 nav ul {
     list-style: none;
     text-align: right;
 }
 
-nav ul li {
-    padding-right: 30px;
+section {
+    color: black;
+    text-align: left;
+    width: 100%;
+    position: relative;
+    float: none;
+}
+
+footer {
+    color: black;
+    padding: 10px 0;
+    text-align: left;
+    width: 100%;
+    position: relative;
+    float: none;
+}
+
+footer img {
+    float: right;
+    width: 100px;
+    height: 100px;
 }
 
 .cube-container {
