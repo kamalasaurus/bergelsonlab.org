@@ -129,7 +129,7 @@ footer img {
 } */
 
 .front {
-    background-image: url('/assets/images/athaliana_adaptation.jpg.webp');
+    background-image: url('assets/images/athaliana_adaptation.jpg.webp');
     background-size: cover;
 }
 
@@ -144,17 +144,17 @@ footer img {
 } */
 
 .right {
-    background-image: url('/assets/images/athaliana_evolution.jpg.webp');
+    background-image: url('assets/images/athaliana_evolution.jpg.webp');
     background-size: cover;
 }
 
 .top {
-    background-image: url('/assets/images/athaliana_networks.jpeg.webp');
+    background-image: url('assets/images/athaliana_networks.jpeg.webp');
     background-size: cover;
 }
 
 .bottom {
-    background-image: url('/assets/images/athaliana_genomics.png.webp');
+    background-image: url('assets/images/athaliana_genomics.png.webp');
     background-size: cover;
 }
 
