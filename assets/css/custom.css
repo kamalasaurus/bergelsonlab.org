@@ -349,6 +349,26 @@ table.publications th, table.publications td {
     word-wrap: break-word; /* Ensures long text wraps */
 }
 
+/* Research Pages */
+.research-grid-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 2 equal columns */
+    gap: 20px; /* Spacing between grid items */
+    margin-top: 20px; /* Adds spacing above the grid */
+}
+
+.research-grid-item {
+    background-color: #f9f9f9; /* Optional background color */
+    padding: 15px; /* Adds padding inside each item */
+    border: 1px solid #ccc; /* Optional border */
+    border-radius: 5px; /* Optional rounded corners */
+    text-align: center; /* Centers text inside the item */
+}
+
+.research-grid-span-2 {
+    grid-column: span 2; /* Makes the item span 2 columns */
+}
+
 @media print, screen and (max-width: 960px) {
     body header {
         background-color: rgb(68, 202, 171);
@@ -481,6 +501,14 @@ table.publications th, table.publications td {
 
     .alumni-row.header {
         display: none; /* Hide the header row on mobile */
+    }
+
+    .research-grid-container {
+        grid-template-columns: 1fr; /* Switch to a single column on narrow screens */
+    }
+
+    .research-grid-span-2 {
+        grid-column: span 1; /* Ensure wide items also span only 1 column on mobile */
     }
 }
 
