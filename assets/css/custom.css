@@ -186,11 +186,54 @@ div.index div.callouts div.study-area {
     color: #333; /* Text color */
 }
 
+.grid-item p {
+    margin-top: 15px;
+}
+
 .placeholder {
     height: 200px;
     width: 200px;
     margin: 20px auto; /* Centers the placeholder */
     background-color: black;
+}
+
+/* Publications Page */
+table.publications {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0; /* Adds spacing above and below the table */
+}
+
+table.publications tr {
+    border-bottom: 1px solid #ccc; /* Adds a bottom border to each row */
+}
+
+table.publications th, table.publications td {
+    padding: 20px 0; /* Adds padding inside each cell */
+    text-align: justify; /* Aligns text to the left */
+}
+
+.google-scholar-link {
+    display: inline-block;
+    background-color:rgb(68, 202, 171);
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    margin-left: 5px;
+}
+
+.google-scholar-link:hover {
+    background-color: #333;
+    color: white;
+    cursor: pointer;
+}
+
+.google-scholar-link:focus {
+    background-color: #333;
+    color: white;
+    cursor: pointer;
 }
 
 @media print, screen and (max-width: 960px) {
@@ -260,6 +303,10 @@ div.index div.callouts div.study-area {
     div b.section-title, div.index b, div.news b {
         margin-left: 5px;
     }
+    table.publications td {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
 }
 
 @media print, screen and (max-width: 720px) {
@@ -290,6 +337,11 @@ div.index div.callouts div.study-area {
 
     .grid-container {
         grid-template-columns: 1fr; /* Switch to 1 column on narrow screens */
+    }
+
+    table.publications td {
+        padding-left: 5px;
+        padding-right: 5px;
     }
 }
 
