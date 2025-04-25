@@ -73,8 +73,13 @@ footer {
     float: none;
 }
 
+footer > * {
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 10px 0 0;
+}
+
 footer img {
-    float: right;
     width: 100px;
     height: 100px;
 }
