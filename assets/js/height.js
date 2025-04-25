@@ -26,12 +26,25 @@ function sectionIndexHeight() {
     }
 }
 
+function positionContainerBackground() {
+    var container = document.querySelector('.cube-container');
+    var containerBackground = document.querySelector('.container-background');
+    if (container) {
+        var containerTop = container.getBoundingClientRect().top + window.scrollY;
+        var containerHeight = container.offsetHeight;
+        containerBackground.style.setProperty('top', containerTop + 'px');
+        containerBackground.style.setProperty('height', containerHeight + 'px');
+    }
+}
+
 void function() {
     headerBackgroundHeight();
+    positionContainerBackground();
     sectionIndexHeight();
 
     window.addEventListener('resize', function() {
         headerBackgroundHeight();
+        positionContainerBackground();
         sectionIndexHeight();
     });
 }();
