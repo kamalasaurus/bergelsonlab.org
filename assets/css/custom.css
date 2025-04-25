@@ -128,9 +128,9 @@ div.index div.callouts div.study-area {
 .row {
     display: flex;
     flex-wrap: wrap; /* Allows items to wrap to the next row */
-    gap: 20px; /* Adds spacing between flex items */
+    gap: 40px; /* Adds spacing between flex items */
     justify-content: center; /* Centers the content horizontally */
-    margin-bottom: 20px; /* Adds spacing between rows */
+    margin-bottom: 40px; /* Adds spacing between rows */
     align-items: stretch; /* Ensures all items in the row have the same height */
 }
 
@@ -138,8 +138,8 @@ div.index div.callouts div.study-area {
     display: flex;
     flex-direction: column; /* Stacks text and square vertically */
     align-items: center; /* Centers text and square horizontally */
-    flex: 1 1 calc(50% - 20px); /* Each item takes 50% of the row minus the gap */
-    max-width: calc(50% - 20px); /* Ensures items don't exceed 50% width */
+    flex: 1 1 calc(50% - 40px); /* Each item takes 50% of the row minus the gap */
+    max-width: calc(50% - 40px); /* Ensures items don't exceed 50% width */
     justify-content: space-between; /* Ensures even spacing between text and square */
 }
 
