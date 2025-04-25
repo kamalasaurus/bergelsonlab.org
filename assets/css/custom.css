@@ -215,13 +215,14 @@ table.publications th, table.publications td {
 
 .google-scholar-link {
     display: inline-block;
-    background-color:rgb(68, 202, 171);
+    background-color:rgb(83, 131, 236);
     color: white;
     padding: 10px 20px;
     text-decoration: none;
     border-radius: 5px;
     margin-bottom: 20px;
     margin-left: 5px;
+    font-weight: bold;
 }
 
 .google-scholar-link:hover {
@@ -234,6 +235,118 @@ table.publications th, table.publications td {
     background-color: #333;
     color: white;
     cursor: pointer;
+}
+
+/* People Page */
+.people-grid {
+    display: grid;
+    grid-template-columns: 1fr; /* Single column layout */
+    gap: 20px; /* Spacing between grid items */
+    margin-top: 20px; /* Adds spacing above the grid */
+}
+
+.profile {
+    display: grid;
+    grid-template-columns: 100px 1fr; /* Fixed width for the image, flexible width for the description */
+    gap: 10px; /* Spacing between image and description */
+    align-items: center; /* Vertically aligns content */
+    background-color: #f9f9f9; /* Optional background color */
+    padding: 15px; /* Adds padding inside each profile */
+    border: 1px solid #ccc; /* Optional border */
+    border-radius: 5px; /* Optional rounded corners */
+}
+
+.profile-image img {
+    width: 100px; /* Ensures the image fits within the fixed column */
+    height: 100px; /* Ensures the image is square */
+    object-fit: cover; /* Ensures the image scales properly */
+    border-radius: 50%; /* Makes the image circular */
+}
+
+.description {
+    text-align: left; /* Aligns text to the left */
+}
+
+.description b {
+    font-size: 18px; /* Adjusts the font size for names */
+    color: #333; /* Optional text color */
+}
+
+/* Gallery */
+.gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 equal columns */
+    gap: 20px; /* Spacing between grid items */
+    margin-top: 20px; /* Adds spacing above the grid */
+}
+
+.card {
+    background-color: #f9f9f9; /* Optional background color */
+    padding: 15px; /* Adds padding inside each card */
+    border: 1px solid #ccc; /* Optional border */
+    border-radius: 5px; /* Optional rounded corners */
+    display: flex;
+    flex-direction: column; /* Stacks content vertically */
+    gap: 10px; /* Adds spacing between elements inside the card */
+}
+
+.card-wide {
+    grid-column: span 2; /* Makes the card span 2 columns */
+}
+
+.subtitle {
+    font-size: 18px; /* Adjust font size for subtitles */
+    font-weight: bold;
+    color: #333; /* Optional text color */
+}
+
+.image img {
+    width: 100%; /* Ensures the image fills the container */
+    height: auto; /* Maintains the aspect ratio */
+    border-radius: 5px; /* Optional rounded corners for images */
+}
+
+.description {
+    font-size: 14px; /* Adjust font size for descriptions */
+    color: #666; /* Optional text color */
+    text-align: left; /* Aligns text to the left */
+}
+
+/* Alumni */
+
+.alumni-grid {
+    display: grid;
+    grid-template-columns: 1fr; /* Single column for mobile by default */
+    gap: 10px; /* Spacing between rows */
+    margin-top: 20px;
+    border: 1px solid lightgray; /* Border around the entire grid */
+    border-radius: 5px; /* Optional rounded corners */
+    overflow: hidden; /* Ensures content stays inside the border */
+}
+
+.alumni-row {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 equal columns for desktop */
+    background-color: white;
+    padding: 10px;
+    border-bottom: 1px solid lightgray; /* Light gray border between rows */
+}
+
+.alumni-row:nth-child(even) {
+    background-color: #f9f9f9; /* Light gray background for alternating rows */
+}
+
+.alumni-row.header {
+    font-weight: bold;
+    background-color: #eaeaea; /* Slightly darker background for the header */
+    text-align: left;
+}
+
+.alumni-cell {
+    padding: 5px;
+    text-align: left;
+    font-size: 14px;
+    word-wrap: break-word; /* Ensures long text wraps */
 }
 
 @media print, screen and (max-width: 960px) {
@@ -342,6 +455,32 @@ table.publications th, table.publications td {
     table.publications td {
         padding-left: 5px;
         padding-right: 5px;
+    }
+    
+    .gallery-grid {
+        grid-template-columns: 1fr; /* Switch to a single column on narrow screens */
+    }
+
+    .alumni-row {
+        grid-template-columns: 1fr; /* Switch to single column for mobile */
+    }
+
+    .alumni-cell {
+        display: flex;
+        flex-direction: column;
+        padding: 10px 0;
+        border-bottom: 1px solid lightgray; /* Add borders between cells in mobile view */
+    }
+
+    .alumni-cell::before {
+        content: attr(data-label); /* Add labels for mobile view */
+        font-weight: bold;
+        margin-bottom: 5px;
+        color: #333;
+    }
+
+    .alumni-row.header {
+        display: none; /* Hide the header row on mobile */
     }
 }
 

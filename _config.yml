@@ -26,6 +26,16 @@ url: "bergelsonlab.org" # the base hostname & protocol for your site, e.g. http:
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
+subpages:
+  - title: "Adaptation"
+    url: "/adaptation"
+  - title: "Genomics"
+    url: "/genomics"
+  - title: "Microbe-Host Co-Evolution"
+    url: "/microbe-host-coevolution"
+  - title: "Microbial Networks & Communities"
+    url: "/microbial-networks-and-communities"
+
 # Build settings
 # theme: minima
 # plugins:
