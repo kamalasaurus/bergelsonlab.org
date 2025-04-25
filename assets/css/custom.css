@@ -3,6 +3,15 @@ body {
     margin: 0;
 }
 
+.header-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgb(68, 202, 171);
+    height: 20px;
+    width: 100%;
+}
+
 header {
     background-color: rgb(68, 202, 171);
     color: black;
@@ -49,6 +58,65 @@ header a:hover {
 header nav {
     position: relative;
     right: 0;
+}
+
+@media print, screen and (max-width: 960px) {
+    body header {
+        background-color: rgb(68, 202, 171);
+        color: black;
+        padding: 10px 0;
+        text-align: left;
+        width: 100%;
+        position: relative;
+        float: none;
+    }
+    body header h1 {
+        padding: 0 10px;
+        margin: 0 20px 0 10px;
+    }
+    
+    body header .item {
+        display: inline-block
+    }
+    
+    body header nav.item ul li {
+        display: inline-block;
+        padding-right: 30px;
+        box-sizing: content-box;
+    }
+    
+    body header nav.item ul li a:hover {
+        font-weight: normal !important;
+        text-decoration: underline;
+    }
+    
+    body header nav.item ul li a:focus {
+        font-weight: normal !important;
+        text-decoration: underline;
+    }
+    
+    body header a {
+        color: #333;
+        text-decoration: none;
+    }
+    
+    body header a:hover {
+        color: black;
+    }
+    
+    body header nav {
+        position: relative;
+        right: 0;
+    }
+
+    body nav ul {
+        list-style: none;
+        text-align: right;
+    }
+
+    header ul {
+        position: static;
+    }
 }
 
 nav ul {
