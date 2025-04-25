@@ -88,7 +88,7 @@ div.news {
     box-sizing: border-box;
 }
 
-b.about-title {
+b.section-title {
     display: inline-block;
     padding-bottom: 15px;
 }
@@ -99,7 +99,11 @@ div.index p, div.news ul {
     text-align: justify;
 }
 
-div.index b, div.news b {
+p {
+    text-align: justify;
+}
+
+div b.section-title, div.index b, div.news b {
     margin-left: 0;
 }
 
@@ -119,6 +123,49 @@ div.index div.callouts div.study-area {
     text-align: center;
     justify-content: center;
     align-items: center;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap; /* Allows items to wrap to the next row */
+    gap: 20px; /* Adds spacing between flex items */
+    justify-content: center; /* Centers the content horizontally */
+    margin-bottom: 20px; /* Adds spacing between rows */
+    align-items: stretch; /* Ensures all items in the row have the same height */
+}
+
+.flex-item {
+    display: flex;
+    flex-direction: column; /* Stacks text and square vertically */
+    align-items: center; /* Centers text and square horizontally */
+    flex: 1 1 calc(50% - 20px); /* Each item takes 50% of the row minus the gap */
+    max-width: calc(50% - 20px); /* Ensures items don't exceed 50% width */
+    justify-content: space-between; /* Ensures even spacing between text and square */
+}
+
+.text {
+    text-align: center; /* Centers the text horizontally */
+    margin-bottom: 10px; /* Adds spacing between text and square */
+    font-size: 16px; /* Adjust font size as needed */
+    color: #333; /* Text color */
+    flex-grow: 1; /* Ensures the text block stretches to fill available space */
+    display: flex;
+    align-items: center; /* Centers the text vertically within its container */
+    justify-content: center; /* Centers the text horizontally */
+}
+
+.square {
+    width: 100%; /* Ensures the square takes the full width of its container */
+    aspect-ratio: 1 / 1; /* Maintains a square aspect ratio */
+    background-color: #f0f0f0; /* Example background color */
+    display: flex;
+    justify-content: center; /* Centers content horizontally */
+    align-items: center; /* Centers content vertically */
+    border: 1px solid #ccc; /* Optional border */
+    border-radius: 5px; /* Optional rounded corners */
+    text-align: center;
+    font-size: 14px; /* Adjust font size as needed */
+    color: #333; /* Text color */
 }
 
 @media print, screen and (max-width: 960px) {
@@ -185,7 +232,7 @@ div.index div.callouts div.study-area {
         box-sizing: border-box;
         display: block;
     }
-    div.index b, div.news b {
+    div b.section-title, div.index b, div.news b {
         margin-left: 5px;
     }
 }
@@ -212,7 +259,7 @@ div.index div.callouts div.study-area {
         margin-left: 20px;
     }
 
-    div.index b, div.news b {
+    div b.section-title, div.index b, div.news b {
         margin-left: 5px;
     }
 }
