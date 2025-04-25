@@ -31,13 +31,13 @@ inclue:
 
 subpages:
   - title: "Adaptation"
-    url: "/adaptation"
+    url: "{{ site.baseurl }}/adaptation"
   - title: "Genomics"
-    url: "/genomics"
+    url: "{{ site.baseurl }}/genomics"
   - title: "Microbe-Host Co-Evolution"
-    url: "/microbe-host-coevolution"
+    url: "{{ site.baseurl }}/microbe-host-coevolution"
   - title: "Microbial Networks & Communities"
-    url: "/microbial-networks-and-communities"
+    url: "{{ site.baseurl }}/microbial-networks-and-communities"
 
 # Build settings
 # theme: minima

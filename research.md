@@ -16,22 +16,22 @@ We study the ecology and evolution of plant–pathogen interactions, focusing pr
 <div class="row">
     <div class="flex-item">
         <div class="text">How does natural selection shape genetic variation?</div>
-        <a href="/adaptation" class="square">Adaptation</a>
+        <a href="{% site.baseurl %}/adaptation" class="square">Adaptation</a>
     </div>
     <div class="flex-item">
         <div class="text">How does ecology influence molecular evolution?</div>
-        <a href="/genomics" class="square">Genomics</a>
+        <a href="{% site.baseurl %}/genomics" class="square">Genomics</a>
     </div>
 </div>
 
 <div class="row">
     <div class="flex-item">
         <div class="text">What factors shape plant-associated microbial communities?</div>
-        <a href="/microbe-host-coevolution" class="square">Microbe Host Coevolution</a>
+        <a href="{% site.baseurl %}/microbe-host-coevolution" class="square">Microbe Host Coevolution</a>
     </div>
     <div class="flex-item">
         <div class="text">How do plants cope with quickly evolving pathogens?</div>
-        <a href="/microbial-networks-and-communities" class="square">Microbial Networks and Communities</a>
+        <a href="{% site.baseurl %}/microbial-networks-and-communities" class="square">Microbial Networks and Communities</a>
     </div>
 </div>
 
