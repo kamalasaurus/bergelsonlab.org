@@ -85,6 +85,15 @@ b.about-title {
     padding-bottom: 15px;
 }
 
+div.index p, div.news ul {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+div.index b, div.news b {
+    margin-left: 0;
+}
+
 @media print, screen and (max-width: 960px) {
     body header {
         background-color: rgb(68, 202, 171);
@@ -149,6 +158,9 @@ b.about-title {
         box-sizing: border-box;
         display: block;
     }
+    div.index b, div.news b {
+        margin-left: 5px;
+    }
 }
 
 @media print, screen and (max-width: 720px) {
@@ -171,6 +183,10 @@ b.about-title {
     
     header nav {
         margin-left: 20px;
+    }
+
+    div.index b, div.news b {
+        margin-left: 5px;
     }
 }
 
