@@ -9,7 +9,7 @@
 
     <nav class="item">
         <ul>
-            {% assign custom_order = "Research,Publications,People,Resources,Contact" | split: ',' %}
+            {% assign custom_order = "Research,People,Publications,Resources,Contact" | split: ',' %}
             {% for order_item in custom_order %}
                 {% for page in site.pages %}
                     {% assign page_extension = page.path | split: '.' | last %}

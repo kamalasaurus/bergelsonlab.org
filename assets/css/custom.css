@@ -125,6 +125,7 @@ div.index div.callouts div.study-area {
     align-items: center;
 }
 
+/* Research Page */
 .row {
     display: flex;
     flex-wrap: wrap; /* Allows items to wrap to the next row */
@@ -166,6 +167,30 @@ div.index div.callouts div.study-area {
     text-align: center;
     font-size: 14px; /* Adjust font size as needed */
     color: #333; /* Text color */
+}
+
+/* Resources Page */
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 equal columns */
+    gap: 20px; /* Adds spacing between items */
+    margin: 20px 0; /* Adds spacing above and below the grid */
+}
+
+.grid-item {
+    background-color: #f0f0f0; /* Example background color */
+    padding: 20px; /* Adds padding inside each item */
+    text-align: left; /* Centers text inside the item */
+    border: 1px solid #ccc; /* Optional border */
+    border-radius: 5px; /* Optional rounded corners */
+    color: #333; /* Text color */
+}
+
+.placeholder {
+    height: 200px;
+    width: 200px;
+    margin: 20px auto; /* Centers the placeholder */
+    background-color: black;
 }
 
 @media print, screen and (max-width: 960px) {
@@ -261,6 +286,10 @@ div.index div.callouts div.study-area {
 
     div b.section-title, div.index b, div.news b {
         margin-left: 5px;
+    }
+
+    .grid-container {
+        grid-template-columns: 1fr; /* Switch to 1 column on narrow screens */
     }
 }
 
