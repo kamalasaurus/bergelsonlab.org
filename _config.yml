@@ -21,7 +21,7 @@
 title: "Bergelson Lab"
 email: "hello@me.com"
 description: "Plant Pathogen Interaction Lab"
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/bergelsonlab.org" # the subpath of your site, e.g. /blog
 url: "bergelsonlab.org" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
