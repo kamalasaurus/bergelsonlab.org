@@ -22,3 +22,5 @@ As part of NYU's Center for Genomics & Systems Biology we are located in the Gre
 <p>
 <b>Undergraduate Students</b>: We also welcome undergraduates who are hungry for a substantial research experience (15+ hours per week during school year or full time in summer).  Please email Joy  with a CV and summary of research interests. Undergraduate students can receive research credits.  Ideally, we expect a long-term commitment to a research project, typically two academic years. 
 </p>
+
+<br />
