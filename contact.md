@@ -5,22 +5,44 @@ permalink: /contact/
 ---
 <br />
 
-<b class="section-title">Joining the Lab</b>
+<header>
+  <img src="assets/images/Contact Banner.png" alt="Header Image" id="header-image">
+</header>
+
+<h1><b class="section-title">Contact</b></h1>
+<hr style="border: 1px solid black;">
 
 <p>
-We are looking for motivated junior and experienced scientists with an interest in fundamental questions in cell and developmental biology. Candidates with a background in genetics, cell biology, biochemistry, or biophysics are all encouraged to apply.
+We’re always excited to connect with creative and talented individuals. The Bergelson Lab brings together scientists to explore the complex relationships between plants and their microbial communities. Visit our <a href="/research.md">research page</a> to get a sense of what it’s like to be part of the lab.
+ 
 </p>
 <p>
-As part of NYU's Center for Genomics & Systems Biology we are located in the Greenwich Village neighborhood of Lower Manhattan, New York City, right by Washington Square Park. We are currently welcoming students and postdocs to join our laboratory:
+Interested in plant-microbe interactions, evolution in natural populations, or genomics? Reach out to Joy at jb7684[at]nyu[dot]edu to ask about opportunities in the lab.
 </p>
 <p>
-<b>Postdoctoral Fellows</b>: Please email Joy with your CV and a brief description of research interests. Also please provide letters or contacts of 3 references. We are particularly interested in post-doctoral candidates with expertise in ecology, environmental sciences, evolution, epidemiology, computer science, statistics, physics and applied math . All candidates must have a strong record of independent research.
+The lab is located in the Center for Genomics and Systems Biology, near Washington Square in NYC.
 </p>
-<p>
-<b>Graduate Students</b>: Prospective Graduate Students can apply to our lab through the NYU's <a href="http://as.nyu.edu/biology/graduate.html">Biology PhD Program</a> as well as through the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/phd-program/phd-training-programs/developmental-genetics">Developmental Genetics PhD Training Program</a>, from NYU School of Medicine. We welcome rotation students from the BCMB, Human Genetics, XDBio and BME programs. Contact Joy directly via e-mail to discuss potential rotation projects.
-</p>
-<p>
-<b>Undergraduate Students</b>: We also welcome undergraduates who are hungry for a substantial research experience (15+ hours per week during school year or full time in summer).  Please email Joy  with a CV and summary of research interests. Undergraduate students can receive research credits.  Ideally, we expect a long-term commitment to a research project, typically two academic years. 
-</p>
+<address>
+  Center for Genomics and Systems Biology<br>
+  12 Waverly Place<br>
+  Room 205<br>
+  New York, NY 10003<br>
+  Phone: (212) 998-8205
+</address>
 
-<br />
+<a href="https://www.google.com/maps/place/NYU+Center+for+Genomics+and+Systems+Biology/@40.7299347,-73.9970933,17z"
+   target="_blank" rel="noopener noreferrer">
+  Open in Google Maps
+</a>
+
+<iframe
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3021.8232922697853!2d-73.9970933!3d40.7299347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2599a6406a2bd%3A0x6f156b9c93f1d5ab!2sNYU%20Center%20for%20Genomics%20and%20Systems%20Biology!5e0!3m2!1sen!2sus!4v1715719029856!5m2!1sen!2sus"
+  width="400"
+  height="250"
+  style="border:1px solid #ccc; border-radius:6px; max-width: 100%;"
+  allowfullscreen=""
+  loading="lazy"
+  referrerpolicy="no-referrer-when-downgrade"
+  title="NYU CGSB Map">
+</iframe>
+

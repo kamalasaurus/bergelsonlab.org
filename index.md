@@ -21,7 +21,7 @@ layout: default
             <span>Microbial Networks & Communities</span>
         </div>
         <div class="face bottom">
-            <span>Genomics</span>
+            <span>microbial Interactions & Communities</span>
         </div>
     </div>
 </div>
@@ -31,6 +31,7 @@ layout: default
     <p>
     We study the ecology and evolution of plant–pathogen interactions, focusing primarily on Arabidopsis thaliana and the bacteria that reside within it. Our approach is interdisciplinary; we draw upon tools from molecular genetics, molecular evolution, computation, field biology, chemistry, and population genetics to understand how ecological interactions shape evolutionary dynamics. Many of our field experiments are performed in the Midwest, or abroad, at sites in Sweden and France.
     </p>
+
     <div class="callouts">
     {% for page in site.subpages %}
         <div class="study-area">

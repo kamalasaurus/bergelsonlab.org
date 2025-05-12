@@ -7,7 +7,7 @@ body {
     position: absolute;
     top: 0;
     left: 0;
-    background-color: rgb(68, 202, 171);
+    background-color: #3BA585;
     height: 20px;
     width: 100%;
 }
@@ -21,7 +21,7 @@ body {
 }
 
 header {
-    background-color: rgb(68, 202, 171);
+    background-color: #3BA585;
     color: black;
     padding: 10px 0;
     text-align: left;
@@ -168,6 +168,53 @@ div.index div.callouts div.study-area {
     font-size: 14px; /* Adjust font size as needed */
     color: #333; /* Text color */
 }
+
+/* Overlay Style */
+/* Container holding the image and the text */
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+  width: 100%; 
+  margin: 0 auto;      /* center horizontally */
+}
+
+/* Bottom left text */
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+/* Top left text */
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
+/* Top right text */
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
+
+/* Bottom right text */
+.bottom-right {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
 
 /* Resources Page */
 .grid-container {
@@ -317,7 +364,7 @@ table.publications th, table.publications td {
 .alumni-grid {
     display: grid;
     grid-template-columns: 1fr; /* Single column for mobile by default */
-    gap: 10px; /* Spacing between rows */
+    gap: 5px; /* Spacing between rows */
     margin-top: 20px;
     border: 1px solid lightgray; /* Border around the entire grid */
     border-radius: 5px; /* Optional rounded corners */
@@ -326,9 +373,9 @@ table.publications th, table.publications td {
 
 .alumni-row {
     display: grid;
-    grid-template-columns: repeat(4, 1fr); /* 4 equal columns for desktop */
+    grid-template-columns: 1fr 1fr 1fr 1fr; /* 4 equal columns for desktop */
     background-color: white;
-    padding: 10px;
+    padding: 2px 6px;
     border-bottom: 1px solid lightgray; /* Light gray border between rows */
 }
 
@@ -343,13 +390,68 @@ table.publications th, table.publications td {
 }
 
 .alumni-cell {
-    padding: 5px;
+    padding: 2px 4px;
     text-align: left;
-    font-size: 14px;
+    font-size: 10px;
     word-wrap: break-word; /* Ensures long text wraps */
 }
 
 /* Research Pages */
+
+/* Circle Profile */
+
+
+/* Overlay text block */
+
+.research-profile-row {
+    display: flex;
+    justify-content: space-between; /* or use space-around/space-evenly */
+    align-items: center;
+    gap: 16px; /* optional spacing between images */
+    flex-wrap: wrap; /* allows wrapping on small screens */
+    margin-top: 20px;
+    padding: 10px; /* Padding around the entire row */
+}
+
+/* Container holds the image and overlay text */
+
+.research-container {
+  position: relative;
+  width: 140px; /* smaller width */
+  height: 180px; /* taller for rectangle */
+  margin-bottom: 10px;
+}
+    
+/* Circular image */
+
+.research-profile-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 12px; /* rectangle with rounded corners */
+  border: 3px solid #4a4a4a;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+/* Overlay text */
+
+.research-text-block {
+    position: absolute;
+    bottom: 6px;
+    right: 6px;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    font-size: 10px;
+    padding: 6px 10px;
+    border-radius: 4px;
+    max-width: 85%; /* Keeps the text box within bounds */
+    line-height: 1.3;
+    text-align: right;
+    white-space: normal; /* Allows text to wrap */
+    word-break: break-word; /* Ensures long names/words break properly */
+}
+
+
 .research-grid-container {
     display: grid;
     grid-template-columns: repeat(2, 1fr); /* 2 equal columns */
