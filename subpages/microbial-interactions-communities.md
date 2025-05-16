@@ -8,7 +8,7 @@ permalink: /microbial-interactions-communities/
 <div class="research-grid-container">
     <div class="research-grid-item research-grid-span-2">Plants harbor diverse microbial communities that influence host health, development, fitness, and disease resistance. These plant–microbe interactions are dynamic, influenced by environmental factors, and mediated by host genetics, which can favor or suppress particular microbial taxa. Variation in resistance alleles across genotypes suggests frequency-dependent selection and an adaptive strategy for maintaining microbial balance. To understand the ecological roles and evolutionary histories of these plants, we must understand what these microbes are and how they colonize and interact with plant tissues and with each other.</div>
     <div class="research-grid-item">
-        <img src="assets/images/MIC-Image.jpg" alt="Placeholder Image" />
+        <img src="../assets/images/MIC-Image.jpg" alt="Placeholder Image" />
     </div>
     <div class="research-grid-item">
     <b>Microbial Interactions & Communities</b>
