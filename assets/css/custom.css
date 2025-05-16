@@ -426,12 +426,11 @@ table.publications th, table.publications td {
 
 .research-profile-row {
     display: flex;
-    justify-content: space-between; /* or use space-around/space-evenly */
-    align-items: center;
-    gap: 16px; /* optional spacing between images */
-    flex-wrap: wrap; /* allows wrapping on small screens */
+    flex-direction: column; /* Stack items vertically */
+    gap: 20px; /* Adds spacing between items */
     margin-top: 20px;
-    padding: 10px; /* Padding around the entire row */
+    padding: 10px;
+    margin-top: 150px;
 }
 
 /* Container holds the image and overlay text */
@@ -441,8 +440,23 @@ table.publications th, table.publications td {
   width: 300px; /* smaller width */
   height: 300px; /* taller for rectangle */
   border-radius: 150px;
+  margin-top: -150px;
+  cursor: pointer;
 }
-    
+ 
+.research-profile-row .research-container:nth-child(3n+1) {
+    align-self: flex-start; /* Aligns the first item of every group to the left */
+}
+
+.research-profile-row .research-container:nth-child(3n+2) {
+    align-self: flex-end; /* Aligns the second item of every group to the right */
+}
+
+.research-profile-row .research-container:nth-child(3n+3) {
+    align-self: center; /* Aligns the third item of every group to the left */
+    transform: translateX(-100px); /* Moves the 3rd row slightly left */
+}
+
 /* Circular image */
 
 img.research-profile {
@@ -458,14 +472,13 @@ img.research-profile {
 
 .research-text-block {
     position: absolute;
-    bottom: 0;
+    bottom: -10px;
     left: 60px;
     width: 100%;
     background-color: rgba(0, 0, 0, 0.7);
     color: white;
     padding: 6px 10px;
     border-radius: 4px;
-    max-width: 85%; /* Keeps the text box within bounds */
     line-height: 1.3;
     text-align: left;
     white-space: normal; /* Allows text to wrap */

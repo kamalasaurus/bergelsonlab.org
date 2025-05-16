@@ -17,46 +17,24 @@ A long-term focus of our laboratory has been to build genetic resources and tool
 We have made extensive collections of A. thaliana accessions, and made these available as well. We are currently collaborating on the 1001 Genome Project to sequence ~1100 A. thaliana accessions. These efforts have provided many opportunities to address questions in plant genomics and population structure.
 </p>
 
-<b class="section-title">Current area of focus</b>
-
-<div class="row">
-    <div class="flex-item">
-        <div class="text">How does natural selection shape genetic variation?</div>
-        <a href="{{ site.baseurl }}/adaptation" class="square">Adaptation</a>
-    </div>
-    <div class="flex-item">
-        <div class="text">What factors shape plant-associated microbial communities?</div> 
-        <a href="{{ site.baseurl }}/microbial-interactions-communities" class="square">Microbial Interactions & Communities</a>
-    </div>
-</div>
-
-<div class="row">
-    <div class="flex-item">
-        <div class="text">What drives the evolution and diversification of NLR genes in Arabidopsis species?</div>
-        <a href="{{ site.baseurl }}/NLR-evolution" class="square">NLR evolution in A. thaliana and its relatives</a>
-    </div>
-    <div class="flex-item">
-        <div class="text">How do plants cope with quickly evolving pathogens?</div>
-        <a href="{{ site.baseurl }}/coevolutionary-interactions" class="square">Coevolutionary interactions</a>
-    </div>
-</div>
+<b class="section-title">Current areas of focus</b>
 
 <div class="research-profile-row">
-  <div class="research-container">
+  <div class="research-container" onclick="window.location.href='{{ site.baseurl }}/microbial-interactions-communities'">
     <img src="../assets/images/MIC-Box.png" alt="MIC" class="research-profile">
     <div class="research-text-block">
       <h4 style="color: white;">Microbial Interactions & Communities</h4>
       <p>What factors shape plant-associated microbial communities?</p>
     </div>
   </div>
-  <div class="research-container">
+  <div class="research-container" onclick="window.location.href='{{ site.baseurl }}/NLR-evolution'">
     <img src="../assets/images/NLR-Box.png" alt="NLR" class="research-profile">
     <div class="research-text-block">
       <h4 style="color: white;">NLR evolution in A. thaliana</h4>
       <p>What drives the evolution and diversification of NLR genes in Arabidopsis species?</p>
     </div>
   </div>
-  <div class="research-container">
+  <div class="research-container" onclick="window.location.href='{{ site.baseurl }}/coevolutionary-interactions'">
     <img src="../assets/images/CI-Box.png" alt="CI" class="research-profile">
     <div class="research-text-block">
       <h4 style="color: white;">Coevolutionary Interactions</h4>
