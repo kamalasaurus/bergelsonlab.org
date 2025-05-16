@@ -22,7 +22,7 @@ permalink: /people/
     </div>
     <div class="profile">
         <div class="profile-image">
-            <img src="assets/images/Choghag.jpg" alt="Choghag" />
+            <img src="../assets/images/Choghag.jpg" alt="Choghag" />
         </div>
         <div class="description">
             <b>Choghag Demirjian</b>
@@ -44,7 +44,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
     </div>
     <div class="profile">
         <div class="profile-image">
-            <img src="assets/images/NYU.png" alt="Jacopo" />
+            <img src="../assets/images/NYU.png" alt="Jacopo" />
         </div>
         <div class="description">
             <b>Jacopo Cirrone</b>
@@ -54,7 +54,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
     </div>
     <div class="profile">
         <div class="profile-image">
-            <img src="assets/images/Luke.jpeg" alt="Luke" />
+            <img src="../assets/images/Luke.jpeg" alt="Luke" />
         </div>
         <div class="description">
             <b>Luke Henry</b>
