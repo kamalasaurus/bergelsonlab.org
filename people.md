@@ -37,7 +37,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
             <img src="../assets/images/NYU.png" alt="Hanna" />
         </div>
         <div class="description">
-            <b>Hanna Maerkle</b>
+            <b>Hanna Märkle</b>
             <p><b>Postdoctoral Fellow</b>, NYU</p>
             <p></p>
         </div>
