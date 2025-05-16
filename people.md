@@ -12,7 +12,7 @@ permalink: /people/
 <div class="people-grid">
     <div class="profile">
         <div class="profile-image">
-            <img src="assets/images/Joy Photo.png" alt="Joy Bergelson" />
+            <img src="../assets/images/Joy Photo.png" alt="Joy Bergelson" />
         </div>
         <div class="description">
             <b>Joy Bergelson</b>
@@ -34,7 +34,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
     </div>
 <div class="profile">
         <div class="profile-image">
-            <img src="assets/images/NYU.png" alt="Hanna" />
+            <img src="../assets/images/NYU.png" alt="Hanna" />
         </div>
         <div class="description">
             <b>Hanna Maerkle</b>
@@ -64,7 +64,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
     </div>
     <div class="profile">
         <div class="profile-image">
-            <img src="assets/images/NYU.png" alt="Em" />
+            <img src="../assets/images/NYU.png" alt="Em" />
         </div>
         <div class="description">
             <b>Em Schissler</b>
@@ -74,7 +74,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
     </div>
     <div class="profile">
         <div class="profile-image">
-            <img src="assets/images/NYU.png" alt="Daniel" />
+            <img src="../assets/images/NYU.png" alt="Daniel" />
         </div>
         <div class="description">
             <b>Daniel de Souza</b>
@@ -84,7 +84,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
     </div>
     <div class="profile">
         <div class="profile-image">
-            <img src="assets/images/Eric.jpg" alt="Eric" />
+            <img src="../assets/images/Eric.jpg" alt="Eric" />
         </div>
         <div class="description">
             <b>Eric Laderman</b>
@@ -94,7 +94,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
     </div>
     <div class="profile">
         <div class="profile-image">
-            <img src="assets/images/NYU.png" alt="Kamal" />
+            <img src="../assets/images/NYU.png" alt="Kamal" />
         </div>
         <div class="description">
             <b>Kamal Radharamanan</b>
@@ -104,7 +104,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
     </div>
     <div class="profile">
         <div class="profile-image">
-            <img src="assets/images/Yunze.png" alt="Yunze" />
+            <img src="../assets/images/Yunze.png" alt="Yunze" />
         </div>
         <div class="description">
             <b>Yunze Yang</b>
@@ -114,7 +114,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
     </div>
     <div class="profile">
         <div class="profile-image">
-            <img src="assets/images/Abbie.jpeg" alt="Abbie" />
+            <img src="../assets/images/Abbie.jpeg" alt="Abbie" />
         </div>
         <div class="description">
             <b>Abbie Patalinghug</b>
@@ -126,7 +126,7 @@ Originally from the Philippines and I have obtained my bachelors degree in Bioch
     </div> 
     <div class="profile">
         <div class="profile-image">
-            <img src="assets/images/NYU.png" alt="Harrison" />
+            <img src="../assets/images/NYU.png" alt="Harrison" />
         </div>
         <div class="description">
             <b>Harrison Vokshoor</b>
@@ -136,7 +136,7 @@ Originally from the Philippines and I have obtained my bachelors degree in Bioch
     </div>
     <div class="profile">
         <div class="profile-image">
-            <img src="assets/images/Hannah.jpg" alt="Hannah" />
+            <img src="../assets/images/Hannah.jpg" alt="Hannah" />
         </div>
         <div class="description">
             <b>Hannah Momsen</b>
@@ -146,7 +146,7 @@ Originally from the Philippines and I have obtained my bachelors degree in Bioch
     </div>
     <div class="profile">
         <div class="profile-image">
-            <img src="assets/images/NYU.png" alt="Sam" />
+            <img src="../assets/images/NYU.png" alt="Sam" />
         </div>
         <div class="description">
             <b>Sam Shteerman</b>
@@ -164,28 +164,28 @@ Originally from the Philippines and I have obtained my bachelors degree in Bioch
     <div class="card card-wide">
         <div class="subtitle">Card 1</div>
         <div class="image">
-            <img src="assets/images/Cherryblossom.png" alt="Example 1" />
+            <img src="../assets/images/Cherryblossom.png" alt="Example 1" />
         </div>
         <div class="description">This is a description for a wide card that spans 2 columns.</div>
     </div>
     <div class="card">
         <div class="subtitle">Card 2</div>
         <div class="image">
-            <img src="assets/images/Dinner.jpg" alt="Example 2" />
+            <img src="../assets/images/Dinner.jpg" alt="Example 2" />
         </div>
         <div class="description">This is a description for a regular card.</div>
     </div>
     <div class="card">
         <div class="subtitle">Card 3</div>
         <div class="image">
-            <img src="assets/images/Joy Celebration.jpg" alt="Example 3" />
+            <img src="../assets/images/Joy Celebration.jpg" alt="Example 3" />
         </div>
         <div class="description">This is another regular card.</div>
     </div>
     <div class="card card-wide">
         <div class="subtitle">Card 4</div>
         <div class="image">
-            <img src="assets/images/MB_journal_club_2018.jpg" alt="Example 4" />
+            <img src="../assets/images/MB_journal_club_2018.jpg" alt="Example 4" />
         </div>
         <div class="description">This is another wide card that spans 2 columns.</div>
     </div>
