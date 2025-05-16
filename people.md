@@ -34,7 +34,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
     </div>
 <div class="profile">
         <div class="profile-image">
-            <img src="../assets/images/NYU.png" alt="Hanna" />
+            <img src="../assets/images/Hanna.png" alt="Hanna" />
         </div>
         <div class="description">
             <b>Hanna Märkle</b>
