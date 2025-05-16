@@ -5,9 +5,10 @@ permalink: /contact/
 ---
 <br />
 
-<header>
-  <img src="assets/images/Contact Banner.png" alt="Header Image" id="header-image">
-</header>
+<div class="container">
+  <img src="assets/images/Contact Banner.png" alt="Banner" style="width:100%;">
+  <div class="centered">Coevolutionary interactions</div>
+</div>
 
 <h1><b class="section-title">Contact</b></h1>
 <hr style="border: 1px solid black;">
