@@ -178,14 +178,14 @@ Originally from the Philippines and I have obtained my bachelors degree in Bioch
     <div class="card">
         <div class="subtitle">Card 3</div>
         <div class="image">
-            <img src="assets/images/Jo Celebration.jpg" alt="Example 3" />
+            <img src="assets/images/Joy Celebration.jpg" alt="Example 3" />
         </div>
         <div class="description">This is another regular card.</div>
     </div>
     <div class="card card-wide">
         <div class="subtitle">Card 4</div>
         <div class="image">
-            <img src="assets/images/MB_journal_club_2918.jpg" alt="Example 4" />
+            <img src="assets/images/MB_journal_club_2018.jpg" alt="Example 4" />
         </div>
         <div class="description">This is another wide card that spans 2 columns.</div>
     </div>
