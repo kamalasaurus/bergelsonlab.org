@@ -6,7 +6,7 @@ permalink: /contact/
 <br />
 
 <div class="container">
-  <img src="assets/images/Contact Banner.png" alt="Banner" style="width:100%;">
+  <img src="assets/images/Contact_Banner.png" alt="Banner" style="width:100%;">
 </div>
 
 <h1><b class="section-title">Contact</b></h1>
