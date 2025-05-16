@@ -9,7 +9,6 @@ permalink: /people/
 
 <div class="container">
   <img src="../assets/images/PostDoc.png" alt="Banner" style="width:100%;">
-  <div class="centered">Coevolutionary interactions</div>
 </div>
 
 <div class="people-grid">
