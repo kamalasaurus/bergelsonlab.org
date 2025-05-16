@@ -690,6 +690,18 @@ footer img {
     height: 100px;
 }
 
+/* Contact Page */
+
+.address-link {
+    display: block;
+}
+
+.address-container iframe, .address-container address {
+    display: inline-block;
+    margin-right: 20px;
+    vertical-align: top;
+}
+
 .cube-container {
     display: flex;
     justify-content: center;
