@@ -84,12 +84,12 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
     </div>
     <div class="profile">
         <div class="profile-image">
-            <img src="assets/images/NYU.png" alt="Eric" />
+            <img src="assets/images/Eric.jpg" alt="Eric" />
         </div>
         <div class="description">
             <b>Eric Laderman</b>
             <p><b>PhD Student</b>, NYU</p>
-            <p></p>
+            <p>Eric is a PhD student in the Bergelson lab. He is interested in understanding how strain-level variation in plant pathogens is maintained and how such variation affects disease outcomes and bacterial competition in the phyllosphere. Before joining the Bergelson lab, he graduated from Dartmouth College in 2020 with a BS in Biology and Biological Chemistry. While at Dartmouth, he worked in the Guerinot lab, where he studied how plants alter photosynthesis in response to iron deficiency. After graduating Dartmouth, he researched how phages overcome CRISPR immunity in Listeria in the Bondy-Denomy lab at UCSF. When he's not in the lab, you can probably find Eric playing tennis or enjoying a picnic in Central Park.</p>
         </div>
     </div>
     <div class="profile">
