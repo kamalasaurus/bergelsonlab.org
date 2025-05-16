@@ -18,6 +18,7 @@ permalink: /people/
             <b>Joy Bergelson</b>
             <p><b>PI</b>, Executive Vice President of Life Sciences, Simons Foundation NY Silver Professor and Provostial Fellow, New York University</p>
             <p>jb7684[at]nyu[dot]edu</p>
+            <p> <a href="/assets/images/d4c92-allvars948_notnormd_011311.zip" download>CV</a></p>
         </div>
     </div>
     <div class="profile">
