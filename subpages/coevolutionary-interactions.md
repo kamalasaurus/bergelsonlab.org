@@ -4,7 +4,7 @@ title: Coevolutionary Interactions
 permalink: /coevolutionary-interactions/
 ---
 <div class="container">
-  <img src="CI Banner.jpg" alt="Banner" style="width:100%;">
+  <img src="../CI Banner.jpg" alt="Banner" style="width:100%;">
   <div class="centered">Coevolutionary interactions</div>
 </div>
 
