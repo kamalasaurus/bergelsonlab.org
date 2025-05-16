@@ -7,7 +7,7 @@ permalink: /NLR-evolution/
 <div class="research-grid-container">
     <div class="research-grid-item research-grid-span-2">The evolution of NLR (nucleotide-binding leucine-rich repeat) genes in Arabidopsis thaliana and its relatives represents a dynamic and complex adaptation to microbial pressures. These genes, including well-studied resistance (R) genes such as RPS5, RPS2, RPM1, and RPP8, play a central role in plant immunity. They recognize specific pathogen effectors and initiate defense responses that shape the composition and structure of associated microbial communities. The leucine-rich repeat (LRR) domains of many NLRs exhibit high polymorphism, which allows plants to detect a wide array of microbial signals. However, not all NLRs evolve similarly. Some follow presence/absence polymorphism patterns and show lower LRR variation, suggesting multiple evolutionary strategies are at play.</div>
     <div class="research-grid-item">
-        <img src="assets/images/NLR-Image.png" alt="Placeholder Image" />
+        <img src="../assets/images/NLR-Image.png" alt="Placeholder Image" />
     </div>
     <div class="research-grid-item">
     <b>NLR Evolution in A. thaliana and its Relatives</b>
