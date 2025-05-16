@@ -7,7 +7,10 @@ permalink: /people/
 
 <h1><b class="section-title">People</b></h1>
 
-<div class="cube-container"></div>
+<div class="container">
+  <img src="../assets/images/PostDoc.png" alt="Banner" style="width:100%;">
+  <div class="centered">Coevolutionary interactions</div>
+</div>
 
 <div class="people-grid">
     <div class="profile">
@@ -27,7 +30,7 @@ permalink: /people/
         <div class="description">
             <b>Choghag Demirjian</b>
             <p><b>Postdoctoral Fellow</b>, NYU</p>
-            <p>I am a postdoctoral fellow in the compRgene project, which investigates the evolution of plant NLR genes across three Brassicaceae species. My research combines genomics, ecology, and functional biology to understand how genetic variation in both plants and pathogens shapes their evolutionary dynamics and immune responses. During my PhD, I studied how specific pathogenicity factors of Ralstonia solanacearum influence immune responses in Arabidopsis thaliana. Using natural variation in the host and effector mutants in the pathogen, I explored immune dynamics across both global and local plant populations and functionally validated genes, including an NLR gene, involved in susceptibility rather than resistance.
+            <p>I am a postdoctoral fellow in the compRgene project, which investigates the evolution of plant NLR genes across three Brassicaceae species. My research combines genomics, ecology, and functional biology to understand how genetic variation in both plants and pathogens shapes their evolutionary dynamics and immune responses. During my PhD, I studied how specific pathogenicity factors of Ralstonia solanacearum influence immune responses in <em>Arabidopsis thaliana</em>. Using natural variation in the host and effector mutants in the pathogen, I explored immune dynamics across both global and local plant populations and functionally validated genes, including an NLR gene, involved in susceptibility rather than resistance.
 I am deeply motivated by the challenge of uncovering the molecular basis of complex biological processes, particularly the plant immune system. Outside the lab, I enjoy hiking, cooking, and discovering new cuisines—activities that reflect my curiosity and love for exploration, both in science and in life.
 </p>
         </div>
@@ -71,7 +74,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
         <div class="description">
             <b>Em Schissler</b>
             <p><b>Laboratory Associate/Manager</b>, NYU</p>
-            <p>I earned a bachelor’s degree in Biology from Occidental College with a focus on zoology, followed by a master’s in Biology, concentrating in bioinformatics and systems biology, at New York University. There, I conducted analyses to study the decline of Phoenix theophrasti and contributed to research on new treatments and diagnostic tools for Alzheimer’s disease and vascular biomarkers at NYU Langone. Currently, I oversee laboratory operations and organization, work closely with principal investigators on grant administration, support postdoctoral fellows with computational research projects, and manage a range of lab-related administrative tasks. Outside the lab, I enjoy volunteering with animals—especially given my background in exotic and domestic animal care—and spend my free time at the theater, rock climbing, and playing card games.</p>
+            <p>I earned a bachelor’s degree in Biology from Occidental College with a focus on zoology, followed by a master’s in Biology, concentrating in bioinformatics and systems biology, at New York University. There, I conducted analyses to study the decline of <em>Phoenix theophrasti</em> and contributed to research on new treatments and diagnostic tools for Alzheimer’s disease and vascular biomarkers at NYU Langone. Currently, I oversee laboratory operations and organization, work closely with principal investigators on grant administration, support postdoctoral fellows with computational research projects, and manage a range of lab-related administrative tasks. Outside the lab, I enjoy volunteering with animals—especially given my background in exotic and domestic animal care—and spend my free time at the theater, rock climbing, and playing card games.</p>
         </div>
     </div>
     <div class="profile">
@@ -91,7 +94,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
         <div class="description">
             <b>Eric Laderman</b>
             <p><b>PhD Student</b>, NYU</p>
-            <p>Eric is a PhD student in the Bergelson lab. He is interested in understanding how strain-level variation in plant pathogens is maintained and how such variation affects disease outcomes and bacterial competition in the phyllosphere. Before joining the Bergelson lab, he graduated from Dartmouth College in 2020 with a BS in Biology and Biological Chemistry. While at Dartmouth, he worked in the Guerinot lab, where he studied how plants alter photosynthesis in response to iron deficiency. After graduating Dartmouth, he researched how phages overcome CRISPR immunity in Listeria in the Bondy-Denomy lab at UCSF. When he's not in the lab, you can probably find Eric playing tennis or enjoying a picnic in Central Park.</p>
+            <p>I'm a PhD student in the Bergelson lab, where I'm interested in understanding how strain-level variation in plant pathogens is maintained and how this variation affects disease outcomes and bacterial competition in the phyllosphere. I graduated from Dartmouth College in 2020 with a BS in Biology and Biological Chemistry. While at Dartmouth, I worked in the Guerinot lab studying how plants alter photosynthesis in response to iron deficiency. After graduating, I joined the Bondy-Denomy lab at UCSF, where I researched how phages overcome CRISPR immunity in Listeria. When I’m not in the lab, you can probably find me playing tennis or enjoying a picnic in Central Park.</p>
         </div>
     </div>
     <div class="profile">
@@ -111,7 +114,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
         <div class="description">
             <b>Yunze Yang</b>
             <p><b>PhD Student</b>, NYU</p>
-            <p>I earned my bachelor’s degree in Ecology from Zhejiang University, China, where I became fascinated by species interactions and studied the Rice-Fish symbiosis system and microbes in the rice paddy, like methanotrophs. Then I pursued my master’s degree at NYU, studied the diversity of plant pathogen Pseudomonas syringae’s effectors in wild populations in the Bergelson Lab. Currently, I am a PhD student co-advised by Dr. Joy Bergelson and Dr. Gloria Coruzzi. My research focuses on the interaction between rice and its root-associated microbiome, aiming to identify the rice genetic factors that determine the diverse microbiome composition and function across rice varieties by integrating multi-omics data and machine-learning methods.</p>
+            <p>I earned my bachelor’s degree in Ecology from Zhejiang University, China, where I became fascinated by species interactions and studied the Rice-Fish symbiosis system and microbes in the rice paddy, like methanotrophs. Then I pursued my master’s degree at NYU, studied the diversity of plant pathogen <em>Pseudomonas syringae’s</em> effectors in wild populations in the Bergelson Lab. Currently, I am a PhD student co-advised by Dr. Joy Bergelson and Dr. Gloria Coruzzi. My research focuses on the interaction between rice and its root-associated microbiome, aiming to identify the rice genetic factors that determine the diverse microbiome composition and function across rice varieties by integrating multi-omics data and machine-learning methods.</p>
         </div>
     </div>
     <div class="profile">
