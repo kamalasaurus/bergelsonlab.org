@@ -438,18 +438,18 @@ table.publications th, table.publications td {
 
 .research-container {
   position: relative;
-  width: 140px; /* smaller width */
-  height: 180px; /* taller for rectangle */
-  margin-bottom: 10px;
+  width: 300px; /* smaller width */
+  height: 300px; /* taller for rectangle */
+  border-radius: 150px;
 }
     
 /* Circular image */
 
-.research-profile-img {
+img.research-profile {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  border-radius: 12px; /* rectangle with rounded corners */
+  border-radius: 150px; /* rectangle with rounded corners */
   border: 3px solid #4a4a4a;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
 }
@@ -458,20 +458,28 @@ table.publications th, table.publications td {
 
 .research-text-block {
     position: absolute;
-    bottom: 6px;
-    right: 6px;
+    bottom: 0;
+    left: 60px;
+    width: 100%;
     background-color: rgba(0, 0, 0, 0.7);
     color: white;
-    font-size: 10px;
     padding: 6px 10px;
     border-radius: 4px;
     max-width: 85%; /* Keeps the text box within bounds */
     line-height: 1.3;
-    text-align: right;
+    text-align: left;
     white-space: normal; /* Allows text to wrap */
     word-break: break-word; /* Ensures long names/words break properly */
 }
 
+.research-text-block h4 {
+    font-size: 14px;
+}
+
+.research-text-block p {
+    font-size: 12px; /* Adjust font size for descriptions */
+    text-align: left;
+}
 
 .research-grid-container {
     display: grid;
