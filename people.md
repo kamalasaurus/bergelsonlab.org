@@ -39,7 +39,9 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
         <div class="description">
             <b>Hanna Märkle</b>
             <p><b>Postdoctoral Fellow</b>, NYU</p>
-            <p></p>
+            <p>I joined the Bergelson lab in Chicago as Dropkin fellow in January 2020 and moved with the lab to New York University in July 2021. I’m fascinated by obtaining a better understanding of the interactions between hosts and pathogens, their long term (co)evolutionary dynamics, the genes involved in such interactions and the relevant contributions of ecology, functional biology and genomic architecture. My current research focuses on understanding the ecological, genomic and functional drivers of plant resistance gene evolution. Therefore, I’m studying accessions of three phylogenetically related Brassicaceae species (Arabidopsis thaliana, Cardamine hirsuta and Draba verna) which have been collected in the Midi-Pyrenees, France. My work combines genomic data analysis, bioinformatic methods and modeling techniques. Within the project I’m closely collaborating with Choghag Demirjian who is running the corresponding phenotyping experiments and functional studies in the lab.
+
+</p>
         </div>
     </div>
     <div class="profile">
