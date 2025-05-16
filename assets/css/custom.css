@@ -21,21 +21,42 @@ body {
 }
 
 header {
+    position: relative;
+    display: flex; /* Enables Flexbox */
+    align-items: stretch; /* Ensures all child elements (e.g., .item) stretch to the same height */
+    justify-content: space-between; /* Distributes space between items */
     background-color: #3BA585;
     color: black;
-    padding: 10px 0;
-    text-align: left;
+    padding: 0 20px; /* Adds horizontal padding */
     width: 100%;
-    position: relative;
-    float: none;
+    height: 80px; /* Set a fixed height for the header */
+    box-sizing: border-box; /* Includes padding in height/width calculations */
+    z-index: 10;
 }
-header h1 {
-    padding: 0 10px;
-    margin: 0 20px 0 10px;
+
+section {
+    position: relative;
+    z-index: 1;
 }
 
 header .item {
-    display: inline-block
+    display: flex; /* Enables Flexbox for the .item elements */
+    align-items: center; /* Vertically centers content inside each .item */
+    justify-content: center; /* Horizontally centers content inside each .item */
+    height: 100%; /* Ensures each .item matches the height of the header */
+    padding: 0 10px; /* Optional: Adds horizontal padding inside each .item */
+    box-sizing: border-box; /* Ensures padding is included in the height calculation */
+}
+
+header div.item {
+    position: relative;
+    width: 200px;
+}
+
+header div.item a {
+    line-height: 100%;
+    font-weight: bold;
+    font-size: 20px;
 }
 
 header nav.item ul li {
