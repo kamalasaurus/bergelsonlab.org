@@ -5,10 +5,6 @@ permalink: /contact/
 ---
 <br />
 
-<div class="container">
-  <img src="assets/images/Contact_Banner.png" alt="Banner" style="width:100%;">
-</div>
-
 <h1><b class="section-title">Contact</b></h1>
 <hr style="border: 1px solid black;">
 
