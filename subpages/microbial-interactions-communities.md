@@ -9,14 +9,13 @@ permalink: /microbial-interactions-communities/
 </div>
 
 <div class="research-grid-container">
-    <div class="research-grid-item research-grid-span-2">Plants harbor diverse microbial communities that influence host health, development, fitness, and disease resistance. These plant–microbe interactions are dynamic, influenced by environmental factors, and mediated by host genetics, which can favor or suppress particular microbial taxa. Variation in resistance alleles across genotypes suggests frequency-dependent selection and an adaptive strategy for maintaining microbial balance. To understand the ecological roles and evolutionary histories of these plants, we must understand what these microbes are and how they colonize and interact with plant tissues and with each other.</div>
+    <div class="research-grid-item research-grid-span-2">Plants harbor diverse microbial communities that influence health, development, and disease resistance—shaped by host genetics, environment, and microbe–microbe interactions. To uncover the genetic and ecological mechanisms driving these dynamics, we study how microbes colonize and interact with plant tissues using Arabidopsis thaliana and rice as models.</div>
     <div class="research-grid-item">
         <img src="../assets/images/MIC-Image.jpg" alt="Placeholder Image" />
     </div>
     <div class="research-grid-item">
     <b>Microbial Interactions & Communities</b>
-    <p>Microbial community structure differs between plant tissues and environments, influenced by the microorganisms living in and on leaves (the phyllosphere) and roots (the rhizosphere). Key microbial “hubs” affected by host genetics play outsized roles in community assembly. Understanding how host genes structure these interactions can reveal mechanisms that promote beneficial microbes and limit pathogen invasion.
-Although patterns of association can provide insights into microbial ecology, mechanistic understanding requires experimentation. We are cultivating microbes associated with Arabidopsis thaliana populations collected from Sweden, France, and North America, and thousands of bacterial and fungal OTUs have already been identified within plant tissues. In parallel, we investigate species interactions to better understand how host genotype influences community structure. Ultimately, our research aims to enhance plant resistance by identifying conditions and host traits that foster beneficial microbial communities.
+    <p>In <em>A. thaliana</em>, we cultivate and characterize microbes from natural populations in Sweden, France, and North America, using genome-wide association studies (GWAS), multi-year fieldwork, and culturing to identify host loci influencing microbiome composition and plant fitness. In rice, we integrate multi-omics data and machine learning to dissect the genetic basis of root microbiome variation across varieties. Across systems, we focus on microbial “hub” species whose colonization and interactions are strongly shaped by host genotype, and we use controlled experiments to test the function of candidate genes and host traits in structuring microbial communities. Ultimately, our work aims to reveal how plants promote beneficial microbes, limit pathogens, and enhance resistance..
     </p>
     </div>
 </div>
