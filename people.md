@@ -48,7 +48,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
     </div>
     <div class="profile">
         <div class="profile-image">
-            <img src="../assets/images/NYU.png" alt="Jacopo" />
+            <img src="../assets/images/Bio.png" alt="Jacopo" />
         </div>
         <div class="description">
             <b>Jacopo Cirrone</b>
@@ -98,7 +98,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
     </div>
     <div class="profile">
         <div class="profile-image">
-            <img src="../assets/images/NYU.png" alt="Kamal" />
+            <img src="../assets/images/Bio.png" alt="Kamal" />
         </div>
         <div class="description">
             <b>Kamal Radharamanan</b>
@@ -130,7 +130,7 @@ Originally from the Philippines and I have obtained my bachelors degree in Bioch
     </div> 
     <div class="profile">
         <div class="profile-image">
-            <img src="../assets/images/NYU.png" alt="Harrison" />
+            <img src="../assets/images/Bio.png" alt="Harrison" />
         </div>
         <div class="description">
             <b>Harrison Vokshoor</b>
@@ -150,7 +150,7 @@ Originally from the Philippines and I have obtained my bachelors degree in Bioch
     </div>
     <div class="profile">
         <div class="profile-image">
-            <img src="../assets/images/NYU.png" alt="Sam" />
+            <img src="../assets/images/Bio.png" alt="Sam" />
         </div>
         <div class="description">
             <b>Sam Shteerman</b>
