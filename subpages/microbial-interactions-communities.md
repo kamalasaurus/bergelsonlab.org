@@ -9,7 +9,7 @@ permalink: /microbial-interactions-communities/
 </div>
 
 <div class="research-grid-container">
-    <div class="research-grid-item research-grid-span-2">Plants harbor diverse microbial communities that influence health, development, and disease resistance—shaped by host genetics, environment, and microbe–microbe interactions. To uncover the genetic and ecological mechanisms driving these dynamics, we study how microbes colonize and interact with plant tissues using Arabidopsis thaliana and rice as models.</div>
+    <div class="research-grid-item research-grid-span-2">Plants harbor diverse microbial communities that influence health, development, and disease resistance—shaped by host genetics, environment, and microbe–microbe interactions. To uncover the genetic and ecological mechanisms driving these dynamics, we study how microbes colonize and interact with plant tissues using <em>Arabidopsis thaliana</em> and rice as models.</div>
     <div class="research-grid-item">
         <img src="../assets/images/MIC-Image.jpg" alt="Placeholder Image" />
     </div>
