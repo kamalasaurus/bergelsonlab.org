@@ -14,7 +14,6 @@ permalink: /coevolutionary-interactions/
         <img src="../assets/images/CI-Image.jpg" alt="Placeholder Image" />
     </div>
     <div class="research-grid-item">
-    <b>Coevolutionary Interactions</b>
     <p>Coevolution between plants and microbes is a complex, context-dependent process shaped by factors such as climate history, R-gene expression variability, and reciprocal adaptation between hosts and their microbiomes. Gene families like RPP8 illustrate how duplication and conversion generate immune diversity in response to dynamic microbial environments. The hologenome concept further suggests that host and microbiome genomes function as a single evolutionary unit, or holobiont, though this idea remains controversial and demands rigorous testing. Ultimately, these interactions influence not only disease resistance but also overall plant performance and microbial community structure, revealing how ecological and evolutionary networks drive the coevolution of plant immunity.
     </p>
     </div>
