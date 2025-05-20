@@ -150,12 +150,12 @@ Originally from the Philippines and I have obtained my bachelors degree in Bioch
     </div>
     <div class="profile">
         <div class="profile-image">
-            <img src="../assets/images/Bio.png" alt="Sam" />
+            <img src="../assets/images/Sam.jpg" alt="Sam" />
         </div>
         <div class="description">
             <b>Sam Shteerman</b>
             <p><b>Undergraduate Researcher</b>, NYU</p>
-            <p>.</p>
+            <p>I'm a native New Yorker studying biochemistry at NYU, graduating in 2027. I'm working with the amazing postdoctoral fellow Lucas Henry, investigating the way that seasonal processes shape the Arabidopsis Thaliana microbiome. I've been studying the microbial make up of Arabidopsis populations native to New York city, along with helping out more generally with the Pathocom project. Besides my lab work, in my free time I enjoy reading, running, and the great outdoors.</p>
         </div>
     </div>
 </div>
