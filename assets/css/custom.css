@@ -504,7 +504,7 @@ img.research-profile {
 .research-grid-item {
     background-color: #BFEBDD; /* Optional background color */
     padding: 15px; /* Adds padding inside each item */
-    border: 1px solid #ccc; /* Optional border */
+    border: 1px solid #000000; /* Optional border */
     border-radius: 5px; /* Optional rounded corners */
     text-align: center; /* Centers text inside the item */
 }
