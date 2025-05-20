@@ -318,9 +318,9 @@ table.publications th, table.publications td {
     grid-template-columns: 100px 1fr; /* Fixed width for the image, flexible width for the description */
     gap: 10px; /* Spacing between image and description */
     align-items: center; /* Vertically aligns content */
-    background-color: #f9f9f9; /* Optional background color */
+    background-color: #BFEBDD; /* Optional background color */
     padding: 15px; /* Adds padding inside each profile */
-    border: 1px solid #ccc; /* Optional border */
+    border: 1px solid #000000; /* Optional border */
     border-radius: 5px; /* Optional rounded corners */
 }
 
