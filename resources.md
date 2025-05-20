@@ -7,22 +7,13 @@ permalink: /resources/
 
 <h1><b class="section-title">Resources</b></h1>
 
-
 <hr>
 <h2>Software Resources</h2>
 
-<div class="clearfix">
-  <img src="../assets/images/16Stimator.png" alt="16Stimator" align="left" hspace="10" vspace="10">
 <h3>16Stimator</h3>
-<p>
-  Generate 16S rRNA gene (16S) copy number estimates for bacterial genomes based on comparison of sequencing read depths of ribosomal and single copy gene regions. Find more information about the development of the 16Stimator pipeline in our <a href="https://bergelsonlab.org/2015/10/26/behind-the-paper-16stimator/">blog post</a>. The method is published in: Perisin et al. 2015. Unfortunately, the publication is not open access (please e-mail to retrieve a copy) but the <a href="https://bitbucket.org/perisin/16stimator/src/master/">code of 16Stimator is freely available</a>
-</p>
-</div>
-
 <div style="display: flex; align-items: flex-start; gap: 10px;">
   <img src="../assets/images/16Stimator.png" alt="16Stimator" style="max-width: 200px; height: auto;">
   <div>
-    <h3>16Stimator</h3>
     <p>
       Generate 16S rRNA gene (16S) copy number estimates for bacterial genomes based on comparison of sequencing read depths of ribosomal and single copy gene regions. Find more information about the development of the 16Stimator pipeline in our <a href="https://bergelsonlab.org/2015/10/26/behind-the-paper-16stimator/">blog post</a>. The method is published in: Perisin et al. 2015. Unfortunately, the publication is not open access (please e-mail to retrieve a copy) but the <a href="https://bitbucket.org/perisin/16stimator/src/master/">code of 16Stimator is freely available</a>.
     </p>
