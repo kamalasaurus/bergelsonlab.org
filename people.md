@@ -8,7 +8,7 @@ permalink: /people/
 <h1><b class="section-title">People</b></h1>
 
 <div class="container">
-  <img src="../assets/images/PostDoc.png" alt="Banner" style="width:100%; border: 5px solid #ccc;">
+  <img src="../assets/images/PostDoc.png" alt="Banner" style="width:100%; border: 1px solid #000000;">
 </div>
 
 <div class="people-grid">
