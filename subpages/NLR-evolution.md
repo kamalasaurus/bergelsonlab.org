@@ -11,7 +11,7 @@ permalink: /NLR-evolution/
 <div class="research-grid-container">
     <div class="research-grid-item research-grid-span-2">The evolution of NLR (nucleotide-binding leucine-rich repeat) genes in <em>Arabidopsis thaliana</em> and its relatives reflects adaptation to microbial threats, with these resistance (R) genes key to detecting pathogen effectors and triggering immunity. We investigate the ecological, genomic, and functional drivers of R gene evolution by studying NLR-effector interactions across global and local populations.</div>
     <div class="research-grid-item">
-        <img src="../assets/images/NLR-Image2.png" alt="Placeholder Image" />
+        <img src="../assets/images/NLR-Image2.jpg" alt="Placeholder Image" />
     </div>
     <div class="research-grid-item">
     <p>
