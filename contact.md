@@ -10,6 +10,7 @@ permalink: /contact/
 </div>
 
 <h1><b class="section-title">Contact</b></h1>
+
 <hr style="border: 1px solid black;">
 
 <p>
