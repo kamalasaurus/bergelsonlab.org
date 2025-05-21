@@ -17,7 +17,7 @@ A long-term focus of our laboratory has been to build genetic resources and tool
 We have made extensive collections of A. thaliana accessions, and made these available as well. We are currently collaborating on the 1001 Genome Project to sequence ~1100 A. thaliana accessions. These efforts have provided many opportunities to address questions in plant genomics and population structure.
 </p>
 
-<b class="section-title">Current areas of focus</b>
+<h2><b class="section-title">Current areas of focus</b></h2>
 
 <div class="research-profile-row">
   <div class="research-container" onclick="window.location.href='{{ site.baseurl }}/microbial-interactions-communities'">
