@@ -67,7 +67,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
         <div class="description">
             <b>Luke Henry</b>
             <p><b>Postdoctoral Fellow</b>, NYU</p>
-            <p> My research interests are focused on eco-evolutionary dynamics in host-associated microbiomes. I’ve worked in a wide range of systems, from the ecology of Lyme disease to sunflower domestication to mitochondria-Wolbachia interactions during oogenesis. My dissertation focused on the evolutionary potential of host-associated microbiomes by using <em>Drosophila melanogaster</em> to explore the relative contribution of the microbiome to local adaptation. Now, in the Bergelson lab, I investigate 1) the impact of host-microbiome interactions on pathogen dynamics, 2) seasonal processes that shape the Arabidopsis microbiome, and 3) ecologically informed microbiome engineering.</p>
+            <p> My research interests are focused on eco-evolutionary dynamics in host-associated microbiomes. I’ve worked in a wide range of systems, from the ecology of Lyme disease to sunflower domestication to mitochondria-Wolbachia interactions during oogenesis. My dissertation focused on the evolutionary potential of host-associated microbiomes by using <em>Drosophila melanogaster</em> to explore the relative contribution of the microbiome to local adaptation. Now, in the Bergelson lab, I investigate 1) the impact of host-microbiome interactions on pathogen dynamics, 2) seasonal processes that shape the <em>Arabidopsis</em> microbiome, and 3) ecologically informed microbiome engineering.</p>
         </div>
     </div>
     <div class="profile">
@@ -149,7 +149,7 @@ Originally from the Philippines and I have obtained my bachelors degree in Bioch
         <div class="description">
             <b>Hannah Momsen</b>
             <p><b>Undergraduate Researcher</b>, NYU</p>
-            <p>I am originally from San Francisco, CA and will be graduating from NYU in 2026 with a major in Biology and minor in Anthropology. At the Bergelson Lab, I have been working with Choghag Demirjian on the Comparative R Genes project, conducting phenotypic screens of disease response in A. thaliana. I is particularly interested in immunology and disease research and is looking forward to further exploring both throughout my career. In her free time, I love to run.</p>
+            <p>I am originally from San Francisco, CA and will be graduating from NYU in 2026 with a major in Biology and minor in Anthropology. At the Bergelson Lab, I have been working with Choghag Demirjian on the Comparative R Genes project, conducting phenotypic screens of disease response in <em>A. thaliana</em>. I is particularly interested in immunology and disease research and is looking forward to further exploring both throughout my career. In her free time, I love to run.</p>
         </div>
     </div>
     <div class="profile">
@@ -159,7 +159,7 @@ Originally from the Philippines and I have obtained my bachelors degree in Bioch
         <div class="description">
             <b>Sam Shteerman</b>
             <p><b>Undergraduate Researcher</b>, NYU</p>
-            <p>I'm a native New Yorker studying biochemistry at NYU, graduating in 2027. I'm working with the amazing postdoctoral fellow Lucas Henry, investigating the way that seasonal processes shape the Arabidopsis Thaliana microbiome. I've been studying the microbial make up of Arabidopsis populations native to New York city, along with helping out more generally with the Pathocom project. Besides my lab work, in my free time I enjoy reading, running, and the great outdoors.</p>
+            <p>I'm a native New Yorker studying biochemistry at NYU, graduating in 2027. I'm working with the amazing postdoctoral fellow Lucas Henry, investigating the way that seasonal processes shape the <em>Arabidopsis thaliana</em> microbiome. I've been studying the microbial make up of <em>Arabidopsis</em> populations native to New York city, along with helping out more generally with the Pathocom project. Besides my lab work, in my free time I enjoy reading, running, and the great outdoors.</p>
         </div>
     </div>
 </div>
