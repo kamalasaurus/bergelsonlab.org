@@ -798,9 +798,9 @@ footer img {
 }
 
 ul {
-    list-style-type: none;
+    list-style-type: disc;
     margin-top: 30px;
-    padding: 0;
+    padding: 20x;
     overflow: hidden;
     text-align: justify;
 }
