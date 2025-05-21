@@ -35,7 +35,7 @@ We have made extensive collections of A. thaliana accessions, and made these ava
     </div>
   </div>
   <div class="research-container" onclick="window.location.href='{{ site.baseurl }}/coevolutionary-interactions'">
-    <img src="../assets/images/CI-Box.png" alt="CI" class="research-profile">
+    <img src="../assets/images/CI-Box3.png" alt="CI" class="research-profile">
     <div class="research-text-block">
       <h4 style="color: white;">Coevolutionary Interactions</h4>
       <p>How do plants cope with quickly evolving pathogens?</p>
