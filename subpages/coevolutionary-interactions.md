@@ -9,7 +9,7 @@ permalink: /coevolutionary-interactions/
 </div>
 
 <div class="research-grid-container">
-    <div class="research-grid-item research-grid-span-2">We investigate how host-microbiome interactions influence pathogen dynamics, seasonal processes shaping the Arabidopsis microbiome, and microbiome-based approaches to improve plant health. Despite pathogens' evolutionary advantages, plants often resist infection in nature, partly due to long-maintained polymorphisms in resistance (R) genes. Our goal is to uncover genetic factors affecting complex traits like disease by considering both host and pathogen contributions.</div>
+    <div class="research-grid-item research-grid-span-2">We investigate how host-microbiome interactions influence pathogen dynamics, seasonal processes shaping the <em>Arabidopsis</em> microbiome, and microbiome-based approaches to improve plant health. Despite pathogens' evolutionary advantages, plants often resist infection in nature, partly due to long-maintained polymorphisms in resistance (R) genes. Our goal is to uncover genetic factors affecting complex traits like disease by considering both host and pathogen contributions.</div>
     <div class="research-grid-item">
         <img src="../assets/images/CI-Image.jpg" alt="Placeholder Image" />
     </div>
