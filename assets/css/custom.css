@@ -235,7 +235,7 @@ div.index div.callouts div.study-area {
   left: 50%;
   transform: translate(-50%, -50%);
 
-  background-color: rgba(0, 0, 0, 0.5); /* Creates a semi-transparent black background behind the text */
+  background-color: rgba(0, 0, 0, 0.6); /* Creates a semi-transparent black background behind the text */
   color: white;                        /* Sets the text color to white for contrast */
   padding: 10px 20px;                  /* Adds space inside the box around the text (top/bottom = 10px, sides = 20px) */
   border-radius: 5px;                  /* Slightly rounds the corners of the black box */
