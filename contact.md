@@ -11,8 +11,6 @@ permalink: /contact/
 
 <h1><b class="section-title">Contact</b></h1>
 
-<hr style="border: 1px solid black;">
-
 <p>
 We’re always excited to connect with creative and talented individuals. The Bergelson Lab brings together scientists to explore the complex relationships between plants and their microbial communities. Visit our <a href="https://kamalasaurus.github.io/bergelsonlab.org/research/">research page</a> to get a sense of what it’s like to be part of the lab.
 </p>
