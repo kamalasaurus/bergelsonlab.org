@@ -6,10 +6,12 @@ permalink: /contact/
 <br />
 
 <div class="container">
-  <img src="../assets/images/Contact_Banner.png" alt="Banner" style="width:100%;">
+  <img src="../assets/images/Contact_Banner.png" alt="Banner" style="width:100%; display: block; margin-bottom: 0;">
 </div>
 
 <h1><b class="section-title">Contact</b></h1>
+
+<hr style="border: 1px solid black; margin-top: 0;">
 
 <p>
 We’re always excited to connect with creative and talented individuals. The Bergelson Lab brings together scientists to explore the complex relationships between plants and their microbial communities. Visit our <a href="https://kamalasaurus.github.io/bergelsonlab.org/research/">research page</a> to get a sense of what it’s like to be part of the lab.
