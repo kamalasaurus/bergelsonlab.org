@@ -234,6 +234,13 @@ div.index div.callouts div.study-area {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+
+  background-color: rgba(0, 0, 0, 0.7); /* Creates a semi-transparent black background behind the text */
+  color: white;                        /* Sets the text color to white for contrast */
+  padding: 10px 20px;                  /* Adds space inside the box around the text (top/bottom = 10px, sides = 20px) */
+  border-radius: 5px;                  /* Slightly rounds the corners of the black box */
+  font-size: 1.2rem;                   /* Makes the text a bit larger than normal */
+  text-align: center;                 /* Ensures multiline text stays centered */
 }
 
 
