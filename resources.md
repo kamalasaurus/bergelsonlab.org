@@ -34,16 +34,16 @@ Quickly and effectively identify candidate type III secretion system effectors i
 
 <hr>
 
-<h2>Arabidopsis thaliana Genetic Resources</h2>
+<h2><em>Arabidopsis thaliana</em> Genetic Resources</h2>
 
 <h3>Genomic Polymorphism Data</h3>
 <p>
-We have devoted substantial effort over the last decade establishing the ability to perform Genome Wide Association mapping in A. thaliana. This began with early work to understand genetic variation in the species, followed by later work to characterize patterns of linkage disequilibrium and the ability to association map simple traits. The work has come to fruition in a collaborative effort between the Bergelson, Borevitz and Nordborg labs in which 107 phenotypes are mapped <a href="https://pubmed.ncbi.nlm.nih.gov/20336072/">(Atwell et al., 2010)</a>, and the associated database can be found on the GMI website.
+We have devoted substantial effort over the last decade establishing the ability to perform Genome Wide Association mapping in <em>A. thaliana</em>. This began with early work to understand genetic variation in the species, followed by later work to characterize patterns of linkage disequilibrium and the ability to association map simple traits. The work has come to fruition in a collaborative effort between the Bergelson, Borevitz and Nordborg labs in which 107 phenotypes are mapped <a href="https://pubmed.ncbi.nlm.nih.gov/20336072/">(Atwell et al., 2010)</a>, and the associated database can be found on the GMI website.
 </p>
 
 <h3>Regional Mapping (RegMap) Lines</h3>
 <p>
-1,307 accessions of A. thaliana have been genotyped using the Affymetrix Arabidopsis 250k – SNP chip (Horton et al., 2012), after first selecting unique lines from a collection of ~6,000 accessions genotyped using 149 genome-wide SNPs (Platt et al., 2010). We have collected high quality geographic coordinates for 1,193 of these samples (Anastasio et al., 2011).
+1,307 accessions of <em>A. thaliana</em> have been genotyped using the Affymetrix <em>Arabidopsis</em> 250k – SNP chip (Horton et al., 2012), after first selecting unique lines from a collection of ~6,000 accessions genotyped using 149 genome-wide SNPs (Platt et al., 2010). We have collected high quality geographic coordinates for 1,193 of these samples (Anastasio et al., 2011).
 
 Due to the extensive size of this collection, these accessions enable mapping using either global or regional populations, and thus allow to compare the genetic basis of ecologically important traits among distinct subsets (Horton et al., 2012). These genotyped lines were created in collaboration with the Borevitz and Nordborg laboratories, and are available through the <a href="https://abrc.osu.edu/">Ohio State Arabidopsis Stock Center</a>.
 
@@ -56,17 +56,17 @@ The regional mapping panel was used to search for candidate targets of selection
 
 <h3>Climate Genome Scans</h3>
 <p>
-The Regmap lines were used to identify the genetics underlying climate adaptation in A. thaliana (Hancock et al., 2011). The archive includes a list of the top SNPs identified in this study. The climate data for 948 accessions is available here and explanation of the variables can be downloaded <a href="/assets/images/d4c92-allvars948_notnormd_011311.zip" download>here</a>. Please note that the genome browser allowing to view the results in their genomic context was taken offline.
+The Regmap lines were used to identify the genetics underlying climate adaptation in <em>A. thaliana</em> (Hancock et al., 2011). The archive includes a list of the top SNPs identified in this study. The climate data for 948 accessions is available here and explanation of the variables can be downloaded <a href="/assets/images/d4c92-allvars948_notnormd_011311.zip" download>here</a>. Please note that the genome browser allowing to view the results in their genomic context was taken offline.
 </p>
 
 <h3>1001 Genomes Project</h3>
 <p>
-  Our group participates in the international collaboration that fully sequenced the genomes of 1001 A. thaliana accessions. More information can be found on the <a href="https://1001genomes.org/">project website</a> and the publication.
+  Our group participates in the international collaboration that fully sequenced the genomes of 1001 <em>A. thaliana</em> accessions. More information can be found on the <a href="https://1001genomes.org/">project website</a> and the publication.
 </p>
 
 <h3>149-SNP Primers & Contaminant Identification</h3>
 <p>
-A set of primers for 149 SNPs has been established to quickly and cheaply fingerprint accessions, which is especially important in confirming the identify of stock center lines. Primer sequences can be downloaded <a href="/assets/images/149SNP_Primers.csv" download>here</a>. We identified a set of Arabidopsis thaliana accessions that have previously been misidentified. The genetic fingerprint of 5965 accessions for the 149 SNPs and a list of putative contaminants among stock center lines can be downloaded <a href="/assets/images/2a768-anastasioetal2011_tables.xls.zip" download>here</a>.
+A set of primers for 149 SNPs has been established to quickly and cheaply fingerprint accessions, which is especially important in confirming the identify of stock center lines. Primer sequences can be downloaded <a href="/assets/images/149SNP_Primers.csv" download>here</a>. We identified a set of <em>Arabidopsis thaliana</em> accessions that have previously been misidentified. The genetic fingerprint of 5965 accessions for the 149 SNPs and a list of putative contaminants among stock center lines can be downloaded <a href="/assets/images/2a768-anastasioetal2011_tables.xls.zip" download>here</a>.
 </p>
 
 <h3>Various Lists of Accessions</h3>
