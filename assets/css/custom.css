@@ -394,9 +394,9 @@ table.publications th, table.publications td {
 
 .alumni-row {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr; /* 4 equal columns for desktop */
+    grid-template-columns: repeat(4, 1fr); /* 4 equal columns for desktop */
     background-color: white;
-    padding: 2px 6px;
+    padding: 10px 12px;
     border-bottom: 1px solid lightgray; /* Light gray border between rows */
 }
 
@@ -411,7 +411,7 @@ table.publications th, table.publications td {
 }
 
 .alumni-cell {
-    padding: 2px 4px;
+    padding: 6px 8px;
     text-align: left;
     font-size: 14px;
     word-wrap: break-word; /* Ensures long text wraps */
