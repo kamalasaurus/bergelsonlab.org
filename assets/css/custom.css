@@ -413,7 +413,7 @@ table.publications th, table.publications td {
 .alumni-cell {
     padding: 2px 4px;
     text-align: left;
-    font-size: 10px;
+    font-size: 14px;
     word-wrap: break-word; /* Ensures long text wraps */
 }
 
