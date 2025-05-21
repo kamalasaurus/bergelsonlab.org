@@ -513,7 +513,7 @@ img.research-profile {
     background-color: #BFEBDD; /* Optional background color */
     padding: 15px; /* Adds padding inside each item */
     border: 1px solid #000000; /* Optional border */
-    border-radius: 5px; /* Optional rounded corners */
+    border-radius: 3px; /* Optional rounded corners */
     text-align: center; /* Centers text inside the item */
 }
 
