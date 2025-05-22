@@ -10,12 +10,6 @@ permalink: /research/
 <p>
 We study the ecology and evolution of plant–pathogen interactions, focusing primarily on <em>Arabidopsis thaliana</em> and the bacteria that reside within it. Our approach is interdisciplinary; we draw upon tools from molecular genetics, molecular evolution, computation, field biology, chemistry, and population genetics to understand how ecological interactions shape evolutionary dynamics. The lab typically contains a mixture of graduate students, postdoctoral fellows, and undergraduate students who enjoy working with diverse collaborators from around the world. Many of our field experiments are performed in the Midwest US, or abroad, at sites in Sweden and France.
 </p>
-<p>
-A long-term focus of our laboratory has been to build genetic resources and tools in <em>Arabidopsis thaliana</em>. In collaboration with the Nordborg lab, we have established that <em>A. thaliana</em> has patterns of linkage disequilibrium well suited for GWAS mapping and have genotyped sets of accessions to allow mapping by members of the community.
-</p>
-<p>
-We have made extensive collections of <em>A. thaliana</em> accessions, and made these available as well. We are currently collaborating on the 1001 Genome Project to sequence ~1100 <em>A. thaliana</em> accessions. These efforts have provided many opportunities to address questions in plant genomics and population structure.
-</p>
 
 <h2><b class="section-title">Current areas of focus</b></h2>
 
