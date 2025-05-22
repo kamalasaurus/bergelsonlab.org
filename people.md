@@ -170,58 +170,58 @@ Originally from the Philippines and I have obtained my bachelors degree in Bioch
 
 <div class="gallery-grid">
     <div class="card card-wide">
-        <div class="subtitle">Card 1</div>
+        <div class="subtitle">Cherry Blossoms</div>
         <div class="image">
-            <img src="../assets/images/Cherryblossom.png" alt="Example 1" />
+            <img src="../assets/images/Cherryblossom.png" alt="Cherry blossoms" />
         </div>
         <div class="description">This is a description for a wide card that spans 2 columns.</div>
     </div>
     <div class="card">
-        <div class="subtitle">Card 2</div>
+        <div class="subtitle">Lab Dinner</div>
         <div class="image">
-            <img src="../assets/images/Dinner.jpg" alt="Example 2" />
+            <img src="../assets/images/Dinner.jpg" alt="Dinner" />
         </div>
         <div class="description">This is a description for a regular card.</div>
     </div>
     <div class="card">
-        <div class="subtitle">Card 4</div>
+        <div class="subtitle">Journal Club</div>
         <div class="image">
-            <img src="../assets/images/MB_journal_club_2018.jpg" alt="Example 4" />
+            <img src="../assets/images/MB_journal_club_2018.jpg" alt="Journal Club" />
         </div>
         <div class="description">This is another wide card that spans 2 columns.</div>
     </div>
   <div class="card">
-        <div class="subtitle">Card 2</div>
+        <div class="subtitle">Hike</div>
         <div class="image">
-            <img src="../assets/images/Old_Hike.png" alt="Example 2" />
+            <img src="../assets/images/Old_Hike.png" alt="Hike" />
         </div>
         <div class="description">This is a description for a regular card.</div>
     </div>
   <div class="card card-wide">
-        <div class="subtitle">Card 2</div>
+        <div class="subtitle">Lab Fun</div>
         <div class="image">
-            <img src="../assets/images/GroupLabExamination.JPG" alt="Example 2" />
+            <img src="../assets/images/GroupLabExamination.JPG" alt="Lab Examination" />
         </div>
         <div class="description">This is a description for a regular card.</div>
     </div>
   <div class="card">
-        <div class="subtitle">Card 2</div>
+        <div class="subtitle">More Lab Fun</div>
         <div class="image">
-            <img src="../assets/images/More_lab.JPG" alt="Example 2" />
+            <img src="../assets/images/More_lab.JPG" alt="Second Lab Examination" />
         </div>
         <div class="description">This is a description for a regular card.</div>
     </div>
   <div class="card">
-        <div class="subtitle">Card 2</div>
+        <div class="subtitle">Honors Thesis Presentation</div>
         <div class="image">
-            <img src="../assets/images/UnderGrad poster.jpg" alt="Example 2" />
+            <img src="../assets/images/UnderGrad poster.jpg" alt="Thesis" />
         </div>
         <div class="description">This is a description for a regular card.</div>
     </div>
 <div class="card">
-        <div class="subtitle">Card 3</div>
+        <div class="subtitle">Silver Professor Celebration</div>
         <div class="image">
-            <img src="../assets/images/Joy Celebration.jpg" alt="Example 3" />
+            <img src="../assets/images/Joy Celebration.jpg" alt="Celebration" />
         </div>
         <div class="description">This is another regular card.</div>
     </div>
@@ -235,8 +235,8 @@ Originally from the Philippines and I have obtained my bachelors degree in Bioch
     <img src="../assets/images/Dinner.jpg" alt="Dinner" />
     <img src="../assets/images/MB_journal_club_2018.jpg" alt="Journal Club 2018" />
     <img src="../assets/images/Old_Hike.png" alt="Old hike" />
-    <img src="../assets/images/GroupLabExamination.JPG" alt="Group Lab Examination" />
     <img src="../assets/images/More_lab.JPG" alt="More lab" />
+    <img src="../assets/images/GroupLabExamination.JPG" alt="Group Lab Examination" />
     <img src="../assets/images/UnderGrad%20poster.jpg" alt="Undergrad poster" />
     <img src="../assets/images/Joy%20Celebration.jpg" alt="Joy Celebration" />
   </div>
