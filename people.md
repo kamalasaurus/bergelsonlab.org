@@ -190,17 +190,17 @@ Originally from the Philippines and I have obtained my bachelors degree in Bioch
         </div>
         <div class="description">This is another wide card that spans 2 columns.</div>
     </div>
-  <div class="card">
-        <div class="subtitle">Hike</div>
-        <div class="image">
-            <img src="../assets/images/Old_Hike.png" alt="Hike" />
-        </div>
-        <div class="description">This is a description for a regular card.</div>
-    </div>
   <div class="card card-wide">
         <div class="subtitle">Lab Fun</div>
         <div class="image">
             <img src="../assets/images/GroupLabExamination.JPG" alt="Lab Examination" />
+        </div>
+        <div class="description">This is a description for a regular card.</div>
+    </div>
+  <div class="card">
+        <div class="subtitle">Hike</div>
+        <div class="image">
+            <img src="../assets/images/Old_Hike.png" alt="Hike" />
         </div>
         <div class="description">This is a description for a regular card.</div>
     </div>
