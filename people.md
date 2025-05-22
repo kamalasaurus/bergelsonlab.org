@@ -219,7 +219,7 @@ Originally from the Philippines and I have obtained my bachelors degree in Bioch
         <div class="description">This is a description for a regular card.</div>
     </div>
 <div class="card">
-        <div class="subtitle">Silver Professor Celebration</div>
+        <div class="subtitle">National Academy of Sciences celebration in Chicago</div>
         <div class="image">
             <img src="../assets/images/Joy Celebration.jpg" alt="Celebration" />
         </div>
