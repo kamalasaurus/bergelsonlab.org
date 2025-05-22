@@ -5,7 +5,7 @@ permalink: /coevolutionary-interactions/
 ---
 <div class="container">
   <img src="../assets/images/CI-Banner3.png" alt="Banner" style="width:100%;">
-  <div class="centered">Coevolutionary interactions</div>
+  <div class="centered">Coevolutionary Interactions</div>
 </div>
 
 <div class="research-grid-container">
