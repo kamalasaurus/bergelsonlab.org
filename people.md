@@ -197,15 +197,49 @@ Originally from the Philippines and I have obtained my bachelors degree in Bioch
         </div>
         <div class="description">This is another wide card that spans 2 columns.</div>
     </div>
+  <div class="card">
+        <div class="subtitle">Card 2</div>
+        <div class="image">
+            <img src="../assets/images/Old_Hike.png" alt="Example 2" />
+        </div>
+        <div class="description">This is a description for a regular card.</div>
+    </div>
+  <div class="card">
+        <div class="subtitle">Card 2</div>
+        <div class="image">
+            <img src="../assets/images/GroupLabExamination.JPG" alt="Example 2" />
+        </div>
+        <div class="description">This is a description for a regular card.</div>
+    </div>
+  <div class="card">
+        <div class="subtitle">Card 2</div>
+        <div class="image">
+            <img src="../assets/images/More_lab.JPG" alt="Example 2" />
+        </div>
+        <div class="description">This is a description for a regular card.</div>
+    </div>
+  <div class="card">
+        <div class="subtitle">Card 2</div>
+        <div class="image">
+            <img src="../assets/images/UnderGrad poster.jpg" alt="Example 2" />
+        </div>
+        <div class="description">This is a description for a regular card.</div>
+    </div>
 </div>
 
-/*Second Gallary*/
+/* Second Gallary */
 <div class="album">
   <div class="responsive-container-block bg">
     <div class="responsive-container-block img-cont">
       <img class="img" src="../assets/images/Cherryblossom.png">
       <img class="img" src="../assets/images/Dinner.jpg">
       <img class="img img-last" src="../assets/images/Joy Celebration.jpg">
+      <img src="../assets/images/MB_journal_club_2018.jpg" alt="Example 4" />
+      <img class="img" src="../assets/images/Old_Hike.png">
+      <img class="img" src="../assets/images/GroupLabExamination.JPG">
+      <img class="img" src="../assets/images/More_lab.JPG">
+      <img class="img" src="../assets/images/UnderGrad poster.jpg">
+  
     </div>
   </div>
 </div>
