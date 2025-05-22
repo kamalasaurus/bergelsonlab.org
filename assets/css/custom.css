@@ -351,10 +351,10 @@ table.publications th, table.publications td {
 /* Gallery */
 .gallery-grid {
     display: grid;
-    grid-template-columns: repeat(3, auto)); /* 3 equal columns */
+    grid-template-columns: repeat(3, 1fr)); /* 3 equal columns */
     gap: 20px; /* Spacing between grid items */
     margin-top: 20px; /* Adds spacing above the grid */
-    width: max-content;
+    max-width: 960px;
 }
 
 .card {
