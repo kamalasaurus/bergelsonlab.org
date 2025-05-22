@@ -67,7 +67,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
         <div class="description">
             <b>Luke Henry</b>
             <p><b>Postdoctoral Fellow</b>, NYU</p>
-            <p> My research interests are focused on eco-evolutionary dynamics in host-associated microbiomes. I’ve worked in a wide range of systems, from the ecology of Lyme disease to sunflower domestication to mitochondria-Wolbachia interactions during oogenesis. My dissertation focused on the evolutionary potential of host-associated microbiomes by using <em>Drosophila melanogaster</em> to explore the relative contribution of the microbiome to local adaptation. Now, in the Bergelson lab, I investigate 1) the impact of host-microbiome interactions on pathogen dynamics, 2) seasonal processes that shape the <em>Arabidopsis</em> microbiome, and 3) ecologically informed microbiome engineering.</p>
+            <p> My research interests are focused on eco-evolutionary dynamics in host-associated microbiomes. I’ve worked in a wide range of systems, from the ecology of Lyme disease to sunflower domestication to mitochondria-Wolbachia interactions during oogenesis. My dissertation focused on the evolutionary potential of host-associated microbiomes by using <em>Drosophila melanogaster</em> to explore the relative contribution of the microbiome to local adaptation. Now, in the Bergelson lab, I investigate 1) the impact of host-microbiome interactions on pathogen dynamics, 2) seasonal processes that shape the <em>Arabidopsis</em> microbiome, and 3) ecologically informed microbiome engineering.<a href="https://scholar.google.com/citations?user=mfT999QAAAAJ">Google Scholar</a></p>
         </div>
     </div>
     <div class="profile">
