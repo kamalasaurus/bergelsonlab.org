@@ -66,7 +66,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
         </div>
         <div class="description">
             <b>Luke Henry</b>
-            <p><b>Postdoctoral Fellow</b>, NYU; <a href="https://scholar.google.com/citations?user=mfT999QAAAAJ">Google Scholar</a></p></p>
+            <p><b>Postdoctoral Fellow</b>, NYU; <a href="https://scholar.google.com/citations?user=mfT999QAAAAJ">Google Scholar</a></p>
             <p> My research interests are focused on eco-evolutionary dynamics in host-associated microbiomes. I’ve worked in a wide range of systems, from the ecology of Lyme disease to sunflower domestication to mitochondria-Wolbachia interactions during oogenesis. My dissertation focused on the evolutionary potential of host-associated microbiomes by using <em>Drosophila melanogaster</em> to explore the relative contribution of the microbiome to local adaptation. Now, in the Bergelson lab, I investigate 1) the impact of host-microbiome interactions on pathogen dynamics, 2) seasonal processes that shape the <em>Arabidopsis</em> microbiome, and 3) ecologically informed microbiome engineering.
         </div>
     </div>
@@ -96,7 +96,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
         </div>
         <div class="description">
             <b>Em Schissler</b>
-            <p><b>Laboratory Manager</b>, NYU; <a href="https://www.linkedin.com/in/em-schissler/">LinkedIn</a></p></p></p>
+            <p><b>Laboratory Manager</b>, NYU; <a href="https://www.linkedin.com/in/em-schissler/">LinkedIn</a></p>
             <p>I earned a bachelor’s degree in Biology from Occidental College with a focus on zoology, followed by a master’s in Biology, concentrating in bioinformatics and systems biology, at New York University. There, I conducted analyses to study the decline of <em>Phoenix theophrasti</em> and contributed to research on new treatments and diagnostic tools for Alzheimer’s disease at NYU Langone. Currently, I manage a range of lab-related administrative tasks including grant administration, and support postdoctoral fellows with computational research projects. Outside the lab, I enjoy volunteering with animals—especially given my background in exotic and domestic animal care—and spend my free time at the theater, and rock climbing.</p>
         </div>
     </div>
