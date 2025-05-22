@@ -227,26 +227,6 @@ Originally from the Philippines and I have obtained my bachelors degree in Bioch
     </div>
 </div>
 
-<!-- Second Gallery -->
-<div class="album">
-  <div class="responsive-container-block bg">
-    <div class="responsive-container-block img-cont">
-      <img class="img" src="../assets/images/Cherryblossom.png" alt="Cherry blossom" />
-      <img class="img" src="../assets/images/Old_Hike.png" alt="Old hike" />
-      <img class="img" src="../assets/images/UnderGrad%20poster.jpg" alt="Undergrad poster" />
-    </div>
-    <div class="responsive-container-block img-cont">
-      <img class="img" src="../assets/images/Dinner.jpg" alt="Dinner" />
-      <img class="img" src="../assets/images/GroupLabExamination.JPG" alt="Group Lab Examination" />
-      <img class="img" src="../assets/images/Joy%20Celebration.jpg" alt="Joy Celebration" />
-    </div>
-    <div class="responsive-container-block img-cont">
-      <img class="img" src="../assets/images/MB_journal_club_2018.jpg" alt="Journal Club 2018" />
-      <img class="img" src="../assets/images/More_lab.JPG" alt="More lab" />
-    </div>
-  </div>
-</div>
-
 
 <!-- Optional second album section -->
 <div class="album">
