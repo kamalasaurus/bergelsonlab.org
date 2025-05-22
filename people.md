@@ -211,6 +211,19 @@ Originally from the Philippines and I have obtained my bachelors degree in Bioch
 </div>
 
 
+<div class="album">
+  <div class="responsive-container-block bg">
+    <div class="responsive-container-block img-cont">
+      <img class="img" src="../assets/images/Cherryblossom.png">
+    </div>
+    <div class="responsive-container-block img-cont">
+      <img class="img" src="../assets/images/Dinner.jpg">
+      <img class="img img-last" src="../assets/images/Joy Celebration.jpg">
+    </div>
+  </div>
+</div>
+
+
 <br />
 
 <b class="section-title">Lab Alumni</b>
