@@ -15,14 +15,14 @@ We study the ecology and evolution of plant–pathogen interactions, focusing pr
 
 <div class="research-profile-row">
   <div class="research-container" onclick="window.location.href='{{ site.baseurl }}/microbial-interactions-communities'">
-    <img src="../assets/images/MIC-Box.png" alt="MIC" class="research-profile">
+    <img src="../assets/images/MIC-Box2.png" alt="MIC" class="research-profile">
     <div class="research-text-block">
       <h4 style="color: white;">Microbial Interactions & Communities</h4>
       <p>What factors shape plant-associated microbial communities?</p>
     </div>
   </div>
   <div class="research-container" onclick="window.location.href='{{ site.baseurl }}/NLR-evolution'">
-    <img src="../assets/images/NLR-Box.png" alt="NLR" class="research-profile">
+    <img src="../assets/images/NLR-Box2.png" alt="NLR" class="research-profile">
     <div class="research-text-block">
       <h4 style="color: white;">NLR evolution in <em>A. thaliana</em></h4>
       <p>What drives the evolution and diversification of NLR genes in <em>Arabidopsis</em> species?</p>
