@@ -184,13 +184,6 @@ Originally from the Philippines and I have obtained my bachelors degree in Bioch
         <div class="description">This is a description for a regular card.</div>
     </div>
     <div class="card">
-        <div class="subtitle">Card 3</div>
-        <div class="image">
-            <img src="../assets/images/Joy Celebration.jpg" alt="Example 3" />
-        </div>
-        <div class="description">This is another regular card.</div>
-    </div>
-    <div class="card card-wide">
         <div class="subtitle">Card 4</div>
         <div class="image">
             <img src="../assets/images/MB_journal_club_2018.jpg" alt="Example 4" />
@@ -204,7 +197,7 @@ Originally from the Philippines and I have obtained my bachelors degree in Bioch
         </div>
         <div class="description">This is a description for a regular card.</div>
     </div>
-  <div class="card">
+  <div class="card card-wide">
         <div class="subtitle">Card 2</div>
         <div class="image">
             <img src="../assets/images/GroupLabExamination.JPG" alt="Example 2" />
@@ -224,6 +217,13 @@ Originally from the Philippines and I have obtained my bachelors degree in Bioch
             <img src="../assets/images/UnderGrad poster.jpg" alt="Example 2" />
         </div>
         <div class="description">This is a description for a regular card.</div>
+    </div>
+<div class="card">
+        <div class="subtitle">Card 3</div>
+        <div class="image">
+            <img src="../assets/images/Joy Celebration.jpg" alt="Example 3" />
+        </div>
+        <div class="description">This is another regular card.</div>
     </div>
 </div>
 
