@@ -22,7 +22,7 @@ permalink: /people/
         </div>
         <div class="description">
             <b>Joy Bergelson</b>
-            <p><b>PI</b>, Silver Professor and Provostial Fellow, New York University; Executive Vice President of Life Sciences, Simons Foundation</p>
+            <p><b>Principal investigator</b>, Silver Professor and Provostial Fellow, New York University; Executive Vice President of Life Sciences, Simons Foundation</p>
             <p>jb7684[at]nyu[dot]edu</p>
         </div>
     </div>
