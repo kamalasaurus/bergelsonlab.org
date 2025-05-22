@@ -392,6 +392,21 @@ table.publications th, table.publications td {
 }
 
 /*Second Attempt Gallary*/
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 columns */
+  gap: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.image-grid img {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+}
 .album .responsive-container-block {
   min-height: 75px;
   height: fit-content;
