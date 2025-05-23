@@ -19,8 +19,8 @@ permalink: /microbial-interactions-communities/
     <div class="research-grid-item research-grid-span-2">
   <p><b>Selected Publications:</b></p>
   <ul>
-    <li>Henry, LP and J Bergelson. 2025. Ecologically informed microbiome engineering. Nature Microbiology, in press.</li>
-    <li>Kennedy, M, Freiburger, A, Cooper, M, Beilsmith, K, St. George, M, Kalski, M, Cham, C, Guzetta, A, Ng, SC, Chan, F, Rubin, D, Henry, CS, Bergelson*, J and EB Chang*. 2025. Diet outperforms microbial transplant to drive microbiome recovery in mice. Nature, https://doi.org/10.1038/s41586-025-08937-9.  *Joint corresponding author</li>
+    <li>Henry, LP and J Bergelson. 2025. Ecologically informed microbiome engineering. <i>Nature Microbiology</i>, in press.</li>
+    <li>Kennedy, M, Freiburger, A, Cooper, M, Beilsmith, K, St. George, M, Kalski, M, Cham, C, Guzetta, A, Ng, SC, Chan, F, Rubin, D, Henry, CS, Bergelson*, J and EB Chang*. 2025. Diet outperforms microbial transplant to drive microbiome recovery in mice. Nature, https://doi.org/10.1038/s41586-025-08937-9.  <i>*Joint corresponding author</i></li>
     <li>Brachi, B, Filiault, D, Whitehurst, H, Darme, P, Le Gars, P, Lemantec, M, Morton, T, Kerdafrec, E, Rabanal, F, Anastasio, A, Box, M, Duncan, S, Huang, F, Leff, R, Novikova, P, Perisin, M, Tsuchimatsu, R, Woolley, R, Dean, C, Nordborg, M, Holmes, S and J Bergelson. 2022. Plant genetic effects on microbial hubs impact host fitness in repeated field trials. PNAS 119(30): e2201285119.
 </li>
   </ul>
