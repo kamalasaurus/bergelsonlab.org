@@ -18,7 +18,7 @@ We study the ecology and evolution of plant–pathogen interactions, focusing pr
     <img src="../assets/images/MIC-Box2.png" alt="MIC" class="research-profile">
     <div class="research-text-block">
       <h4 style="color: white;">Microbial Interactions & Communities</h4>
-      <p>What factors shape plant-associated microbial communities?</p>
+      <p>What are the factors shaping the composition and function of microbiomes? </p>
     </div>
   </div>
   <div class="research-container" onclick="window.location.href='{{ site.baseurl }}/NLR-evolution'">
@@ -32,7 +32,7 @@ We study the ecology and evolution of plant–pathogen interactions, focusing pr
     <img src="../assets/images/CI-Box3.png" alt="CI" class="research-profile">
     <div class="research-text-block">
       <h4 style="color: white;">Eco-evolutionary Dynamics</h4>
-      <p>How do plants cope with quickly evolving pathogens?</p>
+      <p>How is extensive strain diversity maintained in <em>Pseudomonas</em>?</p>
     </div>
   </div>
 </div>
