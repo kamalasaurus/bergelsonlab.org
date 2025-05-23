@@ -23,7 +23,7 @@ permalink: /people/
         </div>
         <div class="description">
             <b>Joy Bergelson</b>
-            <p><i>Silver Professor and Provostial Fellow, New York University; Executive Vice President of Life Sciences, Simons Foundation</i></p>  
+           <p><strong><em>Silver Professor and Provostial Fellow, New York University; Executive Vice President of Life Sciences, Simons Foundation</em></strong></p>
           <p>I trained in a theoretical ecology lab in a Zoology department, but did empirical work on plants. This set me on a path of never doing what is expected of me. Upon graduation, I decided to learn enough molecular biology to make transgenic plants for my ecological experiments. Early fellowships from the Packard Foundation, Sloan Foundation and Life Sciences Research Foundation were pivotal in providing me the freedom to continue exploring. When the first disease resistance genes were cloned, I focused my attention there and never looked back. Our work has spanned the ecology, molecular evolution, genomics and functional biology of disease resistance in Arabidopsis thaliana. More recently, we have expanded to consider the other biotic and abiotic interactions that impact the relationships between A. thaliana and its enemies. Along the way, we have contributed significantly to developing Arabidopsis as a model species, particularly for eco-evolutionary studies, as well as for GWAS and the study of natural variation. I am a member of the National Academy of Science and the American Academy of Arts and Sciences. I serve on many international science advisory boards and have recently started a position as EVP of Life Sciences at the Simons Foundation.</p>
         </div>
     </div>
@@ -33,7 +33,7 @@ permalink: /people/
             <img src="../assets/images/Choghag.jpg" alt="Choghag" />
         </div>
         <div class="description">
-            <p><b>Choghag Demirjian</b>, PhD</p>
+            <p><b>Choghag Demirjian, PhD</b></p>
             <p>I am a postdoctoral fellow in the compRgene project, which investigates the evolution of plant NLR genes across three Brassicaceae species. My research combines genomics, ecology, and functional biology to understand how genetic variation in both plants and pathogens shapes their evolutionary dynamics and immune responses. During my PhD, I studied how specific pathogenicity factors of <em>Ralstonia solanacearum</em> influence immune responses in <em>Arabidopsis thaliana</em>. Using natural variation in the host and effector mutants in the pathogen, I explored immune dynamics across both global and local plant populations and functionally validated genes, including an NLR gene, involved in susceptibility rather than resistance.
 I am deeply motivated by the challenge of uncovering the molecular basis of complex biological processes, particularly the plant immune system. Outside the lab, I enjoy hiking, cooking, and discovering new cuisines—activities that reflect my curiosity and love for exploration, both in science and in life.
 </p>
@@ -45,9 +45,8 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
             <img src="../assets/images/Hanna.png" alt="Hanna" />
         </div>
         <div class="description">
-            <b>Hanna Märkle</b>,PhD</p>
-            <p>I’m fascinated by obtaining a better understanding of the interactions between hosts and pathogens, their long term (co)evolutionary dynamics, the genes involved in such interactions and the relevant contributions of ecology, functional biology and genomic architecture. My current research focuses on understanding the ecological, genomic and functional drivers of plant resistance gene evolution. Therefore, I’m studying accessions of three phylogenetically related Brassicaceae species (<em>Arabidopsis thaliana</em>, <em>Cardamine hirsuta</em> and <em>Draba verna</em>) which have been collected in the Midi-Pyrenees, France. My work combines genomic data analysis, bioinformatic methods and modeling techniques. Within the project I’m closely collaborating with Choghag Demirjian.
-</p>
+            <p><b>Hanna Märkle</b>, PhD</p>
+            <p>I’m fascinated by obtaining a better understanding of the interactions between hosts and pathogens, their long term (co)evolutionary dynamics, the genes involved in such interactions and the relevant contributions of ecology, functional biology and genomic architecture. My current research focuses on understanding the ecological, genomic and functional drivers of plant resistance gene evolution. Therefore, I’m studying accessions of three phylogenetically related Brassicaceae species (<em>Arabidopsis thaliana</em>, <em>Cardamine hirsuta</em> and <em>Draba verna</em>) which have been collected in the Midi-Pyrenees, France. My work combines genomic data analysis, bioinformatic methods and modeling techniques. Within the project I’m closely collaborating with Choghag Demirjian.</p>
         </div>
     </div>
     <div class="profile">
@@ -56,7 +55,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
         </div>
         <div class="description">
             <b>Jacopo Cirrone</b>
-            <p><b>Postdoctoral Fellow</b>, NYU</p>
+            <p><b>Postdoctoral Fellow</b>, PhD</p>
             <p></p>
         </div>
     </div>
@@ -65,8 +64,18 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
             <img src="../assets/images/Luke.jpeg" alt="Luke" />
         </div>
         <div class="description">
-            <b>Luke Henry</b>, PhD</p>
+            <p><b>Luke Henry</b>, PhD</p>
             <p> My research interests are focused on eco-evolutionary dynamics in host-associated microbiomes. I’ve worked in a wide range of systems, from the ecology of Lyme disease to sunflower domestication to mitochondria-Wolbachia interactions during oogenesis. My dissertation focused on the evolutionary potential of host-associated microbiomes by using <em>Drosophila melanogaster</em> to explore the relative contribution of the microbiome to local adaptation. Now, in the Bergelson lab, I investigate 1) the impact of host-microbiome interactions on pathogen dynamics, 2) seasonal processes that shape the <em>Arabidopsis</em> microbiome, and 3) ecologically informed microbiome engineering. <a href="https://scholar.google.com/citations?user=mfT999QAAAAJ">View Luke's Google Scholar here</a> </p>
+        </div>
+    </div>
+    <div class="profile">
+        <div class="profile-image">
+            <img src="../assets/images/Bio.png" alt="Mac" />
+        </div>
+        <div class="description">
+            <b>MacCall Calvert</b>
+            <p><b>Postdoctoral Fellow</b>, PhD</p>
+            <p></p>
         </div>
     </div>
     <div class="profile">
@@ -78,16 +87,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
             <p>I am a Schmidt Science Fellow interested in how pathogen resistance emerges from the ecological interactions in the microbiome. My dissertation research combined mathematical theory and experiments with annual plants to understand whether interactions involving three or more species (called higher-order interactions) maintain coexistence in diverse ecological communities. Outside of research, I like to play and watch soccer, go hiking and listen to new music. <a href="https://theogibbs.github.io/">View Theo's Website here</a></p>
         </div>
     </div>
-    <div class="profile">
-        <div class="profile-image">
-            <img src="../assets/images/Bio.png" alt="Mac" />
-        </div>
-        <div class="description">
-            <b>MacCall Calvert</b>
-            <p><b>Postdoctoral Fellow</b>, NYU</p>
-            <p></p>
-        </div>
-    </div>
+    
     <h2>Lab Manager</h2>
     <div class="profile">
         <div class="profile-image">
@@ -98,6 +98,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
             <p>I earned a bachelor’s degree in Biology from Occidental College with a focus on zoology, followed by a master’s in Biology, concentrating in bioinformatics and systems biology, at New York University. There, I conducted analyses to study the decline of <em>Phoenix theophrasti</em> and contributed to research on new treatments and diagnostic tools for Alzheimer’s disease at NYU Langone. Currently, I manage a range of lab-related administrative tasks including grant administration, and support postdoctoral fellows with computational research projects. Outside the lab, I enjoy volunteering with animals—especially given my background in exotic and domestic animal care—and spend my free time at the theater, and rock climbing. <a href="https://www.linkedin.com/in/em-schissler/">View Em's LinkedIn here</a></p>
         </div>
     </div>
+    
    <h2>Research Associate</h2>
     <div class="profile">
         <div class="profile-image">
@@ -108,6 +109,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
             <p>I am half Portuguese, half Indian but I was born and brought up in the UAE. I did my undergraduate biology degree at NYUAD, focusing on designing Nanoparticles for Cancer Therapeutics while doing internships at multiple oncology wards. Currently, I am working on experimental characterisation of a spectrum of microbe-microbe interactions on the PATHOCOM project. Outside the lab I love going to the gym, watching films/theater and baking the most elegant cheesecake you've ever tasted!</p>
         </div>
     </div>
+    
     <h2>PhD Students</h2>
     <div class="profile">
         <div class="profile-image">
