@@ -20,9 +20,9 @@ permalink: /coevolutionary-interactions/
     <div class="research-grid-item research-grid-span-2">
   <p><b>Selected Publications:</b></p>
   <ul>
-    <li>​​Laderman, E, Li, S, Maerkle, H, Pascual*, M and J Bergelson*. Host immunity influences diversity in the <em>P. syringae</em> – <em>A. thaliana</em> pathosystem. In review. *Joint corresponding authors</li>
-    <li>Li, S, Laderman, E, Maerkle, H, Yang, Y, Bergelson*, J and M Pascual*. Negative frequency dependent selection contributes to the modular structure of effector repertoires in <em>Pseudomonas syringae</em>. In review. *Joint corresponding authors</i>, in press.</li>
-    <li>Backman, T, Latorre, SM, Symeonidi, E, Muszynski, A, Bleak, E, Eads, L, Martinez-Koury, I, Som, S, Hawks, A, Gloss, AD, Belnap, D, Manuel, AM, Deutschbauer, AM, Bergelson, J, Azadi, P, Burbano, HA and T Karasov. 2024. A phage-like bacteriocin suppresses competitors in metapopulations of pathogenic bacteria. Science 384 (6701): eado713<i>Nature</i> 512 (7515): 436–440.</li>
+    <li>​​Laderman, E, Li, S, Maerkle, H, Pascual*, M and J Bergelson*. Host immunity influences diversity in the <em>P. syringae</em> – <em>A. thaliana</em> pathosystem. In review. <i>*Joint corresponding authors</i></li>
+    <li>Li, S, Laderman, E, Maerkle, H, Yang, Y, Bergelson*, J and M Pascual*. Negative frequency dependent selection contributes to the modular structure of effector repertoires in <em>Pseudomonas syringae</em>. In review. <i>*Joint corresponding authors</i>, in press.</li>
+    <li>Backman, T, Latorre, SM, Symeonidi, E, Muszynski, A, Bleak, E, Eads, L, Martinez-Koury, I, Som, S, Hawks, A, Gloss, AD, Belnap, D, Manuel, AM, Deutschbauer, AM, Bergelson, J, Azadi, P, Burbano, HA and T Karasov. 2024. A phage-like bacteriocin suppresses competitors in metapopulations of pathogenic bacteria. Science 384 (6701): eado713</li>
   </ul>
 </div>
 </div>
