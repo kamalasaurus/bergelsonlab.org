@@ -9,7 +9,7 @@ permalink: /coevolutionary-interactions/
 </div>
 
 <div class="research-grid-container">
-    <div class="research-grid-item research-grid-span-2">In parallel to the extensive diversity that we see in NLR alleles is an enormous strain diversity in the pathogens of A. thaliana. We are working to understand how this diversity is shaped and maintained.</div>
+    <div class="research-grid-item research-grid-span-2">In parallel to the extensive diversity that we see in NLR alleles is an enormous strain diversity in the pathogens of <em>A. thaliana</em>. We are working to understand how this diversity is shaped and maintained.</div>
     <div class="research-grid-item">
         <img src="../assets/images/CI-Image.jpg" alt="Placeholder Image" />
     </div>
