@@ -65,20 +65,19 @@ layout: default
   <div class="centered">NLR Evolution in <em>A. thaliana</em> and its Relatives</div>
 </div>
 
+
 <div class="callouts">
-  <div class="study-area">
-    <a href="{{ site.baseurl }}/NLR-evolution">
-      <img src="../assets/images/NLR-Box2.png" alt="NLR" class="research-profile" style="width:100%; border-radius: 5px;">
-    </a>
+  <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/NLR-evolution'">
+    <img src="{{ site.baseurl }}/assets/images/NLR-Box2.png" alt="NLR Evolution" style="max-width: 100%; border-radius: 5px;">
+  </div>
+
+  <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/microbial-interactions-communities'">
+    <img src="{{ site.baseurl }}/assets/images/CI-Box.png" alt="Microbial Interactions" style="max-width: 100%; border-radius: 5px;">
+  </div>
+
+  <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/microbe-host-coevolution'">
+    <img src="{{ site.baseurl }}/assets/images/CoEvo-Box.png" alt="Microbe-Host Co-evolution" style="max-width: 100%; border-radius: 5px;">
   </div>
 </div>
 
-
-<div class="research-container" onclick="window.location.href='{{ site.baseurl }}/NLR-evolution'">
-    <img src="../assets/images/NLR-Box2.png" alt="NLR" class="research-profile">
-    <div class="research-text-block">
-      <h4 style="color: white;">NLR evolution in <em>A. thaliana</em></h4>
-      <p>What drives the evolution and diversification of NLR genes in <em>Arabidopsis</em> species?</p>
-    </div>
-  </div>
 
