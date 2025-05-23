@@ -26,8 +26,6 @@ permalink: /NLR-evolution/
 </ul>
 
 <div class="research-grid-item research-grid-span-2">
-  The evolution of NLR resistance genes in <i>Arabidopsis thaliana</i> and its relatives reflects adaptation to microbial threats, with these resistance genes key to detecting pathogen effectors and triggering immunity. We investigate the ecological, genomic, and functional drivers of resistance gene evolution by studying NLR-effector interactions across hosts and populations.
-
   <p><b>Selected Publications:</b></p>
   <ul>
     <li>Maerkle, H and J Bergelson. Evolutionary implications of host interactions with a generalist pathogen. In review.</li>
