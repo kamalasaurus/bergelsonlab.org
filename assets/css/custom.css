@@ -333,8 +333,8 @@ table.publications th, table.publications td {
 }
 
 .profile-image img {
-    width: 100px; /* Ensures the image fits within the fixed column */
-    height: 100px; /* Ensures the image is square */
+    width: 130px; /* Ensures the image fits within the fixed column */
+    height: 130px; /* Ensures the image is square */
     object-fit: cover; /* Ensures the image scales properly */
     border-radius: 50%; /* Makes the image circular */
 }
