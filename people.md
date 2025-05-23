@@ -23,7 +23,7 @@ permalink: /people/
         </div>
         <div class="description">
             <b>Joy Bergelson</b>
-            <p><b>Principal Investigator</b>, Silver Professor and Provostial Fellow, New York University; Executive Vice President of Life Sciences, Simons Foundation</p>
+            <p>Silver Professor and Provostial Fellow, New York University; Executive Vice President of Life Sciences, Simons Foundation</p>
           <p>I trained in a theoretical ecology lab in a Zoology department, but did empirical work on plants. This set me on a path of never doing what is expected of me. Upon graduation, I decided to learn enough molecular biology to make transgenic plants for my ecological experiments. Early fellowships from the Packard Foundation, Sloan Foundation and Life Sciences Research Foundation were pivotal in providing me the freedom to continue exploring. When the first disease resistance genes were cloned, I focused my attention there and never looked back. Our work has spanned the ecology, molecular evolution, genomics and functional biology of disease resistance in Arabidopsis thaliana. More recently, we have expanded to consider the other biotic and abiotic interactions that impact the relationships between A. thaliana and its enemies. Along the way, we have contributed significantly to developing Arabidopsis as a model species, particularly for eco-evolutionary studies, as well as for GWAS and the study of natural variation. I am a member of the National Academy of Science and the American Academy of Arts and Sciences. I serve on many international science advisory boards and have recently started a position as EVP of Life Sciences at the Simons Foundation.</p>
         </div>
     </div>
