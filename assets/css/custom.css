@@ -948,8 +948,7 @@ footer img {
 
 ul {
     list-style-type: disc;
-    margin-top: 30px;
+    margin-top: 5px;
     padding: 20px;
-    overflow: hidden;
     text-align: justify;
 }
