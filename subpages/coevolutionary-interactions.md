@@ -17,7 +17,6 @@ permalink: /coevolutionary-interactions/
     <p>The long term maintenance of genetic variation among host and pathogen genotypes is typically explained by negative frequency dependent selection (NFDS), in which genotypes are disadvantaged as they become frequent. In simple models, pathogen strains can suffer NFDS when selection drives a resistant host genotype to rise in frequency, thereby reducing the resources available to the pathogen. Recent observations of co-infection among pathogen strains, however, raise questions about how NFDS can serve to maintain strain diversity, since all pathogen genotypes elicit a similar resistance response whose impact is shared among strains. We are collaborating with the Pascual lab to combine experiments on <em>A. thaliana</em> and its pathogen, <em>P. syringae</em>, with theory to address the maintenance of this strain diversity. We are particularly interested in such questions as how ecological dynamics play out across space to generate emergent niches for pathogen strains, how the modulation of resistance responses allow strain co-existence and, as a longer term goal, how the architecture of the plant immune system both shapes selection acting on microbial pathogens and impacts their dynamics. 
     </p>
     </div>
-  </div>
     <div class="research-grid-item research-grid-span-2">
   <p><b>Selected Publications:</b></p>
   <ul>
