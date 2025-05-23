@@ -27,3 +27,18 @@ permalink: /NLR-evolution/
   </ul>
 </div>
 </div>
+
+
+<br>
+<hr>
+
+<h3>16Stimator</h3>
+<div style="display: flex; align-items: flex-start; gap: 10px;">
+  <img src="../assets/images/16Stimator.png" alt="16Stimator" style="max-width: 200px; height: auto;">
+  <div>
+    <p>
+      Generate 16S rRNA gene (16S) copy number estimates for bacterial genomes based on comparison of sequencing read depths of ribosomal and single copy gene regions. The method is published in: Perisin et al. 2015. Unfortunately, the publication is not open access (please e-mail to retrieve a copy) but the <a href="https://bitbucket.org/perisin/16stimator/src/master/">code of 16Stimator is freely available</a>.
+    </p>
+  </div>
+</div>
+
