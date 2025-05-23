@@ -16,7 +16,7 @@ permalink: /people/
 <br>
 
 <div class="people-grid">
-  <h1>Principal Investigator</h1>
+  <h2>Principal Investigator</h2>
     <div class="profile">
         <div class="profile-image">
             <img src="../assets/images/Joy Photo.png" alt="Joy Bergelson" />
@@ -27,7 +27,7 @@ permalink: /people/
           <p>I trained in a theoretical ecology lab in a Zoology department, but did empirical work on plants. This set me on a path of never doing what is expected of me. Upon graduation, I decided to learn enough molecular biology to make transgenic plants for my ecological experiments. Early fellowships from the Packard Foundation, Sloan Foundation and Life Sciences Research Foundation were pivotal in providing me the freedom to continue exploring. When the first disease resistance genes were cloned, I focused my attention there and never looked back. Our work has spanned the ecology, molecular evolution, genomics and functional biology of disease resistance in Arabidopsis thaliana. More recently, we have expanded to consider the other biotic and abiotic interactions that impact the relationships between A. thaliana and its enemies. Along the way, we have contributed significantly to developing Arabidopsis as a model species, particularly for eco-evolutionary studies, as well as for GWAS and the study of natural variation. I am a member of the National Academy of Science and the American Academy of Arts and Sciences. I serve on many international science advisory boards and have recently started a position as EVP of Life Sciences at the Simons Foundation.</p>
         </div>
     </div>
-  <h1>Postdoctoral Fellow</h1>
+  <h2>Postdoctoral Fellow</h2>
     <div class="profile">
         <div class="profile-image">
             <img src="../assets/images/Choghag.jpg" alt="Choghag" />
@@ -92,6 +92,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
             <p></p>
         </div>
     </div>
+    <h2>Lab Manager</h2>
     <div class="profile">
         <div class="profile-image">
             <img src="../assets/images/Em.png" alt="Em" />
@@ -102,6 +103,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
             <p>I earned a bachelor’s degree in Biology from Occidental College with a focus on zoology, followed by a master’s in Biology, concentrating in bioinformatics and systems biology, at New York University. There, I conducted analyses to study the decline of <em>Phoenix theophrasti</em> and contributed to research on new treatments and diagnostic tools for Alzheimer’s disease at NYU Langone. Currently, I manage a range of lab-related administrative tasks including grant administration, and support postdoctoral fellows with computational research projects. Outside the lab, I enjoy volunteering with animals—especially given my background in exotic and domestic animal care—and spend my free time at the theater, and rock climbing.</p>
         </div>
     </div>
+   <h2>Research Associate</h2>
     <div class="profile">
         <div class="profile-image">
             <img src="../assets/images/Daniel.jpg" alt="Daniel" />
@@ -112,6 +114,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
             <p>I am half Portuguese, half Indian but I was born and brought up in the UAE. I did my undergraduate biology degree at NYUAD, focusing on designing Nanoparticles for Cancer Therapeutics while doing internships at multiple oncology wards. Currently, I am working on experimental characterisation of a spectrum of microbe-microbe interactions on the PATHOCOM project. Outside the lab I love going to the gym, watching films/theater and baking the most elegant cheesecake you've ever tasted!</p>
         </div>
     </div>
+    <h2>PhD Students</h2>
     <div class="profile">
         <div class="profile-image">
             <img src="../assets/images/Eric.jpg" alt="Eric" />
@@ -142,6 +145,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
             <p>I earned my bachelor’s degree in Ecology from Zhejiang University, China, where I became fascinated by species interactions and studied the Rice-Fish symbiosis system and microbes in the rice paddy, like methanotrophs. Then I pursued my master’s degree at NYU, studied the diversity of plant pathogen <em>Pseudomonas syringae’s</em> effectors in wild populations in the Bergelson Lab. Currently, I am a PhD student co-advised by Dr. Joy Bergelson and Dr. Gloria Coruzzi. My research focuses on the interaction between rice and its root-associated microbiome, aiming to identify the rice genetic factors that determine the diverse microbiome composition and function across rice varieties by integrating multi-omics data and machine-learning methods.</p>
         </div>
     </div>
+   <h2>Graduate Researchers</h2>
     <div class="profile">
         <div class="profile-image">
             <img src="../assets/images/Abbie.jpeg" alt="Abbie" />
@@ -164,6 +168,7 @@ Originally from the Philippines and I have obtained my bachelors degree in Bioch
             <p></p>
         </div>
     </div>
+   <h2>Undergraduate Researchers Fellow</h2>
     <div class="profile">
         <div class="profile-image">
             <img src="../assets/images/Hannah.jpg" alt="Hannah" />
