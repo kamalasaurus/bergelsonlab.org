@@ -16,16 +16,18 @@ permalink: /people/
 <br>
 
 <div class="people-grid">
+  <h1>Principal Investigator</h1>
     <div class="profile">
         <div class="profile-image">
             <img src="../assets/images/Joy Photo.png" alt="Joy Bergelson" />
         </div>
         <div class="description">
             <b>Joy Bergelson</b>
-            <p><b>Principal investigator</b>, Silver Professor and Provostial Fellow, New York University; Executive Vice President of Life Sciences, Simons Foundation</p>
+            <p><b>Principal Investigator</b>, Silver Professor and Provostial Fellow, New York University; Executive Vice President of Life Sciences, Simons Foundation</p>
           <p>I trained in a theoretical ecology lab in a Zoology department, but did empirical work on plants. This set me on a path of never doing what is expected of me. Upon graduation, I decided to learn enough molecular biology to make transgenic plants for my ecological experiments. Early fellowships from the Packard Foundation, Sloan Foundation and Life Sciences Research Foundation were pivotal in providing me the freedom to continue exploring. When the first disease resistance genes were cloned, I focused my attention there and never looked back. Our work has spanned the ecology, molecular evolution, genomics and functional biology of disease resistance in Arabidopsis thaliana. More recently, we have expanded to consider the other biotic and abiotic interactions that impact the relationships between A. thaliana and its enemies. Along the way, we have contributed significantly to developing Arabidopsis as a model species, particularly for eco-evolutionary studies, as well as for GWAS and the study of natural variation. I am a member of the National Academy of Science and the American Academy of Arts and Sciences. I serve on many international science advisory boards and have recently started a position as EVP of Life Sciences at the Simons Foundation.</p>
         </div>
     </div>
+  h1>Postdoctoral Fellow</h1>
     <div class="profile">
         <div class="profile-image">
             <img src="../assets/images/Choghag.jpg" alt="Choghag" />
@@ -38,6 +40,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
 </p>
         </div>
     </div>
+
 <div class="profile">
         <div class="profile-image">
             <img src="../assets/images/Hanna.png" alt="Hanna" />
@@ -71,11 +74,11 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
     </div>
     <div class="profile">
         <div class="profile-image">
-            <img src="../assets/images/Theo.jpg" alt="Theo" />
+            <img src="../assets/images/Theo.jpg" alt="Theo"/>
         </div>
         <div class="description">
             <b>Theo Gibbs</b>
-            <p><b>Postdoctoral Fellow</b>, NYU; <a href="https://theogibbs.github.io/">Website</a></</p>
+            <p><b>Postdoctoral Fellow</b>, NYU; <a href="https://theogibbs.github.io/">Website</a></p>
             <p>I am a Schmidt Science Fellow interested in how pathogen resistance emerges from the ecological interactions in the microbiome. My dissertation research combined mathematical theory and experiments with annual plants to understand whether interactions involving three or more species (called higher-order interactions) maintain coexistence in diverse ecological communities. Outside of research, I like to play and watch soccer, go hiking and listen to new music.</p>
         </div>
     </div>
