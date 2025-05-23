@@ -74,7 +74,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
             <img src="../assets/images/Theo.jpg" alt="Theo"/>
         </div>
         <div class="description">
-            <p><<b>Theo Gibbs</b>, PhD</p>
+            <p><b>Theo Gibbs</b>, PhD</p>
             <p>I am a Schmidt Science Fellow interested in how pathogen resistance emerges from the ecological interactions in the microbiome. My dissertation research combined mathematical theory and experiments with annual plants to understand whether interactions involving three or more species (called higher-order interactions) maintain coexistence in diverse ecological communities. Outside of research, I like to play and watch soccer, go hiking and listen to new music. <a href="https://theogibbs.github.io/">View Theo's Website here</a></p>
         </div>
     </div>
