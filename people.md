@@ -27,14 +27,14 @@ permalink: /people/
           <p>I trained in a theoretical ecology lab in a Zoology department, but did empirical work on plants. This set me on a path of never doing what is expected of me. Upon graduation, I decided to learn enough molecular biology to make transgenic plants for my ecological experiments. Early fellowships from the Packard Foundation, Sloan Foundation and Life Sciences Research Foundation were pivotal in providing me the freedom to continue exploring. When the first disease resistance genes were cloned, I focused my attention there and never looked back. Our work has spanned the ecology, molecular evolution, genomics and functional biology of disease resistance in Arabidopsis thaliana. More recently, we have expanded to consider the other biotic and abiotic interactions that impact the relationships between A. thaliana and its enemies. Along the way, we have contributed significantly to developing Arabidopsis as a model species, particularly for eco-evolutionary studies, as well as for GWAS and the study of natural variation. I am a member of the National Academy of Science and the American Academy of Arts and Sciences. I serve on many international science advisory boards and have recently started a position as EVP of Life Sciences at the Simons Foundation.</p>
         </div>
     </div>
-  <h2>Postdoctoral Fellow</h2>
+  <h2>Postdoctoral Fellows</h2>
     <div class="profile">
         <div class="profile-image">
             <img src="../assets/images/Choghag.jpg" alt="Choghag" />
         </div>
         <div class="description">
             <b>Choghag Demirjian</b>
-            <p><b>Postdoctoral Fellow</b>, NYU</p>
+            <<b>PhD</b>
             <p>I am a postdoctoral fellow in the compRgene project, which investigates the evolution of plant NLR genes across three Brassicaceae species. My research combines genomics, ecology, and functional biology to understand how genetic variation in both plants and pathogens shapes their evolutionary dynamics and immune responses. During my PhD, I studied how specific pathogenicity factors of <em>Ralstonia solanacearum</em> influence immune responses in <em>Arabidopsis thaliana</em>. Using natural variation in the host and effector mutants in the pathogen, I explored immune dynamics across both global and local plant populations and functionally validated genes, including an NLR gene, involved in susceptibility rather than resistance.
 I am deeply motivated by the challenge of uncovering the molecular basis of complex biological processes, particularly the plant immune system. Outside the lab, I enjoy hiking, cooking, and discovering new cuisines—activities that reflect my curiosity and love for exploration, both in science and in life.
 </p>
@@ -99,7 +99,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
         </div>
         <div class="description">
             <b>Em Schissler</b>
-            <p><b>Laboratory Manager</b>, NYU; <a href="https://www.linkedin.com/in/em-schissler/">LinkedIn</a></p>
+            <p><b>Laboratory Manager</b>; <a href="https://www.linkedin.com/in/em-schissler/">LinkedIn</a></p>
             <p>I earned a bachelor’s degree in Biology from Occidental College with a focus on zoology, followed by a master’s in Biology, concentrating in bioinformatics and systems biology, at New York University. There, I conducted analyses to study the decline of <em>Phoenix theophrasti</em> and contributed to research on new treatments and diagnostic tools for Alzheimer’s disease at NYU Langone. Currently, I manage a range of lab-related administrative tasks including grant administration, and support postdoctoral fellows with computational research projects. Outside the lab, I enjoy volunteering with animals—especially given my background in exotic and domestic animal care—and spend my free time at the theater, and rock climbing.</p>
         </div>
     </div>
@@ -121,7 +121,6 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
         </div>
         <div class="description">
             <b>Eric Laderman</b>
-            <p><b>PhD Student</b>, NYU</p>
             <p>I'm a PhD student in the Bergelson lab, where I'm interested in understanding how strain-level variation in plant pathogens is maintained and how this variation affects disease outcomes and bacterial competition in the phyllosphere. I graduated from Dartmouth College in 2020 with a BS in Biology and Biological Chemistry. While at Dartmouth, I worked in the Guerinot lab studying how plants alter photosynthesis in response to iron deficiency. After graduating, I joined the Bondy-Denomy lab at UCSF, where I researched how phages overcome CRISPR immunity in Listeria. When I’m not in the lab, you can probably find me playing tennis or enjoying a picnic in Central Park.</p>
         </div>
     </div>
@@ -168,7 +167,7 @@ Originally from the Philippines and I have obtained my bachelors degree in Bioch
             <p></p>
         </div>
     </div>
-   <h2>Undergraduate Researchers Fellow</h2>
+   <h2>Undergraduate Researchers</h2>
     <div class="profile">
         <div class="profile-image">
             <img src="../assets/images/Hannah.jpg" alt="Hannah" />
@@ -193,7 +192,7 @@ Originally from the Philippines and I have obtained my bachelors degree in Bioch
 
 <br />
 
-<b class="section-title">Gallery</b>
+<h2 class="section-title">Gallery</h2>
 
 <div class="gallery-grid">
     <div class="card card-wide">
@@ -207,49 +206,42 @@ Originally from the Philippines and I have obtained my bachelors degree in Bioch
         <div class="image">
             <img src="../assets/images/Dinner.jpg" alt="Dinner" />
         </div>
-        <div class="description">This is a description for a regular card.</div>
     </div>
     <div class="card">
         <div class="subtitle">Journal Club</div>
         <div class="image">
             <img src="../assets/images/MB_journal_club_2018.jpg" alt="Journal Club" />
         </div>
-        <div class="description">This is another wide card that spans 2 columns.</div>
     </div>
   <div class="card card-wide">
         <div class="subtitle">Lab Fun</div>
         <div class="image">
             <img src="../assets/images/GroupLabExamination.JPG" alt="Lab Examination" />
         </div>
-        <div class="description">This is a description for a regular card.</div>
     </div>
   <div class="card">
         <div class="subtitle">Hike</div>
         <div class="image">
             <img src="../assets/images/Old_Hike.png" alt="Hike" />
         </div>
-        <div class="description">This is a description for a regular card.</div>
     </div>
   <div class="card">
         <div class="subtitle">More Lab Fun</div>
         <div class="image">
             <img src="../assets/images/More_lab.JPG" alt="Second Lab Examination" />
         </div>
-        <div class="description">This is a description for a regular card.</div>
     </div>
   <div class="card">
         <div class="subtitle">Honors Thesis Presentation</div>
         <div class="image">
             <img src="../assets/images/UnderGrad poster.jpg" alt="Thesis" />
         </div>
-        <div class="description">This is a description for a regular card.</div>
     </div>
 <div class="card">
         <div class="subtitle">National Academy of Sciences celebration in Chicago</div>
         <div class="image">
             <img src="../assets/images/Joy Celebration.jpg" alt="Celebration" />
         </div>
-        <div class="description">This is another regular card.</div>
     </div>
 </div>
 
