@@ -70,14 +70,14 @@ layout: default
     We study the ecology and evolution of plant–pathogen interactions, focusing primarily on <em>Arabidopsis thaliana</em> and the bacteria that reside within it. Our approach is interdisciplinary; we draw upon tools from molecular genetics, molecular evolution, computation, field biology, chemistry, and population genetics to understand how ecological interactions shape evolutionary dynamics. Many of our field experiments are performed in the Midwest, or abroad, at sites in Sweden and France.
     </p>
     <div class="callouts">
-     <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/NLR-evolution'">
-    <img src="{{ site.baseurl }}/assets/images/NLR-Box2.png" alt="NLR Evolution" style="max-width: 100%; border-radius: 5px;">
+     <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/microbial-interactions-communities'">
+        <img src="{{ site.baseurl }}/assets/images/MIC-Box2.png" alt="Microbial Interactions" style="max-width: 100%; border-radius: 5px;">
+      </div>
+    <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/NLR-evolution'">
+        <img src="{{ site.baseurl }}/assets/images/NLR-Box2.png" alt="NLR Evolution" style="max-width: 100%; border-radius: 5px;">
+      </div>
+  <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/coevolutionary-interactions'">
+    <img src="{{ site.baseurl }}/assets/images/CI-Box3.png" alt="Microbe-Host Co-evolution" style="max-width: 100%; border-radius: 5px;">
   </div>
-  <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/microbial-interactions-communities'">
-    <img src="{{ site.baseurl }}/assets/images/CI-Box.png" alt="Microbial Interactions" style="max-width: 100%; border-radius: 5px;">
-  </div>
-  <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/microbe-host-coevolution'">
-    <img src="{{ site.baseurl }}/assets/images/CoEvo-Box.png" alt="Microbe-Host Co-evolution" style="max-width: 100%; border-radius: 5px;">
-  </div>>
 </div>
 
