@@ -201,7 +201,6 @@ Originally from the Philippines and I have obtained my bachelors degree in Bioch
         <div class="image">
             <img src="../assets/images/Cherryblossom.png" alt="Cherry blossoms" />
         </div>
-        <div class="description">This is a description for a wide card that spans 2 columns.</div>
     </div>
     <div class="card">
         <div class="subtitle">Lab Dinner</div>
