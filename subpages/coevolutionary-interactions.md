@@ -5,19 +5,27 @@ permalink: /coevolutionary-interactions/
 ---
 <div class="container">
   <img src="../assets/images/CI-Banner3.png" alt="Banner" style="width:100%;">
-  <div class="centered">Coevolutionary Interactions</div>
+  <div class="centered">Eco-evolutionary Dynamics</div>
 </div>
 
 <div class="research-grid-container">
-    <div class="research-grid-item research-grid-span-2">We investigate how host-microbiome interactions influence pathogen dynamics, seasonal processes shaping the <em>Arabidopsis</em> microbiome, and microbiome-based approaches to improve plant health. Despite pathogens' evolutionary advantages, plants often resist infection in nature, partly due to long-maintained polymorphisms in resistance (R) genes. Our goal is to uncover genetic factors affecting complex traits like disease by considering both host and pathogen contributions.</div>
+    <div class="research-grid-item research-grid-span-2">In parallel to the extensive diversity that we see in NLR alleles is an enormous strain diversity in the pathogens of A. thaliana. We are working to understand how this diversity is shaped and maintained.</div>
     <div class="research-grid-item">
         <img src="../assets/images/CI-Image.jpg" alt="Placeholder Image" />
     </div>
     <div class="research-grid-item">
-    <p>Our research investigates how host genetics, microbial communities, and environmental factors interact to shape plant immunity and pathogen success. We focus on microbial cooperation and competition, the genetic basis of pathogen-pathogen interactions, and the community context—including generalist microbes and alternative hosts—that maintains immune diversity. Seasonal and geographic variation, along with host and microbiota genetic diversity, influence these dynamics. By studying large isolate collections from pathogenic and commensal bacteria, we aim to uncover the ecological and genetic principles that enable pathogen invasion and identify key genes from both host and microbe that govern these interactions. Framed within the hologenome concept—which treats the host and microbiome as a unit of selection—we explore how coevolution shapes immune diversity, plant performance, and microbial community structure in complex and reciprocal ways.
+    <p>The long term maintenance of genetic variation among host and pathogen genotypes is typically explained by negative frequency dependent selection (NFDS), in which genotypes are disadvantaged as they become frequent. In simple models, pathogen strains can suffer NFDS when selection drives a resistant host genotype to rise in frequency, thereby reducing the resources available to the pathogen. Recent observations of co-infection among pathogen strains, however, raise questions about how NFDS can serve to maintain strain diversity, since all pathogen genotypes elicit a similar resistance response whose impact is shared among strains. We are collaborating with the Pascual lab to combine experiments on A. thaliana and its pathogen, P. syringae, with theory to address the maintenance of this strain diversity. We are particularly interested in such questions as how ecological dynamics play out across space to generate emergent niches for pathogen strains, how the modulation of resistance responses allow strain co-existence and, as a longer term goal, how the architecture of the plant immune system both shapes selection acting on microbial pathogens and impacts their dynamics. 
     </p>
     </div>
-  
+  </div>
+    <div class="research-grid-item research-grid-span-2">
+  <p><b>Selected Publications:</b></p>
+  <ul>
+    <li>​​Laderman, E, Li, S, Maerkle, H, Pascual*, M and J Bergelson*. Host immunity influences diversity in the P. syringae – A. thaliana pathosystem. In review. *Joint corresponding authors</li>
+    <li>Li, S, Laderman, E, Maerkle, H, Yang, Y, Bergelson*, J and M Pascual*. Negative frequency dependent selection contributes to the modular structure of effector repertoires in Pseudomonas syringae. In review. *Joint corresponding authors</i>, in press.</li>
+    <li>Backman, T, Latorre, SM, Symeonidi, E, Muszynski, A, Bleak, E, Eads, L, Martinez-Koury, I, Som, S, Hawks, A, Gloss, AD, Belnap, D, Manuel, AM, Deutschbauer, AM, Bergelson, J, Azadi, P, Burbano, HA and T Karasov. 2024. A phage-like bacteriocin suppresses competitors in metapopulations of pathogenic bacteria. Science 384 (6701): eado713<i>Nature</i> 512 (7515): 436–440.</li>
+  </ul>
+</div>
 </div>
 
 
