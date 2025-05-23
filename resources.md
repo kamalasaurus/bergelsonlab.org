@@ -24,8 +24,7 @@ permalink: /resources/
 
 <h3>MARTA – Metagenomic and rDNA Taxonomic Assignment</h3>
 <p>
-Phylogenetically classifies DNA sequence data using the nucleotide database and Taxonomy database from NCBI. The java-based software blasts each sequence that you provide and looks for a consensus taxon among the top-hits returned from blast. The software suite is published in <a href="https://academic.oup.com/bioinformatics/article/26/4/568/243101">Horton et al. 2010.</a> and an example can be found in the supplements of the publication (download pdf). Here are more <a href="https://bergelsonlab.org/marta/">information on installation and usage</a> of MARTA.  
-</p>
+Phylogenetically classifies DNA sequence data using the nucleotide database and Taxonomy database from NCBI. The java-based software blasts each sequence that you provide and looks for a consensus taxon among the top-hits returned from blast. The software suite is published in <a href="https://academic.oup.com/bioinformatics/article/26/4/568/243101">Horton et al. 2010.</a>.
 
 <h3>Effectorsearch</h3>
 <p>
