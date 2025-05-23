@@ -65,3 +65,20 @@ layout: default
   <div class="centered">NLR Evolution in <em>A. thaliana</em> and its Relatives</div>
 </div>
 
+<div class="callouts">
+  <div class="study-area">
+    <a href="{{ site.baseurl }}/NLR-evolution">
+      <img src="../assets/images/NLR-Box2.png" alt="NLR" class="research-profile" style="width:100%; border-radius: 5px;">
+    </a>
+  </div>
+</div>
+
+
+<div class="research-container" onclick="window.location.href='{{ site.baseurl }}/NLR-evolution'">
+    <img src="../assets/images/NLR-Box2.png" alt="NLR" class="research-profile">
+    <div class="research-text-block">
+      <h4 style="color: white;">NLR evolution in <em>A. thaliana</em></h4>
+      <p>What drives the evolution and diversification of NLR genes in <em>Arabidopsis</em> species?</p>
+    </div>
+  </div>
+
