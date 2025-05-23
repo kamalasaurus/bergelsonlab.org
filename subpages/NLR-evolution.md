@@ -24,8 +24,8 @@ permalink: /NLR-evolution/
   <li>Weiner, B, Maerkle, H, Laderman, E, Demirjian, C and J Bergelson. 2025. A physical model links structure and function in the plant immune system. PNAS, in press.</li>
   <li>Karasov, TL, Kniskern, JM, Gao, L, DeYoung, BJ, Ding, J, Ullrich, D, Lastra, R, Nallu, S, Innes, RW, Barrett, LG, Hudson, RR and J Bergelson. 2014. The long-term maintenance of a resistance polymorphism through diffuse interactions. Nature 512 (7515): 436-440.</li>
 </ul>
-
-<div class="research-grid-item research-grid-span-2">
+    </div>
+    <div class="research-grid-item research-grid-span-2">
   <p><b>Selected Publications:</b></p>
   <ul>
     <li>Maerkle, H and J Bergelson. Evolutionary implications of host interactions with a generalist pathogen. In review.</li>
@@ -33,6 +33,4 @@ permalink: /NLR-evolution/
     <li>Karasov, TL, Kniskern, JM, Gao, L, DeYoung, BJ, Ding, J, Ullrich, D, Lastra, R, Nallu, S, Innes, RW, Barrett, LG, Hudson, RR and J Bergelson. 2014. The long-term maintenance of a resistance polymorphism through diffuse interactions. <i>Nature</i> 512 (7515): 436–440.</li>
   </ul>
 </div>
-
-    </div>
 </div>
