@@ -62,7 +62,6 @@ layout: default
 <hr>
 <div class="container">
   <img src="assets/images/NLR-Banner2.png" alt="Banner" style="width:100%;">
-  <div class="centered">NLR Evolution in <em>A. thaliana</em> and its Relatives</div>
 </div>
 
 
