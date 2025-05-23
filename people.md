@@ -71,12 +71,12 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
     </div>
     <div class="profile">
         <div class="profile-image">
-            <img src="../assets/images/Bio.png" alt="Theo" />
+            <img src="../assets/images/Theo.jpg" alt="Theo" />
         </div>
         <div class="description">
             <b>Theo Gibbs</b>
-            <p><b>Postdoctoral Fellow</b>, NYU</p>
-            <p></p>
+            <p><b>Postdoctoral Fellow</b>, NYU; <a href="https://theogibbs.github.io/">Website</a></</p>
+            <p>I am a Schmidt Science Fellow interested in how pathogen resistance emerges from the ecological interactions in the microbiome. My dissertation research combined mathematical theory and experiments with annual plants to understand whether interactions involving three or more species (called higher-order interactions) maintain coexistence in diverse ecological communities. Outside of research, I like to play and watch soccer, go hiking and listen to new music.</p>
         </div>
     </div>
     <div class="profile">
