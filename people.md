@@ -46,7 +46,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
         </div>
         <div class="description">
             <b>Hanna Märkle</b>
-            <p><b>Postdoctoral Fellow</b>, NYU</p>
+            <p>PhD</p>
             <p>I’m fascinated by obtaining a better understanding of the interactions between hosts and pathogens, their long term (co)evolutionary dynamics, the genes involved in such interactions and the relevant contributions of ecology, functional biology and genomic architecture. My current research focuses on understanding the ecological, genomic and functional drivers of plant resistance gene evolution. Therefore, I’m studying accessions of three phylogenetically related Brassicaceae species (<em>Arabidopsis thaliana</em>, <em>Cardamine hirsuta</em> and <em>Draba verna</em>) which have been collected in the Midi-Pyrenees, France. My work combines genomic data analysis, bioinformatic methods and modeling techniques. Within the project I’m closely collaborating with Choghag Demirjian.
 </p>
         </div>
