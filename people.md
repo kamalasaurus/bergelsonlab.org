@@ -23,8 +23,7 @@ permalink: /people/
         </div>
         <div class="description">
             <b>Joy Bergelson</b>
-            <p>Silver Professor and Provostial Fellow, New York University</b></p> 
-            <p>Executive Vice President of Life Sciences, Simons Foundation</b></p>          
+            <p><i>Silver Professor and Provostial Fellow, New York University; Executive Vice President of Life Sciences, Simons Foundation</i></p>  
           <p>I trained in a theoretical ecology lab in a Zoology department, but did empirical work on plants. This set me on a path of never doing what is expected of me. Upon graduation, I decided to learn enough molecular biology to make transgenic plants for my ecological experiments. Early fellowships from the Packard Foundation, Sloan Foundation and Life Sciences Research Foundation were pivotal in providing me the freedom to continue exploring. When the first disease resistance genes were cloned, I focused my attention there and never looked back. Our work has spanned the ecology, molecular evolution, genomics and functional biology of disease resistance in Arabidopsis thaliana. More recently, we have expanded to consider the other biotic and abiotic interactions that impact the relationships between A. thaliana and its enemies. Along the way, we have contributed significantly to developing Arabidopsis as a model species, particularly for eco-evolutionary studies, as well as for GWAS and the study of natural variation. I am a member of the National Academy of Science and the American Academy of Arts and Sciences. I serve on many international science advisory boards and have recently started a position as EVP of Life Sciences at the Simons Foundation.</p>
         </div>
     </div>
@@ -46,7 +45,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
             <img src="../assets/images/Hanna.png" alt="Hanna" />
         </div>
         <div class="description">
-            <b>Hanna Märkle</b>
+            <b>Hanna Märkle</b>,PhD</p>
             <p>I’m fascinated by obtaining a better understanding of the interactions between hosts and pathogens, their long term (co)evolutionary dynamics, the genes involved in such interactions and the relevant contributions of ecology, functional biology and genomic architecture. My current research focuses on understanding the ecological, genomic and functional drivers of plant resistance gene evolution. Therefore, I’m studying accessions of three phylogenetically related Brassicaceae species (<em>Arabidopsis thaliana</em>, <em>Cardamine hirsuta</em> and <em>Draba verna</em>) which have been collected in the Midi-Pyrenees, France. My work combines genomic data analysis, bioinformatic methods and modeling techniques. Within the project I’m closely collaborating with Choghag Demirjian.
 </p>
         </div>
@@ -66,8 +65,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
             <img src="../assets/images/Luke.jpeg" alt="Luke" />
         </div>
         <div class="description">
-            <b>Luke Henry</b>
-            <p><b>Postdoctoral Fellow</b>, NYU</p>
+            <b>Luke Henry</b>, PhD</p>
             <p> My research interests are focused on eco-evolutionary dynamics in host-associated microbiomes. I’ve worked in a wide range of systems, from the ecology of Lyme disease to sunflower domestication to mitochondria-Wolbachia interactions during oogenesis. My dissertation focused on the evolutionary potential of host-associated microbiomes by using <em>Drosophila melanogaster</em> to explore the relative contribution of the microbiome to local adaptation. Now, in the Bergelson lab, I investigate 1) the impact of host-microbiome interactions on pathogen dynamics, 2) seasonal processes that shape the <em>Arabidopsis</em> microbiome, and 3) ecologically informed microbiome engineering. <a href="https://scholar.google.com/citations?user=mfT999QAAAAJ">View Luke's Google Scholar here</a> </p>
         </div>
     </div>
@@ -76,8 +74,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
             <img src="../assets/images/Theo.jpg" alt="Theo"/>
         </div>
         <div class="description">
-            <b>Theo Gibbs</b>
-            <p><b>Postdoctoral Fellow</b>, NYU
+            <p><<b>Theo Gibbs</b>, PhD</p>
             <p>I am a Schmidt Science Fellow interested in how pathogen resistance emerges from the ecological interactions in the microbiome. My dissertation research combined mathematical theory and experiments with annual plants to understand whether interactions involving three or more species (called higher-order interactions) maintain coexistence in diverse ecological communities. Outside of research, I like to play and watch soccer, go hiking and listen to new music. <a href="https://theogibbs.github.io/">View Theo's Website here</a></p>
         </div>
     </div>
