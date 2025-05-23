@@ -345,7 +345,7 @@ table.publications th, table.publications td {
 
 .description b {
     font-size: 18px; /* Adjusts the font size for names */
-    color: #333; /* Optional text color */
+    color: #000000; /* Optional text color */
 }
 
 /* Gallery */
