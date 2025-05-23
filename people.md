@@ -98,8 +98,8 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
         </div>
         <div class="description">
             <b>Em Schissler</b>
-            <p><b>Laboratory Manager</b>; <a href="https://www.linkedin.com/in/em-schissler/">LinkedIn</a></p>
-            <p>I earned a bachelor’s degree in Biology from Occidental College with a focus on zoology, followed by a master’s in Biology, concentrating in bioinformatics and systems biology, at New York University. There, I conducted analyses to study the decline of <em>Phoenix theophrasti</em> and contributed to research on new treatments and diagnostic tools for Alzheimer’s disease at NYU Langone. Currently, I manage a range of lab-related administrative tasks including grant administration, and support postdoctoral fellows with computational research projects. Outside the lab, I enjoy volunteering with animals—especially given my background in exotic and domestic animal care—and spend my free time at the theater, and rock climbing.</p>
+            <p><b>Laboratory Manager</b></p>
+            <p>I earned a bachelor’s degree in Biology from Occidental College with a focus on zoology, followed by a master’s in Biology, concentrating in bioinformatics and systems biology, at New York University. There, I conducted analyses to study the decline of <em>Phoenix theophrasti</em> and contributed to research on new treatments and diagnostic tools for Alzheimer’s disease at NYU Langone. Currently, I manage a range of lab-related administrative tasks including grant administration, and support postdoctoral fellows with computational research projects. Outside the lab, I enjoy volunteering with animals—especially given my background in exotic and domestic animal care—and spend my free time at the theater, and rock climbing.<a href="https://www.linkedin.com/in/em-schissler/">View Em's LinkedIn here</a></p>
         </div>
     </div>
    <h2>Research Associate</h2>
