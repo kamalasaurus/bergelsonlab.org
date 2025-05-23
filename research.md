@@ -31,7 +31,7 @@ We study the ecology and evolution of plant–pathogen interactions, focusing pr
   <div class="research-container" onclick="window.location.href='{{ site.baseurl }}/coevolutionary-interactions'">
     <img src="../assets/images/CI-Box3.png" alt="CI" class="research-profile">
     <div class="research-text-block">
-      <h4 style="color: white;">Coevolutionary Interactions</h4>
+      <h4 style="color: white;">Eco-evolutionary Dynamics</h4>
       <p>How do plants cope with quickly evolving pathogens?</p>
     </div>
   </div>
