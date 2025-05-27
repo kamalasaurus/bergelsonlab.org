@@ -5,15 +5,6 @@ permalink: /people/
 ---
 <br />
 
-<h1 style="text-align: center; background-color: #E6F3EE; padding: 30px; margin: 0; color: black; font-size: 36px; border: 1px solid black;">
-  <b class="section-title">Meet the Team</b>
-</h1>
-<p>Get to know the researchers, postdocs, students, and staff powering our discoveries.</p>
-<br>
-
-<div class="container">
-  <img src="../assets/images/PostDoc.png" alt="Banner" style="max-width: 700px; width: 100%; border: 1px solid #000000; display: block; margin: 0 auto;">
-</div>
 
 <!-- Section Header -->
 <div style="background: linear-gradient(135deg, #e6f3ee, #cde6dc); padding: 40px 20px; text-align: center; border-bottom: 2px solid #003366;">
