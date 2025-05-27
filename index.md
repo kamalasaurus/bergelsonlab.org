@@ -10,7 +10,10 @@ layout: default
   <img src="assets/images/Main_Banner3.png" alt="Banner" style="width:100%;">
 </div>
 
-<div class="index">
+<div class="main-content"
+     style="display: flex; align-items: flex-start; gap: 40px; margin-top: 20px; flex-wrap: wrap;">
+  
+<div class="index" style="flex: 1 1 0; min-width: 0;">
     <b class="section-title">About Us</b>
     <p>
     We study the ecology and evolution of plant–pathogen interactions, focusing primarily on <em>Arabidopsis thaliana</em> and the bacteria that reside within it. Our approach is interdisciplinary; we draw upon tools from molecular genetics, molecular evolution, computation, field biology, chemistry, and population genetics to understand how ecological interactions shape evolutionary dynamics. Many of our field experiments are performed in the Midwest, or abroad, at sites in Sweden and France.
@@ -73,5 +76,5 @@ layout: default
         {% endfor %}
     </ul>
    </div>
-
+</div>
 
