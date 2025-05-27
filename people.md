@@ -144,7 +144,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
         </div>
         <div class="description">
             <b>Abbie Patalinghug</b>
-            <p><b>Masters Researcher</b>, NYU</p>
+            <p><b>Master's Student</b>, NYU</p>
             <p>
 Originally from the Philippines and I have obtained my bachelors degree in Biochemistry from the University of Nevada - Las Vegas. After college, I spent a few years in the biotech industry starting with performing NGS on COVID-19 samples for variant tracing with the California Department of Public Health  during the height of the pandemic in 2020. Then, I transitioned to autoimmune disease research focusing on improving diagnostics for diseases including rheumatoid arthritis and systemic lupus. At the Bergelson lab, I am interested in investigating the molecular mechanisms of plant-pathogen interaction focusing on protein-protein interactions between NLRs and pathogen effectors.
 </p>
@@ -156,11 +156,11 @@ Originally from the Philippines and I have obtained my bachelors degree in Bioch
         </div>
         <div class="description">
             <b>Harrison Vokshoor</b>
-            <p><b>Masters Researcher</b>, NYU</p>
+            <p><b>Master's Student</b>, NYU</p>
             <p></p>
         </div>
     </div>
-   <h2>Undergraduate Researchers</h2>
+   <h2>Undergraduate Students</h2>
     <div class="profile">
         <div class="profile-image">
             <img src="../assets/images/Hannah.jpg" alt="Hannah" />
@@ -189,49 +189,49 @@ Originally from the Philippines and I have obtained my bachelors degree in Bioch
 
 <div class="gallery-grid">
     <div class="card card-wide">
-        <div class="subtitle">Cherry Blossoms</div>
+        <div class="subtitle">Cherry Blossom Outing</div>
         <div class="image">
             <img src="../assets/images/Cherryblossom.png" alt="Cherry blossoms" />
         </div>
     </div>
     <div class="card">
-        <div class="subtitle">Lab Dinner</div>
+        <div class="subtitle">Lab Dinner Gathering</div>
         <div class="image">
             <img src="../assets/images/Dinner.jpg" alt="Dinner" />
         </div>
     </div>
     <div class="card">
-        <div class="subtitle">Journal Club</div>
+        <div class="subtitle">Journal Club Discussion</div>
         <div class="image">
             <img src="../assets/images/MB_journal_club_2018.jpg" alt="Journal Club" />
         </div>
     </div>
   <div class="card card-wide">
-        <div class="subtitle">Lab Fun</div>
+        <div class="subtitle">In the Lab: Sample Observation</div>
         <div class="image">
             <img src="../assets/images/GroupLabExamination.JPG" alt="Lab Examination" />
         </div>
     </div>
   <div class="card">
-        <div class="subtitle">Hike</div>
+        <div class="subtitle">Group Hike Summit Photo</div>
         <div class="image">
             <img src="../assets/images/Old_Hike.png" alt="Hike" />
         </div>
     </div>
   <div class="card">
-        <div class="subtitle">More Lab Fun</div>
+        <div class="subtitle">In the Lab: Sample Preparation</div>
         <div class="image">
             <img src="../assets/images/More_lab.JPG" alt="Second Lab Examination" />
         </div>
     </div>
   <div class="card">
-        <div class="subtitle">Honors Thesis Presentation</div>
+        <div class="subtitle">Undergraduate Honors Thesis Presentation</div>
         <div class="image">
             <img src="../assets/images/UnderGrad poster.jpg" alt="Thesis" />
         </div>
     </div>
 <div class="card">
-        <div class="subtitle">National Academy of Sciences celebration in Chicago</div>
+        <div class="subtitle">National Academy of Sciences Celebration in Chicago</div>
         <div class="image">
             <img src="../assets/images/Joy Celebration.jpg" alt="Celebration" />
         </div>
