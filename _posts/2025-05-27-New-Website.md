@@ -36,7 +36,7 @@ We’ve refreshed the entire site design to be:
 Take a look:
 
 <div style="text-align:center;">
-  <img src="/assets/images/NYU.png" alt="New Lab Homepage" style="max-width:90%; border-radius:10px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
+  <img src="../assets/images/NYU.png" alt="New Lab Homepage" style="max-width:90%; border-radius:10px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
 </div>
 
 ## 🛠️ Built with Jekyll  
