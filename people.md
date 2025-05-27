@@ -74,7 +74,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
         </div>
         <div class="description">
             <b>MacCall Calvert</b>
-            <p><b>Postdoctoral Fellow</b>, PhD</b></p>
+            <p><b>Postdoctoral Fellow,PhD</b></p>
             <p></p>
         </div>
     </div>
