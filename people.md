@@ -24,7 +24,7 @@ permalink: /people/
         <div class="description">
             <b>Joy Bergelson</b>
            <p><strong><em>Silver Professor and Provostial Fellow, New York University; Executive Vice President of Life Sciences, Simons Foundation</em></strong></p>
-          <p>I trained in a theoretical ecology lab in a Zoology department, but did empirical work on plants. This set me on a path of never doing what is expected of me. Upon graduation, I decided to learn enough molecular biology to make transgenic plants for my ecological experiments. Early fellowships from the Packard Foundation, Sloan Foundation and Life Sciences Research Foundation were pivotal in providing me the freedom to continue exploring. When the first disease resistance genes were cloned, I focused my attention there and never looked back. Our work has spanned the ecology, molecular evolution, genomics and functional biology of disease resistance in Arabidopsis thaliana. More recently, we have expanded to consider the other biotic and abiotic interactions that impact the relationships between A. thaliana and its enemies. Along the way, we have contributed significantly to developing Arabidopsis as a model species, particularly for eco-evolutionary studies, as well as for GWAS and the study of natural variation. I am a member of the National Academy of Science and the American Academy of Arts and Sciences. I serve on many international science advisory boards and have recently started a position as EVP of Life Sciences at the Simons Foundation.</p>
+          <p>I trained in a theoretical ecology lab doing experimental work on plants, and after obtaining my PhD decided to learn enough molecular biology to make my experimental designs to the level of the genome. Early fellowships from the Packard, Sloan and Life Sciences Research Foundations were pivotal in providing me the freedom to do this. When the first disease resistance genes were cloned, I focused my attention there and never looked back. Our work has spanned the ecology, molecular evolution, genomics and functional biology of disease resistance (as well as interactions with some other enemies and commensals) in Arabidopsis thaliana, always with a strong emphasis on bringing the tools of genetics and genomics to ecology. Along the way, we have contributed to developing tools and resources for the study of natural variation in Arabidopsis thaliana. I am a member of the National Academy of Science and the American Academy of Arts and Sciences. I serve on many international science advisory boards and serve as EVP of Life Sciences at the Simons Foundation.</p>
         </div>
     </div>
   <h2>Postdoctoral Fellows</h2>
@@ -107,7 +107,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
             <p>I am half Portuguese, half Indian but I was born and brought up in the UAE. I did my undergraduate biology degree at NYUAD, focusing on designing Nanoparticles for Cancer Therapeutics while doing internships at multiple oncology wards. Currently, I am working on experimental characterisation of a spectrum of microbe-microbe interactions on the PATHOCOM project. Outside the lab I love going to the gym, watching films/theater and baking the most elegant cheesecake you've ever tasted!</p>
         </div>
     </div>
-    <h2>PhD Students</h2>
+    <h2>Graduate Students</h2>
     <div class="profile">
         <div class="profile-image">
             <img src="../assets/images/Eric.jpg" alt="Eric" />
@@ -138,14 +138,13 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
             <p>I earned my bachelor’s degree in Ecology from Zhejiang University, China, where I became fascinated by species interactions and studied the Rice-Fish symbiosis system and microbes in the rice paddy, like methanotrophs. Then I pursued my master’s degree at NYU, studied the diversity of plant pathogen <em>Pseudomonas syringae’s</em> effectors in wild populations in the Bergelson Lab. Currently, I am a PhD student co-advised by Dr. Joy Bergelson and Dr. Gloria Coruzzi. My research focuses on the interaction between rice and its root-associated microbiome, aiming to identify the rice genetic factors that determine the diverse microbiome composition and function across rice varieties by integrating multi-omics data and machine-learning methods.</p>
         </div>
     </div>
-   <h2>Graduate Researchers</h2>
     <div class="profile">
         <div class="profile-image">
             <img src="../assets/images/Abbie.jpeg" alt="Abbie" />
         </div>
         <div class="description">
             <b>Abbie Patalinghug</b>
-            <p><b>Graduate Researcher</b>, NYU</p>
+            <p><b>Masters Researcher</b>, NYU</p>
             <p>
 Originally from the Philippines and I have obtained my bachelors degree in Biochemistry from the University of Nevada - Las Vegas. After college, I spent a few years in the biotech industry starting with performing NGS on COVID-19 samples for variant tracing with the California Department of Public Health  during the height of the pandemic in 2020. Then, I transitioned to autoimmune disease research focusing on improving diagnostics for diseases including rheumatoid arthritis and systemic lupus. At the Bergelson lab, I am interested in investigating the molecular mechanisms of plant-pathogen interaction focusing on protein-protein interactions between NLRs and pathogen effectors.
 </p>
@@ -157,7 +156,7 @@ Originally from the Philippines and I have obtained my bachelors degree in Bioch
         </div>
         <div class="description">
             <b>Harrison Vokshoor</b>
-            <p><b>Graduate Researcher</b>, NYU</p>
+            <p><b>Masters Researcher</b>, NYU</p>
             <p></p>
         </div>
     </div>
