@@ -14,7 +14,7 @@ permalink: /microbial-interactions-communities/
 
   
 <div style="display: flex; align-items: flex-start; gap: 10px;">
-  <img src="../assets/images/MIC-Image.jpg" alt="Related NLR Image" style="max-width: 340px; height: auto;">
+  <img src="../assets/images/MIC-Image.jpg" alt="Related NLR Image" style="max-width: 320px; height: auto;">
   <div>
     <p style="font-size: 15px;">
 Our past work reveals large impacts of host genetics on the composition of the microbiome but, at the same time, the microbial interactions that occur within these hosts play a key role. We are interested in the interplay between genetics and ecology. For example, in a large collaborative ERC project, PATHOCOM (with the groups of Detlef Weigel and Fabrice Roux), we ask whether a combination of theory and high-throughput assays of microbial interactions that allow joint-GWAS analysis will lend insight into the composition of <em>A. thaliana</em> associated microbiomes, either in terms of species or in terms of gene content. In rice (with the group of Gloria Coruzzi), we integrate multi-omics data and machine learning to dissect the genetic basis of root microbiome variation across varieties. Across these and other systems, we focus on microbial “hub” species whose colonization and interactions are strongly shaped by host genotype, and we use controlled experiments to test the function of candidate genes and host traits in structuring microbial communities. Ultimately, our work aims to reveal how plants promote beneficial microbes, limit pathogens, and enhance resistance.
