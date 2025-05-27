@@ -14,52 +14,6 @@ permalink: /people/
   <img src="../assets/images/PostDoc.png" alt="Banner" style="max-width: 700px; width: 100%; border: 1px solid #000000; display: block; margin: 0 auto;">
 </div>
 
-<style>
-.section-header {
-  background: linear-gradient(135deg, #e6f3ee, #cde6dc);
-  padding: 60px 20px;
-  text-align: center;
-  border-bottom: 2px solid #003366;
-  position: relative;
-}
-
-.section-header h1 {
-  font-size: 42px;
-  color: #003366;
-  margin-bottom: 10px;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-}
-
-.section-header p {
-  font-size: 18px;
-  color: #333;
-  max-width: 700px;
-  margin: 0 auto;
-}
-
-.banner-wrapper {
-  margin: 40px auto;
-  text-align: center;
-}
-
-.banner-wrapper img {
-  max-width: 90%;
-  width: 700px;
-  border: 2px solid #003366;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-  border-radius: 8px;
-}
-
-.divider {
-  border: none;
-  border-top: 2px solid #003366;
-  width: 80%;
-  margin: 40px auto;
-}
-</style>
-
 <div class="section-header">
   <h1>Meet the Team</h1>
   <p>Get to know the researchers, postdocs, students, and staff powering our discoveries.</p>
