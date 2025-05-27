@@ -21,7 +21,7 @@ The NLR genes in <em>A. thaliana</em> exhibit a range of evolutionary histories,
   </div>
 </div>
 
-<div style="height: 5px;"></div>
+<div style="height: 10px;"></div>
 
 <p style="font-size: 14.5px;"><b>Selected Publications:</b></p>
 <ul>
