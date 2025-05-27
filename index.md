@@ -28,7 +28,7 @@ layout: default
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
                 background: rgba(0, 0, 0, 0.7); color: white; padding: 10px 20px;
                 font-weight: bold; text-align: center; border-radius: 0px;
-                font-size: 10px;">
+                font-size: 9px;">
       Microbial Interactions
     </div>
   </div>
@@ -40,7 +40,7 @@ layout: default
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
                 background: rgba(0, 0, 0, 0.7); color: white; padding: 10px 20px;
                 font-weight: bold; text-align: center; border-radius: 0px;
-                font-size: 10px;">
+                font-size: 9px;">
       NLR Evolution
     </div>
   </div>
@@ -52,7 +52,7 @@ layout: default
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
                 background: rgba(0, 0, 0, 0.7); color: white; padding: 10px 20px;
                 font-weight: bold; text-align: center; border-radius: 0px;
-                font-size: 10px;">
+                font-size: 9px;">
       Eco-evolutionary Interactions
     </div>
   </div>
