@@ -78,13 +78,4 @@ layout: default
     </ul>
    </div>
 </div>
-
-  <footer>
-    <img src="assets/images/NYU.png" alt="NYU Logo" />
-    <p>
-      <b>Principal Investigator</b><br />
-      Joy Bergelson<br />
-      jb7684 [at] nyu [dot] edu
-    </p>
-  </footer>
 </body>
