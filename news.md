@@ -73,9 +73,7 @@ permalink: /news/
     </div>
   {% endfor %}
 </div>
-
 <hr>
-
 <style>
 .flip-container {
   perspective: 1000px;
