@@ -5,10 +5,11 @@ permalink: /people/
 ---
 <br />
 
-<h1 style="text-align: center; background-color: #E6F3EE; padding: 30px; margin: 0; color: black; font-size: 36px;">
+<h1 style="text-align: center; background-color: #E6F3EE; padding: 30px; margin: 0; color: black; font-size: 36px; border: 1px solid black;">
   <b class="section-title">Meet the Team</b>
 </h1>
 <br>
+
 
 <div class="container">
   <img src="../assets/images/PostDoc.png" alt="Banner" style="max-width: 700px; width: 100%; border: 1px solid #000000; display: block; margin: 0 auto;">
