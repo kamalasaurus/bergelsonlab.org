@@ -15,6 +15,7 @@ layout: default
     <p>
     We study the ecology and evolution of plant–pathogen interactions, focusing primarily on <em>Arabidopsis thaliana</em> and the bacteria that reside within it. Our approach is interdisciplinary; we draw upon tools from molecular genetics, molecular evolution, computation, field biology, chemistry, and population genetics to understand how ecological interactions shape evolutionary dynamics. Many of our field experiments are performed in the Midwest, or abroad, at sites in Sweden and France.
     </p>
+</div>
 
 <div class="container">
   <b>About Us</b>
@@ -31,7 +32,7 @@ layout: default
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
                 background: rgba(0, 0, 0, 0.7); color: white; padding: 5px 10px;
                 font-weight: bold; text-align: center; border-radius: 0px;
-                font-size: 12px;">
+                font-size: 10px;">
       Microbial Interactions
     </div>
   </div>
@@ -43,7 +44,7 @@ layout: default
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
                 background: rgba(0, 0, 0, 0.7); color: white; padding: 5px 10px;
                 font-weight: bold; text-align: center; border-radius: 0px;
-                font-size: 12px;">
+                font-size: 10px;">
       NLR Evolution
     </div>
   </div>
@@ -55,7 +56,7 @@ layout: default
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
                 background: rgba(0, 0, 0, 0.7); color: white; padding: 5px 10px;
                 font-weight: bold; text-align: center; border-radius: 0px;
-                font-size: 12px;">
+                font-size: 10px;">
       Co-evolutionary Interactions
     </div>
   </div>
