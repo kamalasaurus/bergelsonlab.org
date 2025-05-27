@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Coevolutionary Interactions
-permalink: /coevolutionary-interactions/
+title: Ecoevolutionary Interactions
+permalink: /ecoevolutionary-interactions/
 ---
 <div class="container">
   <img src="../assets/images/CI-Banner3.png" alt="Banner" style="width:100%;">
