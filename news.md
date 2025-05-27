@@ -116,7 +116,8 @@ permalink: /news/
   transform: rotateY(180deg);
 }
 
-  <hr>
+<hr>
+  
 </style>
 
 <h1 style="text-align: center; background-color: #E6F3EE; padding: 30px; margin: 0; font-size: 36px; border: 1px solid black;">
@@ -168,8 +169,8 @@ permalink: /news/
 .masonry-item p {
   color: #333;
 }
+<hr>
 </style>
-
 <h1 style="text-align: center; background-color: #E6F3EE; padding: 30px; margin: 0; font-size: 36px; border: 1px solid black;">
   <b class="section-title">Latest News</b>
 </h1>
@@ -185,7 +186,6 @@ permalink: /news/
 </div>
 
 <hr>
-
 <style>
 .news-section {
   padding: 40px 20px;
@@ -263,10 +263,7 @@ permalink: /news/
     {% endfor %}
   </div>
 </div>
-
-
 <hr>
-
 <style>
 .news-section {
   max-width: 800px;
@@ -315,9 +312,7 @@ permalink: /news/
     </div>
   {% endfor %}
 </div>
-
 <hr>
-
 <style>
 .timeline {
   max-width: 800px;
@@ -364,8 +359,8 @@ permalink: /news/
   font-size: 15px;
   color: #333;
 }
+<hr>
 </style>
-
 <div class="timeline">
   <h1>Latest News</h1>
   {% for post in site.posts %}
