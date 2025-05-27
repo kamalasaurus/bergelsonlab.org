@@ -5,7 +5,9 @@ permalink: /people/
 ---
 <br />
 
-<h1><b class="section-title">The Team</b></h1>
+<h1 style="text-align: center;"><b class="section-title">Meet the Team</b></h1>
+
+<br>
 
 <div class="container">
   <img src="../assets/images/PostDoc.png" alt="Banner" style="max-width: 700px; width: 100%; border: 1px solid #000000; display: block; margin: 0 auto;">
