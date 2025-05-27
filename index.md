@@ -5,8 +5,6 @@
 layout: default
 ---
 
-
-
 <hr>
 <div class="container">
   <img src="assets/images/Main_Banner3.png" alt="Banner" style="width:100%;">
@@ -63,24 +61,23 @@ layout: default
   </div>
 </div>
 
-<div class="news" style="width: 100%; margin-top: 40px; text-align: left; font-size: 0.9em;">
-  <b>
-    {% for page in site.pages %}
-      {% if page.title == "News" %}
-        <a href="{{ page.url | relative_url }}">News</a>
-      {% endif %}
-    {% endfor %}
-  </b>
-  <ul>
-    {% for post in site.posts %}
-      <li>
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        <p>{{ post.date | date: "%B %d, %Y" }}</p>
-        <p>{{ post.excerpt }}</p>
-      </li>
-    {% endfor %}
-  </ul>
+<div class="news">
+    <b>
+        {% for page in site.pages %}
+            {% if page.title == "News" %}
+                <a href="{{ page.url | relative_url }}">News</a>
+            {% endif %}
+        {% endfor %}
+    </b>
+    <ul>
+        {% for post in site.posts %}
+            <li>
+                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                <p>{{ post.date | date: "%B %d, %Y" }}</p>
+                <p>{{ post.excerpt }}</p>
+            </li>
+        {% endfor %}
+    </ul>
 </div>
-
 
 
