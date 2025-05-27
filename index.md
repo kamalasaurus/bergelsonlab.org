@@ -52,7 +52,8 @@ layout: default
       Co-evolutionary Interactions
     </div>
   </div>
-
+  </div>
+</div>
 
 <div class="news">
     <b>
@@ -72,8 +73,5 @@ layout: default
         {% endfor %}
     </ul>
    </div>
-    </div>
-  </div>
-</div>
 
 
