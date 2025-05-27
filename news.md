@@ -75,11 +75,9 @@ permalink: /news/
 </div>
 <hr>
 
-</style>
 <h1 style="text-align: center; background-color: #E6F3EE; padding: 30px; margin: 0; font-size: 36px; border: 1px solid black;">
   <b class="section-title">Latest News</b>
 </h1>
-
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   {% for post in site.posts %}
     <div class="flip-container">
