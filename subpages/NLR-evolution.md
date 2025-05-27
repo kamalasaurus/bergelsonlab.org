@@ -23,7 +23,7 @@ The NLR genes in <em>A. thaliana</em> exhibit a range of evolutionary histories,
 
 <br>
 
-<p style="font-size: 14px;">><b>Selected Publications:</b></p>
+<p style="font-size: 14px;"><b>Selected Publications:</b></p>
 <ul>
   <li>Maerkle, H and J Bergelson. <i>Evolutionary implications of host interactions with a generalist pathogen</i>. In review.</li>
   <li>Weiner, B, Maerkle, H, Laderman, E, Demirjian, C and J Bergelson. 2025. A physical model links structure and function in the plant immune system. <i>PNAS</i>, in press.</li>
