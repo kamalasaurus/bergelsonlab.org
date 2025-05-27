@@ -5,7 +5,7 @@ permalink: /people/
 ---
 <br />
 
-<h1 style="text-align: center; background-color: #f0f0f0; padding: 20px; margin: 0; color: #E6F3EE;">
+<h1 style="text-align: center; background-color: #E6F3EE; padding: 20px; margin: 0; color: #f0f0f0;">
   <b class="section-title">Meet the Team</b>
 </h1>
 <br>
