@@ -6,24 +6,6 @@ layout: default
 ---
 
 
-<div class="news">
-    <b>
-        {% for page in site.pages %}
-            {% if page.title == "News" %}
-                <a href="{{ page.url | relative_url }}">News</a>
-            {% endif %}
-        {% endfor %}
-    </b>
-    <ul>
-        {% for post in site.posts %}
-            <li>
-                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-                <p>{{ post.date | date: "%B %d, %Y" }}</p>
-                <p>{{ post.excerpt }}</p>
-            </li>
-        {% endfor %}
-    </ul>
-</div>
 
 <hr>
 <div class="container">
@@ -43,7 +25,7 @@ layout: default
     <img src="{{ site.baseurl }}/assets/images/MIC-Box2.png" alt="Microbial Interactions"
          style="width: 100%; height: 100%; object-fit: cover;">
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
-                background: rgba(0, 0, 0, 0.3); color: white; padding: 5px 10px;
+                background: rgba(0, 0, 0, 0.7); color: white; padding: 5px 10px;
                 font-weight: bold; text-align: center; border-radius: 0px;
                 font-size: 12px;">
       Microbial Interactions
@@ -73,4 +55,23 @@ layout: default
   </div>
 </div>
 
+
+<div class="news">
+    <b>
+        {% for page in site.pages %}
+            {% if page.title == "News" %}
+                <a href="{{ page.url | relative_url }}">News</a>
+            {% endif %}
+        {% endfor %}
+    </b>
+    <ul>
+        {% for post in site.posts %}
+            <li>
+                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                <p>{{ post.date | date: "%B %d, %Y" }}</p>
+                <p>{{ post.excerpt }}</p>
+            </li>
+        {% endfor %}
+    </ul>
+</div>
 
