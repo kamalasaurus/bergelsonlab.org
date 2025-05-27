@@ -18,7 +18,7 @@ layout: default
 
 <div class="callouts">
   <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/microbial-interactions-communities'"
-       style="aspect-ratio: 1 / 1; position: relative; cursor: pointer; border-radius: 10px; overflow: hidden;">
+       style="width: 250px; aspect-ratio: 1 / 1; position: relative; cursor: pointer; border-radius: 10px; overflow: hidden;">
     <img src="{{ site.baseurl }}/assets/images/MIC-Box2.png" alt="Microbial Interactions"
          style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
@@ -30,7 +30,7 @@ layout: default
   </div>
 
   <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/NLR-evolution'"
-       style="aspect-ratio: 1 / 1; position: relative; cursor: pointer; border-radius: 10px; overflow: hidden;">
+       style="width: 250px; aspect-ratio: 1 / 1; position: relative; cursor: pointer; border-radius: 10px; overflow: hidden;">
     <img src="{{ site.baseurl }}/assets/images/NLR-Box2.png" alt="NLR Evolution"
          style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
@@ -42,7 +42,7 @@ layout: default
   </div>
 
   <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/ecoevolutionary-interactions'"
-       style="aspect-ratio: 1 / 1; position: relative; cursor: pointer; border-radius: 10px; overflow: hidden;">
+       style="width: 250px; aspect-ratio: 1 / 1; position: relative; cursor: pointer; border-radius: 10px; overflow: hidden;">
     <img src="{{ site.baseurl }}/assets/images/CI-Box3.png" alt="Microbe-Host Co-evolution"
          style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
