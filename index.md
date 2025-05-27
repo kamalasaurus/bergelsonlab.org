@@ -28,7 +28,7 @@ layout: default
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
                 background: rgba(0, 0, 0, 0.7); color: white; padding: 10px 20px;
                 font-weight: bold; text-align: center; border-radius: 0px;
-                font-size: 12px;">
+                font-size: 11px;">
       Microbial Interactions
     </div>
   </div>
@@ -40,20 +40,20 @@ layout: default
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
                 background: rgba(0, 0, 0, 0.7); color: white; padding: 10px 20px;
                 font-weight: bold; text-align: center; border-radius: 0px;
-                font-size: 12px;">
+                font-size: 11px;">
       NLR Evolution
     </div>
   </div>
 
   <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/ecoevolutionary-interactions'"
        style="width: 500px; aspect-ratio: 1 / 1; position: relative; cursor: pointer; border-radius: 10px; overflow: hidden;">
-    <img src="{{ site.baseurl }}/assets/images/CI-Box3.png" alt="Microbe-Host Co-evolution"
+    <img src="{{ site.baseurl }}/assets/images/CI-Box3.png" alt="Eco-evolution"
          style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
                 background: rgba(0, 0, 0, 0.7); color: white; padding: 10px 20px;
                 font-weight: bold; text-align: center; border-radius: 0px;
-                font-size: 12px;">
-      Co-evolutionary Interactions
+                font-size: 11px;">
+      Eco-evolutionary Interactions
     </div>
   </div>
   </div>
