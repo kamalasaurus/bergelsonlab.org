@@ -8,7 +8,7 @@ permalink: /NLR-evolution/
   <div class="centered">NLR Evolution in <em>A. thaliana</em> and its Relatives</div>
 </div>
 
-<br>
+<div style="height: 5px;"></div>
 <p style="font-size: 16px; text-align: center;"><b>The evolution of NLR resistance genes in <em>Arabidopsis thaliana</em> and its relatives reflects adaptation to microbial threats, with these resistance genes key to detecting pathogen effectors and triggering immunity. We investigate the ecological, genomic, and functional drivers of resistance gene evolution by studying NLR-effector interactions across hosts and populations.</b></p>
 
   
