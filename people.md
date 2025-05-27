@@ -107,7 +107,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
             <p style="font-size: 13.5px;">I am half Portuguese, half Indian but I was born and brought up in the UAE. I did my undergraduate biology degree at NYUAD, focusing on designing Nanoparticles for Cancer Therapeutics while doing internships at multiple oncology wards. Currently, I am working on experimental characterisation of a spectrum of microbe-microbe interactions on the PATHOCOM project. Outside the lab I love going to the gym, watching films/theater and baking the most elegant cheesecake you've ever tasted!</p>
         </div>
     </div>
-    <h2>Graduate Students</h2>
+    <h2>Graduate Researchers</h2>
     <div class="profile">
         <div class="profile-image">
             <img src="../assets/images/Eric.jpg" alt="Eric" />
@@ -160,14 +160,14 @@ Originally from the Philippines and I have obtained my bachelors degree in Bioch
             <p></p>
         </div>
     </div>
-   <h2>Undergraduate Students</h2>
+   <h2>Undergraduate Researchers</h2>
     <div class="profile">
         <div class="profile-image">
             <img src="../assets/images/Hannah.jpg" alt="Hannah" />
         </div>
         <div class="description">
             <b>Hannah Momsen</b>
-            <p><b>Undergraduate Researcher</b>, NYU</p>
+            <p><b>Undergraduate Student</b>, NYU</p>
             <p style="font-size: 13.5px;">I am originally from San Francisco, CA and will be graduating from NYU in 2026 with a major in Biology and minor in Anthropology. At the Bergelson Lab, I have been working with Choghag Demirjian on the Comparative R Genes project, conducting phenotypic screens of disease response in <em>A. thaliana</em>. I is particularly interested in immunology and disease research and is looking forward to further exploring both throughout my career. In her free time, I love to run.</p>
         </div>
     </div>
@@ -177,7 +177,7 @@ Originally from the Philippines and I have obtained my bachelors degree in Bioch
         </div>
         <div class="description">
             <b>Sam Shteerman</b>
-            <p><b>Undergraduate Researcher</b>, NYU</p>
+            <p><b>Undergraduate Student</b>, NYU</p>
             <p style="font-size: 13.5px;">I'm a native New Yorker studying biochemistry at NYU, graduating in 2027. I'm working with the amazing postdoctoral fellow Lucas Henry, investigating the way that seasonal processes shape the <em>Arabidopsis thaliana</em> microbiome. I've been studying the microbial make up of <em>Arabidopsis</em> populations native to New York city, along with helping out more generally with the Pathocom project. Besides my lab work, in my free time I enjoy reading, running, and the great outdoors.</p>
         </div>
     </div>
