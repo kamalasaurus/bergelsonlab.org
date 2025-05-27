@@ -63,9 +63,7 @@ layout: default
   </div>
 </div>
 
-
-<hr>
-<div class="news" style="width: 100%; margin-top: 40px;">
+<div class="news" style="width: 100%; margin-top: 40px; text-align: left; font-size: 0.9em;">
   <b>
     {% for page in site.pages %}
       {% if page.title == "News" %}
