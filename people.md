@@ -8,22 +8,28 @@ permalink: /people/
 <h1 style="text-align: center; background-color: #E6F3EE; padding: 30px; margin: 0; color: black; font-size: 36px; border: 1px solid black;">
   <b class="section-title">Meet the Team</b>
 </h1>
+<p>Get to know the researchers, postdocs, students, and staff powering our discoveries.</p>
 <br>
 
 <div class="container">
   <img src="../assets/images/PostDoc.png" alt="Banner" style="max-width: 700px; width: 100%; border: 1px solid #000000; display: block; margin: 0 auto;">
 </div>
 
-<div class="section-header">
-  <h1>Meet the Team</h1>
-  <p>Get to know the researchers, postdocs, students, and staff powering our discoveries.</p>
+<!-- Section Header -->
+<div style="background: linear-gradient(135deg, #e6f3ee, #cde6dc); padding: 40px 20px; text-align: center; border-bottom: 2px solid #003366;">
+  <h1 style="margin: 0; font-size: 40px; color: #003366; text-transform: uppercase; letter-spacing: 1px;">
+    Meet the Team
+  </h1>
+  <p style="font-size: 18px; color: #333; max-width: 700px; margin: 15px auto 0;">
+    Get to know the researchers, postdocs, students, and staff powering our discoveries.
+  </p>
 </div>
 
-<div class="banner-wrapper">
-  <img src="../assets/images/PostDoc.png" alt="Team Banner">
+<!-- Banner Image -->
+<div style="margin: 40px auto; text-align: center;">
+  <img src="../assets/images/PostDoc.png" alt="Team Banner" 
+       style="max-width: 90%; width: 700px; border: 2px solid #003366; box-shadow: 0 4px 10px rgba(0,0,0,0.1); border-radius: 8px;">
 </div>
-
-<hr class="divider">
 
 
 <br>
