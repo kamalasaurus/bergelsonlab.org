@@ -55,7 +55,7 @@ layout: default
   </div>
 </div>
 
-<div class="news">
+  <div class="news" style="flex: 0 1 300px; min-width: 250px;">
     <b>
         {% for page in site.pages %}
             {% if page.title == "News" %}
