@@ -131,14 +131,13 @@ div b.section-title, div.index b, div.news b {
 div.index div.callouts {
     display: flex;
     align-items: stretch;
-    height: 500px;
-    gap: 10px;
 }
 
 div.index div.callouts div.study-area {
     display: flex;
     flex: 1;
     aspect-ratio: 1 / 1;
+    max-width: 300px;
     margin: 10px;
     padding: 10px;
     background-color: transparent;
