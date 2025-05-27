@@ -131,6 +131,8 @@ div b.section-title, div.index b, div.news b {
 div.index div.callouts {
     display: flex;
     align-items: stretch;
+    height: 500px;
+    gap: 10px;
 }
 
 div.index div.callouts div.study-area {
