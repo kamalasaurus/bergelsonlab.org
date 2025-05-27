@@ -330,8 +330,8 @@ table.publications th, table.publications td {
     align-items: center; /* Vertically aligns content */
     background-color: #E6F3EE; /* Optional background color */
     padding: 15px; /* Adds padding inside each profile */
-    border: 1px solid #000000; /* Optional border */
-    border-radius: 6px; /* Optional rounded corners */
+    border: 0.5px solid #000000; /* Optional border */
+    border-radius: 2px; /* Optional rounded corners */
 }
 
 .profile-image img {
