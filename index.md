@@ -94,7 +94,7 @@ layout: default
     </div>
   </div>
 
-  <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/coevolutionary-interactions'"
+  <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/ecoevolutionary-interactions'"
        style="aspect-ratio: 1 / 1; position: relative; cursor: pointer; border-radius: 5px; overflow: hidden;">
     <img src="{{ site.baseurl }}/assets/images/CI-Box3.png" alt="Microbe-Host Co-evolution"
          style="width: 100%; height: 100%; object-fit: cover;">
