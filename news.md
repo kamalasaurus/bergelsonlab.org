@@ -60,26 +60,6 @@ permalink: /news/
 </div>
 <hr>
 
-<h1 style="text-align: center; background-color: #E6F3EE; padding: 30px; margin: 0; font-size: 36px; border: 1px solid black;">
-  <b class="section-title">Latest News</b>
-</h1>
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  {% for post in site.posts %}
-    <div class="flip-container">
-      <div class="flip-card">
-        <div class="flip-front">
-          <h3>{{ post.title }}</h3>
-          <p>{{ post.date | date: "%B %d, %Y" }}</p>
-        </div>
-        <div class="flip-back">
-          <p>{{ post.excerpt | truncatewords: 30 }}</p>
-        </div>
-      </div>
-    </div>
-  {% endfor %}
-</div>
-
-<hr>
 
 
 
