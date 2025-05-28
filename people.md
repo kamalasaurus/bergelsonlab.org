@@ -32,8 +32,10 @@ permalink: /people/
 <hr style="border: none; border-top: 1px solid black;">
 <br>
 
+<!-- Profiles -->
+
 <div class="people-grid">
-  <h2>Principal Investigator</h2>
+  <h2 style="margin-top: 0; margin-bottom: 8px;">Principal Investigator</h2>
     <div class="profile">
         <div class="profile-image">
             <img src="../assets/images/Joy Photo.png" alt="Joy Bergelson" />
@@ -45,15 +47,14 @@ permalink: /people/
         </div>
     </div>
   
-  <h2>Postdoctoral Fellows</h2>
+   <h2 style="margin-top: 30px; margin-bottom: 8px;">Postdoctoral Fellows</h2>
     <div class="profile">
         <div class="profile-image">
             <img src="../assets/images/Choghag.jpg" alt="Choghag" />
         </div>
         <div class="description">
-          <p style="font-size: 13.5px; margin: 0; line-height: 0.75;"><b>Choghag Demirjian, PhD</b></p>
-            <p style="font-size: 13.5px;">
-I am a postdoctoral fellow in the compRgene project, which investigates the evolution of plant NLR genes across three Brassicaceae species. My research combines genomics, ecology, and functional biology to understand how genetic variation in both plants and pathogens shapes their evolutionary dynamics and immune responses. During my PhD, I studied how specific pathogenicity factors of <em>Ralstonia solanacearum</em> influence immune responses in <em>Arabidopsis thaliana</em>. Using natural variation in the host and effector mutants in the pathogen, I explored immune dynamics across both global and local plant populations and functionally validated genes, including an NLR gene, involved in susceptibility rather than resistance.
+          <p style="font-size: 13.5px; margin: 0 0 4px 0; line-height: 1.5;"><b>Choghag Demirjian, PhD</b></p>
+    <p style="font-size: 13.5px; margin-top: 0;">I am a postdoctoral fellow in the compRgene project, which investigates the evolution of plant NLR genes across three Brassicaceae species. My research combines genomics, ecology, and functional biology to understand how genetic variation in both plants and pathogens shapes their evolutionary dynamics and immune responses. During my PhD, I studied how specific pathogenicity factors of <em>Ralstonia solanacearum</em> influence immune responses in <em>Arabidopsis thaliana</em>. Using natural variation in the host and effector mutants in the pathogen, I explored immune dynamics across both global and local plant populations and functionally validated genes, including an NLR gene, involved in susceptibility rather than resistance.
 I am deeply motivated by the challenge of uncovering the molecular basis of complex biological processes, particularly the plant immune system. Outside the lab, I enjoy hiking, cooking, and discovering new cuisines—activities that reflect my curiosity and love for exploration, both in science and in life.
 </p>
         </div>
