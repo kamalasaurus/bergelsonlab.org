@@ -5,8 +5,11 @@ permalink: /resources/
 ---
 <br />
 
-<h1><b class="section-title">Resources</b></h1>
-
+<div style="background: linear-gradient(135deg, #e6f3ee, #cde6dc); padding: 40px 20px; border-bottom: 2px solid #003366; text-align: center;">
+  <h1 style="margin: 0; font-size: 40px; color: #003366; text-transform: uppercase; letter-spacing: 1px;">
+    Resources
+  </h1>
+</div>
 <hr>
 <h2>Software Resources</h2>
 
