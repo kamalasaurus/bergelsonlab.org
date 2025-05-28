@@ -11,9 +11,9 @@ permalink: /people/
   <h1 style="margin: 0; color: #003366; letter-spacing: 1px;">
     Meet the Team
   </h1>
-  <h2 style="color: #333; max-width: 700px; margin: 15px auto 0;">
+  <h3 style="color: #333; max-width: 700px; margin: 15px auto 0;">
     Thank you for your interest in the Bergelson Lab. Get to know the researchers, postdocs, students, and staff driving our scientific discoveries.
-  </h2>
+  </h3>
 </div>
 
 <!-- Decorative Wave -->
