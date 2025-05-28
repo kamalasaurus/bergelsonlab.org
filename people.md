@@ -65,7 +65,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
             <img src="../assets/images/Hanna.png" alt="Hanna" />
         </div>
         <div class="description">
-          <p style="font-size: 13.5px; margin: 0 0 4px 0; line-height: 1.5;"><b>Hanna Märkle, PhD, PhD</b></p>
+          <p style="font-size: 13.5px; margin: 0 0 4px 0; line-height: 1.5;"><b>Hanna Märkle, PhD</b></p>
     <p style="font-size: 13.5px; margin-top: 0;">I’m fascinated by obtaining a better understanding of the interactions between hosts and pathogens, their long term (co)evolutionary dynamics, the genes involved in such interactions and the relevant contributions of ecology, functional biology and genomic architecture. My current research focuses on understanding the ecological, genomic and functional drivers of plant resistance gene evolution. Therefore, I’m studying accessions of three phylogenetically related Brassicaceae species (<em>Arabidopsis thaliana</em>, <em>Cardamine hirsuta</em> and <em>Draba verna</em>) which have been collected in the Midi-Pyrenees, France. My work combines genomic data analysis, bioinformatic methods and modeling techniques. Within the project I’m closely collaborating with Choghag Demirjian.</p>
         </div>
     </div>
@@ -84,7 +84,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
             <img src="../assets/images/Luke.jpeg" alt="Luke" />
         </div>
         <div class="description">
-            <p style="font-size: 13.5px; margin: 0 0 4px 0; line-height: 1.5;"><b>Luke Henry, PhD, PhD</b></p>
+            <p style="font-size: 13.5px; margin: 0 0 4px 0; line-height: 1.5;"><b>Luke Henry, PhD</b></p>
     <p style="font-size: 13.5px; margin-top: 0;"> My research interests are focused on eco-evolutionary dynamics in host-associated microbiomes. I’ve worked in a wide range of systems, from the ecology of Lyme disease to sunflower domestication to mitochondria-Wolbachia interactions during oogenesis. My dissertation focused on the evolutionary potential of host-associated microbiomes by using <em>Drosophila melanogaster</em> to explore the relative contribution of the microbiome to local adaptation. Now, in the Bergelson lab, I investigate 1) the impact of host-microbiome interactions on pathogen dynamics, 2) seasonal processes that shape the <em>Arabidopsis</em> microbiome, and 3) ecologically informed microbiome engineering. <a href="https://scholar.google.com/citations?user=mfT999QAAAAJ">View Luke's Google Scholar here</a> </p>
         </div>
     </div>
@@ -103,7 +103,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
             <img src="../assets/images/Theo.jpg" alt="Theo"/>
         </div>
         <div class="description">
-            <p style="font-size: 13.5px; margin: 0 0 4px 0; line-height: 1.5;"><b>Theo Gibbs, PhD, PhD</b></p>
+            <p style="font-size: 13.5px; margin: 0 0 4px 0; line-height: 1.5;"><b>Theo Gibbs, PhD</b></p>
     <p style="font-size: 13.5px; margin-top: 0;">I am a Schmidt Science Fellow interested in how pathogen resistance emerges from the ecological interactions in the microbiome. My dissertation research combined mathematical theory and experiments with annual plants to understand whether interactions involving three or more species (called higher-order interactions) maintain coexistence in diverse ecological communities. Outside of research, I like to play and watch soccer, go hiking and listen to new music. <a href="https://theogibbs.github.io/">View Theo's Website here</a></p>
         </div>
     </div>
@@ -133,9 +133,9 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
             <img src="../assets/images/Eric.jpg" alt="Eric" />
         </div>
         <div class="description">
-            <b>Eric Laderman</b>
-            <p style="font-size: 13.5px;"><b>PhD Student</b>, NYU</p>
-            <p>I'm a PhD student in the Bergelson lab, where I'm interested in understanding how strain-level variation in plant pathogens is maintained and how this variation affects disease outcomes and bacterial competition in the phyllosphere. I graduated from Dartmouth College in 2020 with a BS in Biology and Biological Chemistry. While at Dartmouth, I worked in the Guerinot lab studying how plants alter photosynthesis in response to iron deficiency. After graduating, I joined the Bondy-Denomy lab at UCSF, where I researched how phages overcome CRISPR immunity in Listeria. When I’m not in the lab, you can probably find me playing tennis or enjoying a picnic in Central Park.</p>
+            <p style="font-size: 13.5px; margin: 0; line-height: 1.5;"><b>Eric Laderman</b></p>
+<p style="margin: 0 0 6px 0;"><b>PhD Student</b>, NYU</p>
+          <p style="font-size: 13.5px; margin-top: 0;">I'm a PhD student in the Bergelson lab, where I'm interested in understanding how strain-level variation in plant pathogens is maintained and how this variation affects disease outcomes and bacterial competition in the phyllosphere. I graduated from Dartmouth College in 2020 with a BS in Biology and Biological Chemistry. While at Dartmouth, I worked in the Guerinot lab studying how plants alter photosynthesis in response to iron deficiency. After graduating, I joined the Bondy-Denomy lab at UCSF, where I researched how phages overcome CRISPR immunity in Listeria. When I’m not in the lab, you can probably find me playing tennis or enjoying a picnic in Central Park.</p>
         </div>
     </div>
     <div class="profile">
