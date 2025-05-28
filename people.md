@@ -12,7 +12,7 @@ permalink: /people/
     Meet the Team
   </h1>
   <p style="font-size: 18px; color: #333; max-width: 700px; margin: 15px auto 0;">
-    Get to know the researchers, postdocs, students, and staff driving our scientific discoveries.
+    Thank you for your interest in the Bergelson Lab. Get to know the researchers, postdocs, students, and staff driving our scientific discoveries.
   </p>
 </div>
 
@@ -39,12 +39,12 @@ permalink: /people/
             <img src="../assets/images/Joy Photo.png" alt="Joy Bergelson" />
         </div>
         <div class="description">
-          <p style="font-size: 13.5px; margin: 0; line-height: 1;">
-            <b>Joy Bergelson</b>
+          <p style="font-size: 13.5px; margin: 0; line-height: 1;"><b>Joy Bergelson</b></p>
            <p><strong><em>Silver Professor and Provostial Fellow, New York University; Executive Vice President of Life Sciences, Simons Foundation</em></strong></p>
           <p style="font-size: 13.5px;">I trained in a theoretical ecology lab doing experimental work on plants, and after obtaining my PhD decided to learn enough molecular biology to make my experimental designs to the level of the genome. Early fellowships from the Packard, Sloan and Life Sciences Research Foundations were pivotal in providing me the freedom to do this. When the first disease resistance genes were cloned, I focused my attention there and never looked back. Our work has spanned the ecology, molecular evolution, genomics and functional biology of disease resistance (as well as interactions with some other enemies and commensals) in <em>Arabidopsis thaliana</em>, with a strong emphasis on bringing the tools of genetics and genomics to ecology. Along the way, we have contributed to developing tools and resources for the study of natural variation in <em>Arabidopsis thaliana</em>. I am a member of the National Academy of Science and the American Academy of Arts and Sciences. I serve on many international science advisory boards and serve as EVP of Life Sciences at the Simons Foundation.</p>
         </div>
     </div>
+  
   <h2>Postdoctoral Fellows</h2>
     <div class="profile">
         <div class="profile-image">
