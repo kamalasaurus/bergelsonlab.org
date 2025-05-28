@@ -37,11 +37,6 @@ permalink: /people/
 <hr style="border: none; border-top: 1px solid black;">
 <br>
 
-
-<br>
-<hr style="border: none; border-top: 1px solid black;">
-<br>
-
 <div class="people-grid">
   <h2>Principal Investigator</h2>
     <div class="profile">
