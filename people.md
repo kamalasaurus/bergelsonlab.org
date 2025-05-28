@@ -6,21 +6,36 @@ permalink: /people/
 <br />
 
 
-<!-- Section Header -->
-<div style="background: linear-gradient(135deg, #e6f3ee, #cde6dc); padding: 40px 20px; text-align: center; border-bottom: 2px solid #003366;">
-  <h1 style="margin: 0; font-size: 40px; color: #003366; text-transform: uppercase; letter-spacing: 1px;">
-    Meet the Team
-  </h1>
-  <p style="font-size: 18px; color: #333; max-width: 700px; margin: 15px auto 0;">
-    Get to know the researchers, postdocs, students, and staff powering our discoveries.
-  </p>
+<!-- Banner Section -->
+<table width="100%" style="background: linear-gradient(135deg, #e6f3ee, #cde6dc); border-bottom: 2px solid #003366;">
+  <tr>
+    <td align="center" style="padding: 40px 20px;">
+      <h1 style="margin: 0; font-size: 40px; color: #003366; text-transform: uppercase; letter-spacing: 1px;">
+        Meet the Team
+      </h1>
+      <p style="font-size: 18px; color: #333; max-width: 700px; margin: 15px auto 0;">
+        Get to know the researchers, postdocs, students, and staff powering our discoveries.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<!-- Decorative Wave -->
+<svg viewBox="0 0 1440 100" style="display: block;" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#cde6dc" fill-opacity="1" d="M0,32L60,48C120,64,240,96,360,96C480,96,600,64,720,58.7C840,53,960,75,1080,74.7C1200,75,1320,53,1380,42.7L1440,32V0H0Z"></path>
+</svg>
+
+<!-- Banner Image with Motion -->
+<div style="margin: 30px auto; text-align: center;">
+  <marquee behavior="alternate" scrollamount="3" style="padding: 10px 0;">
+    <img src="../assets/images/PostDoc.png" alt="Team Banner" 
+         style="max-width: 90%; width: 700px; border: 2px solid #003366; box-shadow: 0 4px 10px rgba(0,0,0,0.1); border-radius: 8px;">
+  </marquee>
 </div>
 
-<!-- Banner Image -->
-<div style="margin: 40px auto; text-align: center;">
-  <img src="../assets/images/PostDoc.png" alt="Team Banner" 
-       style="max-width: 90%; width: 700px; border: 2px solid #003366; box-shadow: 0 4px 10px rgba(0,0,0,0.1); border-radius: 8px;">
-</div>
+<br>
+<hr style="border: none; border-top: 1px solid black;">
+<br>
 
 
 <br>
