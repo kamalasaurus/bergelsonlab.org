@@ -47,7 +47,7 @@ permalink: /people/
         </div>
     </div>
   
-   <h2 style="margin-top: 30px; margin-bottom: 8px;">Postdoctoral Fellows</h2>
+   <h2 style="margin-top: 30px; margin-bottom: 6px;">Postdoctoral Fellows</h2>
     <div class="profile">
         <div class="profile-image">
             <img src="../assets/images/Choghag.jpg" alt="Choghag" />
@@ -65,8 +65,8 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
             <img src="../assets/images/Hanna.png" alt="Hanna" />
         </div>
         <div class="description">
-            <p><b>Hanna Märkle, PhD</b></p>
-            <p style="font-size: 13.5px;">I’m fascinated by obtaining a better understanding of the interactions between hosts and pathogens, their long term (co)evolutionary dynamics, the genes involved in such interactions and the relevant contributions of ecology, functional biology and genomic architecture. My current research focuses on understanding the ecological, genomic and functional drivers of plant resistance gene evolution. Therefore, I’m studying accessions of three phylogenetically related Brassicaceae species (<em>Arabidopsis thaliana</em>, <em>Cardamine hirsuta</em> and <em>Draba verna</em>) which have been collected in the Midi-Pyrenees, France. My work combines genomic data analysis, bioinformatic methods and modeling techniques. Within the project I’m closely collaborating with Choghag Demirjian.</p>
+          <p style="font-size: 13.5px; margin: 0 0 4px 0; line-height: 1.5;"><b>Hanna Märkle, PhD<, PhD</b></p>
+    <p style="font-size: 13.5px; margin-top: 0;">I’m fascinated by obtaining a better understanding of the interactions between hosts and pathogens, their long term (co)evolutionary dynamics, the genes involved in such interactions and the relevant contributions of ecology, functional biology and genomic architecture. My current research focuses on understanding the ecological, genomic and functional drivers of plant resistance gene evolution. Therefore, I’m studying accessions of three phylogenetically related Brassicaceae species (<em>Arabidopsis thaliana</em>, <em>Cardamine hirsuta</em> and <em>Draba verna</em>) which have been collected in the Midi-Pyrenees, France. My work combines genomic data analysis, bioinformatic methods and modeling techniques. Within the project I’m closely collaborating with Choghag Demirjian.</p>
         </div>
     </div>
     <div class="profile">
@@ -75,8 +75,9 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
         </div>
         <div class="description">
             <b>Jacopo Cirrone</b>
-            <p><b>Postdoctoral Fellow, PhD</b></p>
-            <p style="font-size: 13.5px;"></p>
+          <p style="font-size: 13.5px; margin: 0; line-height: 1.5;"><b>Jacopo Cirrone</b></p>
+<p style="margin: 0 0 6px 0;"><b>Postdoctoral Fellow, PhD</b></p>
+<p style="font-size: 13.5px; margin-top: 0;"></p>
         </div>
     </div>
     <div class="profile">
@@ -84,8 +85,8 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
             <img src="../assets/images/Luke.jpeg" alt="Luke" />
         </div>
         <div class="description">
-            <p><b>Luke Henry, PhD</b></p>
-            <p style="font-size: 13.5px;"> My research interests are focused on eco-evolutionary dynamics in host-associated microbiomes. I’ve worked in a wide range of systems, from the ecology of Lyme disease to sunflower domestication to mitochondria-Wolbachia interactions during oogenesis. My dissertation focused on the evolutionary potential of host-associated microbiomes by using <em>Drosophila melanogaster</em> to explore the relative contribution of the microbiome to local adaptation. Now, in the Bergelson lab, I investigate 1) the impact of host-microbiome interactions on pathogen dynamics, 2) seasonal processes that shape the <em>Arabidopsis</em> microbiome, and 3) ecologically informed microbiome engineering. <a href="https://scholar.google.com/citations?user=mfT999QAAAAJ">View Luke's Google Scholar here</a> </p>
+            <p style="font-size: 13.5px; margin: 0 0 4px 0; line-height: 1.5;"><b>Luke Henry, PhD<, PhD</b></p>
+    <p style="font-size: 13.5px; margin-top: 0;"> My research interests are focused on eco-evolutionary dynamics in host-associated microbiomes. I’ve worked in a wide range of systems, from the ecology of Lyme disease to sunflower domestication to mitochondria-Wolbachia interactions during oogenesis. My dissertation focused on the evolutionary potential of host-associated microbiomes by using <em>Drosophila melanogaster</em> to explore the relative contribution of the microbiome to local adaptation. Now, in the Bergelson lab, I investigate 1) the impact of host-microbiome interactions on pathogen dynamics, 2) seasonal processes that shape the <em>Arabidopsis</em> microbiome, and 3) ecologically informed microbiome engineering. <a href="https://scholar.google.com/citations?user=mfT999QAAAAJ">View Luke's Google Scholar here</a> </p>
         </div>
     </div>
     <div class="profile">
@@ -103,8 +104,8 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
             <img src="../assets/images/Theo.jpg" alt="Theo"/>
         </div>
         <div class="description">
-            <p><b>Theo Gibbs, PhD</b></p>
-            <p style="font-size: 13.5px;">I am a Schmidt Science Fellow interested in how pathogen resistance emerges from the ecological interactions in the microbiome. My dissertation research combined mathematical theory and experiments with annual plants to understand whether interactions involving three or more species (called higher-order interactions) maintain coexistence in diverse ecological communities. Outside of research, I like to play and watch soccer, go hiking and listen to new music. <a href="https://theogibbs.github.io/">View Theo's Website here</a></p>
+            <p style="font-size: 13.5px; margin: 0 0 4px 0; line-height: 1.5;"><b>Theo Gibbs, PhD<, PhD</b></p>
+    <p style="font-size: 13.5px; margin-top: 0;">I am a Schmidt Science Fellow interested in how pathogen resistance emerges from the ecological interactions in the microbiome. My dissertation research combined mathematical theory and experiments with annual plants to understand whether interactions involving three or more species (called higher-order interactions) maintain coexistence in diverse ecological communities. Outside of research, I like to play and watch soccer, go hiking and listen to new music. <a href="https://theogibbs.github.io/">View Theo's Website here</a></p>
         </div>
     </div>
     <h2>Lab Manager</h2>
