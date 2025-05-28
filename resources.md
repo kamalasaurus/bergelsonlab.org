@@ -6,7 +6,7 @@ permalink: /resources/
 <br />
 
 <div style="background: linear-gradient(135deg, #e6f3ee, #cde6dc); padding: 40px 20px; border-bottom: 2px solid #003366; text-align: center;">
-  <h1 style="margin: 0; font-size: 40px; color: #003366; letter-spacing: 1px;">
+  <h1 style="margin: 0; color: #003366; letter-spacing: 1px;">
     Resources
   </h1>
 </div>
