@@ -404,7 +404,7 @@ table.publications th, table.publications td {
 }
 
 .card {
-    background-color: #	#f5f7f6; /* Optional background color */
+    background-color: #	#f0f8fb; /* Optional background color */
     padding: 15px; /* Adds padding inside each card */
     border: 1px solid #ccc; /* Optional border */
     border-radius: 5px; /* Optional rounded corners */
