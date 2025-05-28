@@ -93,9 +93,9 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
             <img src="../assets/images/Bio.png" alt="Mac" />
         </div>
         <div class="description">
-            <b>MacCall Calvert</b>
-            <p><b>Postdoctoral Fellow, PhD</b></p>
-            <p style="font-size: 13.5px;"></p>
+          <p style="font-size: 13.5px; margin: 0; line-height: 1.5;"><b>MacCall Calvert</b></p>
+<p style="margin: 0 0 6px 0;"><b>Postdoctoral Fellow, PhD</b></p>
+          <p style="font-size: 13.5px; margin-top: 0;"></p>
         </div>
     </div>
     <div class="profile">
@@ -143,7 +143,6 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
             <img src="../assets/images/Bio.png" alt="Kamal" />
         </div>
         <div class="description">
-            <b>Kamal Radharamanan</b>
             <p style="font-size: 13.5px; margin: 0; line-height: 1.5;"><b>Kamal Radharamanan</b></p>
 <p style="margin: 0 0 6px 0;"><b>PhD Student</b>, NYU</p>
           <p style="font-size: 13.5px; margin-top: 0;">In the past, I worked as a software engineer for a while. Currently, in the Bergelson Lab, I work with plant immunity and the protein-protein interactions therein.</p>
@@ -197,7 +196,7 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
         </div>
         <div class="description">
             <p style="font-size: 13.5px; margin: 0; line-height: 1.5;"><b>Sam Shteerman</b></p>
-<p style="margin: 0 0 6px 0;"><b>Undergraduat</b>, NYU</p>
+<p style="margin: 0 0 6px 0;"><b>Undergraduate Student</b>, NYU</p>
           <p style="font-size: 13.5px; margin-top: 0;">I'm a native New Yorker studying biochemistry at NYU, graduating in 2027. I'm working with the amazing postdoctoral fellow Lucas Henry, investigating the way that seasonal processes shape the <em>Arabidopsis thaliana</em> microbiome. I've been studying the microbial make up of <em>Arabidopsis</em> populations native to New York city, along with helping out more generally with the Pathocom project. Besides my lab work, in my free time I enjoy reading, running, and the great outdoors.</p>
         </div>
     </div>
