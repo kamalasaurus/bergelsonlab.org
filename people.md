@@ -7,31 +7,26 @@ permalink: /people/
 
 
 <!-- Banner Section -->
-<table width="100%" style="background: linear-gradient(135deg, #e6f3ee, #cde6dc); border-bottom: 2px solid #003366;">
-  <tr>
-    <td align="center" style="padding: 40px 20px;">
-      <h1 style="margin: 0; font-size: 40px; color: #003366; text-transform: uppercase; letter-spacing: 1px;">
-        Meet the Team
-      </h1>
-      <p style="font-size: 18px; color: #333; max-width: 700px; margin: 15px auto 0;">
-        Get to know the researchers, postdocs, students, and staff powering our discoveries.
-      </p>
-    </td>
-  </tr>
-</table>
+<div style="background: linear-gradient(135deg, #e6f3ee, #cde6dc); padding: 40px 20px; border-bottom: 2px solid #003366; text-align: center;">
+  <h1 style="margin: 0; font-size: 40px; color: #003366; text-transform: uppercase; letter-spacing: 1px;">
+    Meet the Team
+  </h1>
+  <p style="font-size: 18px; color: #333; max-width: 700px; margin: 15px auto 0;">
+    Get to know the researchers, postdocs, students, and staff powering our discoveries.
+  </p>
+</div>
 
 <!-- Decorative Wave -->
 <svg viewBox="0 0 1440 100" style="display: block;" xmlns="http://www.w3.org/2000/svg">
   <path fill="#cde6dc" fill-opacity="1" d="M0,32L60,48C120,64,240,96,360,96C480,96,600,64,720,58.7C840,53,960,75,1080,74.7C1200,75,1320,53,1380,42.7L1440,32V0H0Z"></path>
 </svg>
 
-<!-- Banner Image with Motion -->
+<!-- Static Banner Image -->
 <div style="margin: 30px auto; text-align: center;">
-  <marquee behavior="alternate" scrollamount="3" style="padding: 10px 0;">
-    <img src="../assets/images/PostDoc.png" alt="Team Banner" 
-         style="max-width: 90%; width: 700px; border: 2px solid #003366; box-shadow: 0 4px 10px rgba(0,0,0,0.1); border-radius: 8px;">
-  </marquee>
+  <img src="../assets/images/PostDoc.png" alt="Team Banner" 
+       style="max-width: 90%; width: 700px; border: 2px solid #003366; box-shadow: 0 4px 10px rgba(0,0,0,0.1); border-radius: 8px;">
 </div>
+
 
 <br>
 <hr style="border: none; border-top: 1px solid black;">
@@ -56,7 +51,8 @@ permalink: /people/
         </div>
         <div class="description">
             <p><b>Choghag Demirjian, PhD</b></p>
-            <p style="font-size: 13.5px;">I am a postdoctoral fellow in the compRgene project, which investigates the evolution of plant NLR genes across three Brassicaceae species. My research combines genomics, ecology, and functional biology to understand how genetic variation in both plants and pathogens shapes their evolutionary dynamics and immune responses. During my PhD, I studied how specific pathogenicity factors of <em>Ralstonia solanacearum</em> influence immune responses in <em>Arabidopsis thaliana</em>. Using natural variation in the host and effector mutants in the pathogen, I explored immune dynamics across both global and local plant populations and functionally validated genes, including an NLR gene, involved in susceptibility rather than resistance.
+            <p style="font-size: 13.5px; margin: 4px 0; line-height: 1.4;">
+>I am a postdoctoral fellow in the compRgene project, which investigates the evolution of plant NLR genes across three Brassicaceae species. My research combines genomics, ecology, and functional biology to understand how genetic variation in both plants and pathogens shapes their evolutionary dynamics and immune responses. During my PhD, I studied how specific pathogenicity factors of <em>Ralstonia solanacearum</em> influence immune responses in <em>Arabidopsis thaliana</em>. Using natural variation in the host and effector mutants in the pathogen, I explored immune dynamics across both global and local plant populations and functionally validated genes, including an NLR gene, involved in susceptibility rather than resistance.
 I am deeply motivated by the challenge of uncovering the molecular basis of complex biological processes, particularly the plant immune system. Outside the lab, I enjoy hiking, cooking, and discovering new cuisines—activities that reflect my curiosity and love for exploration, both in science and in life.
 </p>
         </div>
