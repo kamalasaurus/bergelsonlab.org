@@ -47,7 +47,7 @@ permalink: /people/
         </div>
     </div>
   
-   <h2 style="margin-top: 30px; margin-bottom: 6px;">Postdoctoral Fellows</h2>
+   <h2 style="margin-top: 30px; margin-bottom: 5px;">Postdoctoral Fellows</h2>
     <div class="profile">
         <div class="profile-image">
             <img src="../assets/images/Choghag.jpg" alt="Choghag" />
@@ -107,27 +107,27 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
     <p style="font-size: 13.5px; margin-top: 0;">I am a Schmidt Science Fellow interested in how pathogen resistance emerges from the ecological interactions in the microbiome. My dissertation research combined mathematical theory and experiments with annual plants to understand whether interactions involving three or more species (called higher-order interactions) maintain coexistence in diverse ecological communities. Outside of research, I like to play and watch soccer, go hiking and listen to new music. <a href="https://theogibbs.github.io/">View Theo's Website here</a></p>
         </div>
     </div>
-    <h2>Lab Manager</h2>
+    <h2 style="margin-top: 30px; margin-bottom: 5px;">Lab Manager</h2>
     <div class="profile">
         <div class="profile-image">
             <img src="../assets/images/Em.png" alt="Em" />
         </div>
         <div class="description">
-            <b>Em Schissler</b>
-            <p style="font-size: 13.5px;">I earned a bachelor’s degree in Biology from Occidental College with a focus on zoology, followed by a master’s in Biology, concentrating in bioinformatics and systems biology, at New York University. There, I conducted analyses to study the decline of <em>Phoenix theophrasti</em> and contributed to research on new treatments and diagnostic tools for Alzheimer’s disease at NYU Langone. Currently, I manage a range of lab-related administrative tasks including grant administration, and support postdoctoral fellows with computational research projects. Outside the lab, I enjoy volunteering with animals—especially given my background in exotic and domestic animal care—and spend my free time at the theater, and rock climbing. <a href="https://www.linkedin.com/in/em-schissler/">View Em's LinkedIn here</a></p>
+        <p style="font-size: 13.5px; margin: 0 0 4px 0; line-height: 1.5;"><b>Em Schissler, PhD</b></p>
+    <p style="font-size: 13.5px; margin-top: 0;">I earned a bachelor’s degree in Biology from Occidental College with a focus on zoology, followed by a master’s in Biology, concentrating in bioinformatics and systems biology, at New York University. There, I conducted analyses to study the decline of <em>Phoenix theophrasti</em> and contributed to research on new treatments and diagnostic tools for Alzheimer’s disease at NYU Langone. Currently, I manage a range of lab-related administrative tasks including grant administration, and support postdoctoral fellows with computational research projects. Outside the lab, I enjoy volunteering with animals—especially given my background in exotic and domestic animal care—and spend my free time at the theater, and rock climbing. <a href="https://www.linkedin.com/in/em-schissler/">View Em's LinkedIn here</a></p>
         </div>
     </div>
-   <h2>Research Associate</h2>
+  <h2 style="margin-top: 30px; margin-bottom: 5px;">Research Associate</h2>
     <div class="profile">
         <div class="profile-image">
             <img src="../assets/images/Daniel.jpg" alt="Daniel" />
         </div>
         <div class="description">
-            <b>Daniel de Souza</b>
-            <p style="font-size: 13.5px;">I am half Portuguese, half Indian but I was born and brought up in the UAE. I did my undergraduate biology degree at NYUAD, focusing on designing Nanoparticles for Cancer Therapeutics while doing internships at multiple oncology wards. Currently, I am working on experimental characterisation of a spectrum of microbe-microbe interactions on the PATHOCOM project. Outside the lab I love going to the gym, watching films/theater and baking the most elegant cheesecake you've ever tasted!</p>
+       <p style="font-size: 13.5px; margin: 0 0 4px 0; line-height: 1.5;"><b>Daniel de Souza, PhD</b></p>
+    <p style="font-size: 13.5px; margin-top: 0;">I am half Portuguese, half Indian but I was born and brought up in the UAE. I did my undergraduate biology degree at NYUAD, focusing on designing Nanoparticles for Cancer Therapeutics while doing internships at multiple oncology wards. Currently, I am working on experimental characterisation of a spectrum of microbe-microbe interactions on the PATHOCOM project. Outside the lab I love going to the gym, watching films/theater and baking the most elegant cheesecake you've ever tasted!</p>
         </div>
     </div>
-    <h2>Graduate Researchers</h2>
+    <h2 style="margin-top: 30px; margin-bottom: 5px;">Graduate Researchers</h2>
     <div class="profile">
         <div class="profile-image">
             <img src="../assets/images/Eric.jpg" alt="Eric" />
@@ -144,8 +144,9 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
         </div>
         <div class="description">
             <b>Kamal Radharamanan</b>
-            <p><b>PhD Student</b>, NYU</p>
-            <p style="font-size: 13.5px;">In the past, I worked as a software engineer for a while. Currently, in the Bergelson Lab, I work with plant immunity and the protein-protein interactions therein.</p>
+            <p style="font-size: 13.5px; margin: 0; line-height: 1.5;"><b>Kamal Radharamanan</b></p>
+<p style="margin: 0 0 6px 0;"><b>PhD Student</b>, NYU</p>
+          <p style="font-size: 13.5px; margin-top: 0;">In the past, I worked as a software engineer for a while. Currently, in the Bergelson Lab, I work with plant immunity and the protein-protein interactions therein.</p>
         </div>
     </div>
     <div class="profile">
@@ -153,9 +154,9 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
             <img src="../assets/images/Yunze.png" alt="Yunze" />
         </div>
         <div class="description">
-            <b>Yunze Yang</b>
-            <p><b>PhD Student</b>, NYU</p>
-            <p style="font-size: 13.5px;">I earned my bachelor’s degree in Ecology from Zhejiang University, China, where I became fascinated by species interactions and studied the Rice-Fish symbiosis system and microbes in the rice paddy, like methanotrophs. Then I pursued my master’s degree at NYU, studied the diversity of plant pathogen <em>Pseudomonas syringae’s</em> effectors in wild populations in the Bergelson Lab. Currently, I am a PhD student co-advised by Dr. Joy Bergelson and Dr. Gloria Coruzzi. My research focuses on the interaction between rice and its root-associated microbiome, aiming to identify the rice genetic factors that determine the diverse microbiome composition and function across rice varieties by integrating multi-omics data and machine-learning methods.</p>
+            <p style="font-size: 13.5px; margin: 0; line-height: 1.5;"><b>Yunze Yang</b></p>
+<p style="margin: 0 0 6px 0;"><b>PhD Student</b>, NYU</p>
+          <p style="font-size: 13.5px; margin-top: 0;">I earned my bachelor’s degree in Ecology from Zhejiang University, China, where I became fascinated by species interactions and studied the Rice-Fish symbiosis system and microbes in the rice paddy, like methanotrophs. Then I pursued my master’s degree at NYU, studied the diversity of plant pathogen <em>Pseudomonas syringae’s</em> effectors in wild populations in the Bergelson Lab. Currently, I am a PhD student co-advised by Dr. Joy Bergelson and Dr. Gloria Coruzzi. My research focuses on the interaction between rice and its root-associated microbiome, aiming to identify the rice genetic factors that determine the diverse microbiome composition and function across rice varieties by integrating multi-omics data and machine-learning methods.</p>
         </div>
     </div>
     <div class="profile">
@@ -163,10 +164,9 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
             <img src="../assets/images/Abbie.jpeg" alt="Abbie" />
         </div>
         <div class="description">
-            <b>Abbie Patalinghug</b>
-            <p><b>Master's Student</b>, NYU</p>
-            <p style="font-size: 13.5px;">
-Originally from the Philippines and I have obtained my bachelors degree in Biochemistry from the University of Nevada - Las Vegas. After college, I spent a few years in the biotech industry starting with performing NGS on COVID-19 samples for variant tracing with the California Department of Public Health  during the height of the pandemic in 2020. Then, I transitioned to autoimmune disease research focusing on improving diagnostics for diseases including rheumatoid arthritis and systemic lupus. At the Bergelson lab, I am interested in investigating the molecular mechanisms of plant-pathogen interaction focusing on protein-protein interactions between NLRs and pathogen effectors.
+            <p style="font-size: 13.5px; margin: 0; line-height: 1.5;"><b>Abbie Patalinghug</b></p>
+<p style="margin: 0 0 6px 0;"><b>Master's Student</b>, NYU</p>
+          <p style="font-size: 13.5px; margin-top: 0;">Originally from the Philippines and I have obtained my bachelors degree in Biochemistry from the University of Nevada - Las Vegas. After college, I spent a few years in the biotech industry starting with performing NGS on COVID-19 samples for variant tracing with the California Department of Public Health  during the height of the pandemic in 2020. Then, I transitioned to autoimmune disease research focusing on improving diagnostics for diseases including rheumatoid arthritis and systemic lupus. At the Bergelson lab, I am interested in investigating the molecular mechanisms of plant-pathogen interaction focusing on protein-protein interactions between NLRs and pathogen effectors.
 </p>
         </div>
     </div> 
@@ -175,20 +175,20 @@ Originally from the Philippines and I have obtained my bachelors degree in Bioch
             <img src="../assets/images/Bio.png" alt="Harrison" />
         </div>
         <div class="description">
-            <b>Harrison Vokshoor</b>
-            <p><b>Master's Student</b>, NYU</p>
-            <p></p>
+            <p style="font-size: 13.5px; margin: 0; line-height: 1.5;"><b>Harrison Vokshoor</b></p>
+<p style="margin: 0 0 6px 0;"><b>Master's Student</b>, NYU</p>
+          <p style="font-size: 13.5px; margin-top: 0;"></p>
         </div>
     </div>
-   <h2>Undergraduate Researchers</h2>
+   <h2 style="margin-top: 30px; margin-bottom: 5px;">Undergraduate Researchers</h2>
     <div class="profile">
         <div class="profile-image">
             <img src="../assets/images/Hannah.jpg" alt="Hannah" />
         </div>
         <div class="description">
-            <b>Hannah Momsen</b>
-            <p><b>Undergraduate Student</b>, NYU</p>
-            <p style="font-size: 13.5px;">I am originally from San Francisco, CA and will be graduating from NYU in 2026 with a major in Biology and minor in Anthropology. At the Bergelson Lab, I have been working with Choghag Demirjian on the Comparative R Genes project, conducting phenotypic screens of disease response in <em>A. thaliana</em>. I is particularly interested in immunology and disease research and is looking forward to further exploring both throughout my career. In her free time, I love to run.</p>
+            <p style="font-size: 13.5px; margin: 0; line-height: 1.5;"><b>Hannah Momsen</b></p>
+<p style="margin: 0 0 6px 0;"><b>Undergraduate Student</b>, NYU</p>
+          <p style="font-size: 13.5px; margin-top: 0;">I am originally from San Francisco, CA and will be graduating from NYU in 2026 with a major in Biology and minor in Anthropology. At the Bergelson Lab, I have been working with Choghag Demirjian on the Comparative R Genes project, conducting phenotypic screens of disease response in <em>A. thaliana</em>. I is particularly interested in immunology and disease research and is looking forward to further exploring both throughout my career. In her free time, I love to run.</p>
         </div>
     </div>
     <div class="profile">
@@ -196,9 +196,9 @@ Originally from the Philippines and I have obtained my bachelors degree in Bioch
             <img src="../assets/images/Sam.jpg" alt="Sam" />
         </div>
         <div class="description">
-            <b>Sam Shteerman</b>
-            <p><b>Undergraduate Student</b>, NYU</p>
-            <p style="font-size: 13.5px;">I'm a native New Yorker studying biochemistry at NYU, graduating in 2027. I'm working with the amazing postdoctoral fellow Lucas Henry, investigating the way that seasonal processes shape the <em>Arabidopsis thaliana</em> microbiome. I've been studying the microbial make up of <em>Arabidopsis</em> populations native to New York city, along with helping out more generally with the Pathocom project. Besides my lab work, in my free time I enjoy reading, running, and the great outdoors.</p>
+            <p style="font-size: 13.5px; margin: 0; line-height: 1.5;"><b>Sam Shteerman</b></p>
+<p style="margin: 0 0 6px 0;"><b>Undergraduat</b>, NYU</p>
+          <p style="font-size: 13.5px; margin-top: 0;">I'm a native New Yorker studying biochemistry at NYU, graduating in 2027. I'm working with the amazing postdoctoral fellow Lucas Henry, investigating the way that seasonal processes shape the <em>Arabidopsis thaliana</em> microbiome. I've been studying the microbial make up of <em>Arabidopsis</em> populations native to New York city, along with helping out more generally with the Pathocom project. Besides my lab work, in my free time I enjoy reading, running, and the great outdoors.</p>
         </div>
     </div>
 </div>
