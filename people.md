@@ -12,7 +12,7 @@ permalink: /people/
     Meet the Team
   </h1>
   <p style="font-size: 18px; color: #333; max-width: 700px; margin: 15px auto 0;">
-    Get to know the researchers, postdocs, students, and staff powering our discoveries.
+    Get to know the researchers, postdocs, students, and staff driving our scientific discoveries.
   </p>
 </div>
 
