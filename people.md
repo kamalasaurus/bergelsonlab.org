@@ -29,7 +29,7 @@ permalink: /people/
 
 
 <br>
-<hr style="border: none; border-top: 1px solid black;">
+<hr style="border: none; border-top: 1px solid black; margin: 4px 0;">
 <br>
 
 <!-- Profiles -->
