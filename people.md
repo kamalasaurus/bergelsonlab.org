@@ -39,9 +39,9 @@ permalink: /people/
             <img src="../assets/images/Joy Photo.png" alt="Joy Bergelson" />
         </div>
         <div class="description">
-          <p style="font-size: 13.5px; margin: 0; line-height: 0.5;"><b>Joy Bergelson</b></p>
-           <p><strong><em>Silver Professor and Provostial Fellow, New York University; Executive Vice President of Life Sciences, Simons Foundation</em></strong></p>
-          <p style="font-size: 13.5px;">I trained in a theoretical ecology lab doing experimental work on plants, and after obtaining my PhD decided to learn enough molecular biology to make my experimental designs to the level of the genome. Early fellowships from the Packard, Sloan and Life Sciences Research Foundations were pivotal in providing me the freedom to do this. When the first disease resistance genes were cloned, I focused my attention there and never looked back. Our work has spanned the ecology, molecular evolution, genomics and functional biology of disease resistance (as well as interactions with some other enemies and commensals) in <em>Arabidopsis thaliana</em>, with a strong emphasis on bringing the tools of genetics and genomics to ecology. Along the way, we have contributed to developing tools and resources for the study of natural variation in <em>Arabidopsis thaliana</em>. I am a member of the National Academy of Science and the American Academy of Arts and Sciences. I serve on many international science advisory boards and serve as EVP of Life Sciences at the Simons Foundation.</p>
+          <p style="font-size: 13.5px; margin: 0; line-height: 1.5;"><b>Joy Bergelson</b></p>
+<p style="margin: 0 0 4px 0;"><strong><em>Silver Professor and Provostial Fellow, New York University; Executive Vice President of Life Sciences, Simons Foundation</em></strong></p>
+<p style="font-size: 13.5px; margin-top: 0;">I trained in a theoretical ecology lab doing experimental work on plants, and after obtaining my PhD decided to learn enough molecular biology to make my experimental designs to the level of the genome. Early fellowships from the Packard, Sloan and Life Sciences Research Foundations were pivotal in providing me the freedom to do this. When the first disease resistance genes were cloned, I focused my attention there and never looked back. Our work has spanned the ecology, molecular evolution, genomics and functional biology of disease resistance (as well as interactions with some other enemies and commensals) in <em>Arabidopsis thaliana</em>, with a strong emphasis on bringing the tools of genetics and genomics to ecology. Along the way, we have contributed to developing tools and resources for the study of natural variation in <em>Arabidopsis thaliana</em>. I am a member of the National Academy of Science and the American Academy of Arts and Sciences. I serve on many international science advisory boards and serve as EVP of Life Sciences at the Simons Foundation.</p>
         </div>
     </div>
   
@@ -51,8 +51,7 @@ permalink: /people/
             <img src="../assets/images/Choghag.jpg" alt="Choghag" />
         </div>
         <div class="description">
-          <p style="font-size: 13.5px; margin: 0; line-height: 1;">
-            <p><b>Choghag Demirjian, PhD</b></p>
+          <p style="font-size: 13.5px; margin: 0; line-height: 0.75;"><b>Choghag Demirjian, PhD</b></p>
             <p style="font-size: 13.5px;">
 I am a postdoctoral fellow in the compRgene project, which investigates the evolution of plant NLR genes across three Brassicaceae species. My research combines genomics, ecology, and functional biology to understand how genetic variation in both plants and pathogens shapes their evolutionary dynamics and immune responses. During my PhD, I studied how specific pathogenicity factors of <em>Ralstonia solanacearum</em> influence immune responses in <em>Arabidopsis thaliana</em>. Using natural variation in the host and effector mutants in the pathogen, I explored immune dynamics across both global and local plant populations and functionally validated genes, including an NLR gene, involved in susceptibility rather than resistance.
 I am deeply motivated by the challenge of uncovering the molecular basis of complex biological processes, particularly the plant immune system. Outside the lab, I enjoy hiking, cooking, and discovering new cuisines—activities that reflect my curiosity and love for exploration, both in science and in life.
