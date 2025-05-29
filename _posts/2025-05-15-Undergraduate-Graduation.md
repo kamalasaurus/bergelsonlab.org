@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Congratulations to Julianna Sosnowski and Marlena Kuhn"
+title: "Congratulations to Julianna and Marlena"
 date: 2025-05-15 10:00:00 -0400
 categories: news
 ---
 
-We are delighted to celebrate the graduation of Julianna Sosnowski and Marlena Kuhn from the NYU Department of Biology, both earning their degrees with honors!
+Congratulations to Julianna Sosnowski and Marlena Kuhn from the NYU Department of Biology on graduating with honors!
 
 During their time in the lab, Marlena developed a PCR workflow for analyzing microbial composition affecting Arabidopsis thaliana companion plants, showcasing her meticulous approach to experimental design and microbial ecology. Julianna explored interactions between Pseudomonas syringae and Arabidopsis thaliana, contributing to our understanding of plant-pathogen dynamics through rigorous and insightful investigation.
 
