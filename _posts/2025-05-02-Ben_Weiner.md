@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ben Weiner’s Paper Accepted for Publication"
-date: 2025-05-30 10:00:00 -0400
+date: 2025-05-02 10:00:00 -0400
 categories: news
 ---
 
