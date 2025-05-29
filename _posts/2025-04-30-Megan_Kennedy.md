@@ -4,45 +4,23 @@ title: "Megan Kennedy’s Research Published in Nature"
 date: 2025-04-30 10:00:00 -0400
 categories: news
 ---
+## New Publication: Megan Kennedy in *Nature*
 
-We’re thrilled to announce the launch of our **new and improved lab website**!
+🎉 **Congratulations to Megan Kennedy** on her newly published paper in the **April 30th issue of _Nature_!**
 
-## 🔍 What’s New?
+Her study, titled [_“Diet outperforms microbial transplant to drive microbiome recovery in mice”_](https://www.nature.com/articles/s41586-025-08937-9#citeas), explores how a Western-style diet (WD)—high in fat and low in fiber—impacts microbiome recovery after antibiotic treatment.
 
-### 🧠 Research Section  
-Explore our updated [Research](/research) section featuring new project highlights, including:
+The findings reveal:
 
-- Investigating plant-microbe interactions using advanced genomic tools  
-- Imaging-driven analysis of cellular behavior in model systems  
-- Collaborative studies on microbial communities and their dynamics
+- **Regular chow (RC)** enables robust and rapid microbiome recovery by promoting cross-feeding between microbial species.
+- **Western diet (WD)** impairs recovery, allowing dominant taxa to monopolize resources without supporting microbial diversity.
+- **Dietary intervention**, not microbial transplant, was both necessary and sufficient to restore microbiome health.
+- Prolonged dysbiosis on WD made mice more susceptible to **Salmonella** infection.
 
-You’ll now find **interactive summaries**, **publications**, and **ongoing projects** clearly organized and easier to navigate.
+This work challenges current enthusiasm for fecal microbiota transplant (FMT) as a one-size-fits-all solution to dysbiosis and underscores the **power of diet as a first-line intervention**.
 
-### 👩‍🔬 Meet the Team  
-Our completely redesigned [Team](/team) page now includes:
+📖 **Read the full paper:** [Nature, 2025](https://www.nature.com/articles/s41586-025-08937-9)
 
-- Up-to-date bios and photos  
-- Roles, research interests, and publications  
-- A better view into the personalities driving our lab forward
+📚 **Citation:**  
+Kennedy, M.S., Freiburger, A., Cooper, M. et al. _Diet outperforms microbial transplant to drive microbiome recovery in mice._ *Nature* (2025). https://doi.org/10.1038/s41586-025-08937-9
 
-## 📸 A Fresh Look
-
-We’ve refreshed the entire site design to be:
-
-- **Clean and responsive** on desktop and mobile  
-- Easier to navigate  
-- Visually aligned with our mission and science
-
-Take a look:
-
-<div style="text-align:center;">
-  <img src="../assets/images/NYU.png" alt="New Lab Homepage" style="max-width:90%; border-radius:10px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
-</div>
-
-## 🛠️ Built with Jekyll  
-We rebuilt the site using [Jekyll](https://jekyllrb.com/), making it fast, modern, and easy to maintain. It also means you’ll see more frequent updates as our work evolves!
-
----
-
-👉 **[Visit the new site homepage!](/)**  
-Have questions or feedback? [Contact us](/contact) — we’d love to hear from you!
