@@ -10,7 +10,7 @@ We’re thrilled to announce the launch of our **new and improved lab website**!
 ## 🔍 What’s New?
 
 ### 🧠 Research Section  
-Explore our updated [Research](/research) section featuring new project highlights, including:
+Explore our updated <a href="https://kamalasaurus.github.io/bergelsonlab.org/research/">Research</a> section featuring new project highlights, including:
 
 - Investigating plant-microbe interactions using advanced genomic tools  
 - Imaging-driven analysis of cellular behavior in model systems  
@@ -19,7 +19,7 @@ Explore our updated [Research](/research) section featuring new project highligh
 You’ll now find **interactive summaries**, **publications**, and **ongoing projects** clearly organized and easier to navigate.
 
 ### 👩‍🔬 Meet the Team  
-Our completely redesigned [Team](/team) page now includes:
+Our completely redesigned <a href="https://kamalasaurus.github.io/bergelsonlab.org/people/">Team</a> page now includes:
 
 - Up-to-date bios and photos  
 - Roles, research interests, and publications  
@@ -33,17 +33,6 @@ We’ve refreshed the entire site design to be:
 - Easier to navigate  
 - Visually aligned with our mission and science
 
-Take a look:
-
-<div style="text-align:center;">
-  <img src="../assets/images/NYU.png" alt="New Lab Homepage" style="max-width:90%; border-radius:10px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
-</div>
-
-## 🛠️ Built with Jekyll  
-We rebuilt the site using [Jekyll](https://jekyllrb.com/), making it fast, modern, and easy to maintain. It also means you’ll see more frequent updates as our work evolves!
-
 ---
 
-👉 **[Visit the new site homepage!](/)**  
-Have questions or feedback? [Contact us](/contact) — we’d love to hear from you!
 
