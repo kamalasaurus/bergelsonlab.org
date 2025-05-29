@@ -8,9 +8,7 @@ categories: news
 
 **Congratulations to Luke Henry** on being named a **Revson Fellow**—a prestigious award supporting early-career scientists in biomedical research!
 
-Luke holds undergraduate degrees in **biology and bassoon performance** from Bard College, an MS in biology from Indiana University, and a PhD in ecology and evolutionary biology from Princeton University.
-
-His research focuses on **evolutionary processes in complex systems**, with an emphasis on how **host-microbiome interactions influence pathogen evolution**, blending evolutionary theory with experimental biology.
+Luke holds undergraduate degrees in **biology and bassoon performance** from Bard College, an MS in biology from Indiana University, and a PhD in ecology and evolutionary biology from Princeton University. His research focuses on **evolutionary processes in complex systems**, with an emphasis on how **host-microbiome interactions influence pathogen evolution**, blending evolutionary theory with experimental biology.
 
 We’re proud to celebrate Luke’s accomplishments and excited to see where his research takes him next!
 
