@@ -13,4 +13,3 @@ Luke holds undergraduate degrees in **biology and bassoon performance** from Bar
 We’re proud to celebrate Luke’s accomplishments and excited to see where his research takes him next!
 
 You can read more about the fellowship and past awardees <a href="https://revsonfoundation.org/about/fellowship-classes/">here</a>.
-
