@@ -243,6 +243,12 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
             <img src="../assets/images/More_lab.JPG" alt="Second Lab Examination" />
         </div>
     </div>
+  <div class="card card-wide">
+        <div class="subtitle">Field Trip to the NY Botanical Gardens</div>
+        <div class="image">
+            <img src="../assets/images/NY-Botanical-Gardens.png" alt="NY Gardens" />
+        </div>
+    </div>
   <div class="card">
         <div class="subtitle">Undergraduate Honors Thesis Presentation</div>
         <div class="image">
