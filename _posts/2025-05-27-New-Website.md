@@ -33,4 +33,6 @@ Our completely redesigned <a href="https://kamalasaurus.github.io/bergelsonlab.o
 ### Have any questions about our research or current openings?  
 Visit our <a href="https://kamalasaurus.github.io/bergelsonlab.org/contact/">Contact Us</a> page — we’d love to hear from you!
 
+And be sure to check our <a href="https://kamalasaurus.github.io/bergelsonlab.org/news/">News</a> page regularly to stay updated on lab milestones, publications, and events!
+
 
