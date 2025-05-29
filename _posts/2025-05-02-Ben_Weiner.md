@@ -5,44 +5,14 @@ date: 2025-05-02 10:00:00 -0400
 categories: news
 ---
 
-We’re thrilled to announce the launch of our **new and improved lab website**!
+**Huge congratulations to Ben Weiner** on his latest paper, “A physical model links structure and function in the plant immune system,” which is **in press at the *Proceedings of the National Academy of Sciences (PNAS)*.**
 
-## 🔍 What’s New?
+This paper presents a **mathematical and physics-based model** of **Effector-Triggered Immunity (ETI)**—a fundamental aspect of how plants recognize and respond to pathogens. While plants use NLR proteins to detect harmful effectors either directly or indirectly, the broader system-level logic behind these immune interactions has remained elusive. In this study, Ben and his co-authors construct a minimalist model that connects protein–protein interactions to emergent immune behaviors.
 
-### 🧠 Research Section  
-Explore our updated [Research](/research) section featuring new project highlights, including:
+The paper provides a universal explanation for **effector interference** as a natural consequence of molecular competition, reveals how different immune sensing strategies—including direct detection, decoys, and integrated decoys—create functional **trade-offs** between sensitivity, target protection, and proteomic cost, and offers a systems-level framework for understanding how **ZAR1**, an evolutionarily conserved immune receptor, integrates multiple signals to mount a unified defense.
 
-- Investigating plant-microbe interactions using advanced genomic tools  
-- Imaging-driven analysis of cellular behavior in model systems  
-- Collaborative studies on microbial communities and their dynamics
+This work not only bridges the gap between molecular biology and systems-level immune function—it also offers new quantitative insights into how the plant immune system may have been shaped by **evolutionary pressures**.
 
-You’ll now find **interactive summaries**, **publications**, and **ongoing projects** clearly organized and easier to navigate.
+**Authors:** Benjamin G. Weiner, Hanna Märkle, Eric Laderman, Choghag Demirjian, and Joy Bergelson  
 
-### 👩‍🔬 Meet the Team  
-Our completely redesigned [Team](/team) page now includes:
-
-- Up-to-date bios and photos  
-- Roles, research interests, and publications  
-- A better view into the personalities driving our lab forward
-
-## 📸 A Fresh Look
-
-We’ve refreshed the entire site design to be:
-
-- **Clean and responsive** on desktop and mobile  
-- Easier to navigate  
-- Visually aligned with our mission and science
-
-Take a look:
-
-<div style="text-align:center;">
-  <img src="../assets/images/NYU.png" alt="New Lab Homepage" style="max-width:90%; border-radius:10px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
-</div>
-
-## 🛠️ Built with Jekyll  
-We rebuilt the site using [Jekyll](https://jekyllrb.com/), making it fast, modern, and easy to maintain. It also means you’ll see more frequent updates as our work evolves!
-
----
-
-👉 **[Visit the new site homepage!](/)**  
-Have questions or feedback? [Contact us](/contact) — we’d love to hear from you!
+*In press* at *PNAS*—stay tuned for the full publication!
