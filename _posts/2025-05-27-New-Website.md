@@ -5,9 +5,7 @@ date: 2025-05-27 10:00:00 -0400
 categories: news
 ---
 
-We’re thrilled to announce the launch of our **new and improved lab website**!
-
-## What’s New?
+We’re thrilled to announce the launch of our **new and improved lab website**! See what’s new below!
 
 ### Research Section  
 Explore our updated <a href="https://kamalasaurus.github.io/bergelsonlab.org/research/">Research</a> section featuring new project highlights that reflect the key scientific questions we pursue:
