@@ -16,18 +16,24 @@ We’re proud to celebrate Luke’s accomplishments and excited to see where his
 You can read more about the fellowship and past awardees <a href="https://revsonfoundation.org/about/fellowship-classes/">here</a>.
 
 <div style="display: flex; align-items: flex-start; gap: 15px;">
-  <img src="../assets/images/Luke.jpeg" alt="Luke Henry" style="max-width: 180px; height: auto; border-radius: 8px;">
+  <img src="/assets/images/Luke.jpeg" alt="Luke Henry" style="max-width: 180px; height: auto; border-radius: 8px;">
   <div>
     <p>
-      We’re thrilled to recognize <strong>Dr. Luke Henry</strong>, former postdoc in the Bergelson Lab, for being named a <a href="https://revsonfoundation.org/about/fellowship-classes/">Revson Biomedical Fellow</a>.
+      <strong>Congratulations to Luke Henry</strong> for being named a <a href="https://revsonfoundation.org/about/fellowship-classes/">Revson Biomedical Fellow</a>.
     </p>
     <p>
-      Dr. Henry’s research focuses on <strong>evolutionary processes in complex systems</strong>, with an emphasis on how <strong>host-microbiome interactions influence pathogen evolution</strong>. His interdisciplinary background includes:
+      Luke's research focuses on <strong>evolutionary processes in complex systems</strong>, with an emphasis on how <strong>host-microbiome interactions influence pathogen evolution</strong>. His interdisciplinary background includes:
     </p>
     <ul>
       <li><strong>B.A.</strong> in Biology and Bassoon Performance, Bard College</li>
       <li><strong>M.S.</strong> in Biology, Indiana University</li>
       <li><strong>Ph.D.</strong> in Ecology & Evolutionary Biology, Princeton University</li>
     </ul>
+    <p>
+      We’re proud to celebrate Luke’s accomplishments and excited to see where his research takes him next!
+      </p>
+    <p></p>
+      You can read more about the fellowship and past awardees <a href="https://revsonfoundation.org/about/fellowship-classes/">here</a>.
+    </p>
   </div>
 </div>
