@@ -2,6 +2,7 @@
 layout: post
 title: "Congratulations to Joy for her New Role as EVP of Life Sciences at the Simons Foundation"
 date: 2025-01-01 10:00:00 -0400
+author: "Em Schissler"
 categories: news
 ---
 
