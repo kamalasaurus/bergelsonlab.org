@@ -5,44 +5,9 @@ date: 2025-01-01 10:00:00 -0400
 categories: news
 ---
 
-We’re thrilled to announce the launch of our **new and improved lab website**!
+We’re thrilled to share that **Joy Bergelson** has officially begun her new role as **Executive Vice President of Life Sciences** at the [Simons Foundation](https://www.simonsfoundation.org/2025/03/24/joy-bergelson-named-next-director-of-simons-foundations-life-sciences-division/)! She joins the foundation’s senior leadership to guide a new grantmaking portfolio focused on **ecology and evolutionary biology**—bringing her extraordinary expertise to an exciting new chapter in basic science funding.
 
-## 🔍 What’s New?
+At the Simons Foundation, Bergelson will develop and launch new grant programs to better understand and predict the **dynamics of natural systems**, from biodiversity and biological resilience to the effects of climate change and environmental perturbations. Her vision will build on the impactful work of founding director Marian Carlson, who will remain at the foundation until the end of the year. Read her Simons Foundation Biography [here](https://www.simonsfoundation.org/people/joy-bergelson/).
 
-### 🧠 Research Section  
-Explore our updated [Research](/research) section featuring new project highlights, including:
+Congratulations to Joy on this well-deserved appointment—this is a major moment for the life sciences, and we can’t wait to see what comes next.
 
-- Investigating plant-microbe interactions using advanced genomic tools  
-- Imaging-driven analysis of cellular behavior in model systems  
-- Collaborative studies on microbial communities and their dynamics
-
-You’ll now find **interactive summaries**, **publications**, and **ongoing projects** clearly organized and easier to navigate.
-
-### 👩‍🔬 Meet the Team  
-Our completely redesigned [Team](/team) page now includes:
-
-- Up-to-date bios and photos  
-- Roles, research interests, and publications  
-- A better view into the personalities driving our lab forward
-
-## 📸 A Fresh Look
-
-We’ve refreshed the entire site design to be:
-
-- **Clean and responsive** on desktop and mobile  
-- Easier to navigate  
-- Visually aligned with our mission and science
-
-Take a look:
-
-<div style="text-align:center;">
-  <img src="../assets/images/NYU.png" alt="New Lab Homepage" style="max-width:90%; border-radius:10px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
-</div>
-
-## 🛠️ Built with Jekyll  
-We rebuilt the site using [Jekyll](https://jekyllrb.com/), making it fast, modern, and easy to maintain. It also means you’ll see more frequent updates as our work evolves!
-
----
-
-👉 **[Visit the new site homepage!](/)**  
-Have questions or feedback? [Contact us](/contact) — we’d love to hear from you!
