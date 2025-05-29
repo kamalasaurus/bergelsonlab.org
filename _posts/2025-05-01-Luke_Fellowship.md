@@ -5,7 +5,13 @@ date: 2025-05-01 10:00:00 -0400
 categories: news
 ---
 
-Congratulations to Luke on being named a **Revson Fellow**—a prestigious award supporting early-career scientists in biomedical research! 
+**Congratulations to Luke Henry** on being named a **Revson Fellow**—a prestigious award supporting early-career scientists in biomedical research!
+
+Luke holds undergraduate degrees in **biology and bassoon performance** from Bard College, an MS in biology from Indiana University, and a PhD in ecology and evolutionary biology from Princeton University.
+
+His research broadly focuses on **evolutionary processes in complex systems**. He currently investigates how **host-microbiome interactions influence pathogen evolution**, blending evolutionary theory with experimental biology.
+
+We’re proud to celebrate Luke’s accomplishments and excited to see where his research takes him next!
 
 You can read more about the fellowship and past awardees <a href="https://revsonfoundation.org/about/fellowship-classes/">here</a>.
 
