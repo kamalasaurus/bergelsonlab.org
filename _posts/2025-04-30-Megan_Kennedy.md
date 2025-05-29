@@ -2,6 +2,7 @@
 layout: post
 title: "Megan Kennedy’s Research Published in Nature"
 date: 2025-04-30 10:00:00 -0400
+author: "Em Schissler"
 categories: news
 ---
 
