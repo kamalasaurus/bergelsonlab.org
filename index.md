@@ -6,7 +6,7 @@ layout: default
 ---
 
 <hr>
-<body>
+
 <div class="container">
   <img src="assets/images/Main_Banner3.png" alt="Banner" style="width:100%;">
 </div>
@@ -59,7 +59,7 @@ layout: default
   </div>
 </div>
 
- <div class="news" style="flex: 0 1 240px; min-width: 180px; font-size: 10px;">
+ <div class="news" style="flex: 0 1 240px; min-width: 180px; font-size: 12px;">
   <b>
     {% for page in site.pages %}
       {% if page.title == "News" %}
@@ -80,4 +80,4 @@ layout: default
     <a href="{{ '/news' | relative_url }}">See all news →</a>
   </div>
 </div>
-</body>
+
