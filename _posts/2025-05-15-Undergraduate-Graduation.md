@@ -2,6 +2,7 @@
 layout: post
 title: "Congratulations to Julianna and Marlena"
 date: 2025-05-15 10:00:00 -0400
+author: "Em Schissler"
 categories: news
 ---
 
