@@ -59,7 +59,7 @@ layout: default
   </div>
 </div>
 
- <div class="news" style="flex: 0 1 240px; min-width: 180px; font-size: 12px;">
+ <div class="news" style="flex: 0 1 240px; min-width: 180px; font-size: 11px;">
   <b>
     {% for page in site.pages %}
       {% if page.title == "News" %}
