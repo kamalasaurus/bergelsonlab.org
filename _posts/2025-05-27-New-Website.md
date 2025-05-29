@@ -2,7 +2,7 @@
 layout: post
 title: "New Website: Officially Live"
 date: 2025-05-27 10:00:00 -0400
-author:"Em Schissler"
+author: "Em Schissler"
 categories: news
 ---
 
