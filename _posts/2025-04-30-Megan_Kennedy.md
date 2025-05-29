@@ -4,9 +4,8 @@ title: "Megan Kennedy’s Research Published in Nature"
 date: 2025-04-30 10:00:00 -0400
 categories: news
 ---
-## New Publication: Megan Kennedy in *Nature*
 
-🎉 **Congratulations to Megan Kennedy** on her newly published paper in the **April 30th issue of _Nature_!**
+**Congratulations to Megan Kennedy** on her newly published paper in the **April 30th issue of _Nature_!**
 
 Her study, titled [_“Diet outperforms microbial transplant to drive microbiome recovery in mice”_](https://www.nature.com/articles/s41586-025-08937-9#citeas), explores how a Western-style diet (WD)—high in fat and low in fiber—impacts microbiome recovery after antibiotic treatment.
 
