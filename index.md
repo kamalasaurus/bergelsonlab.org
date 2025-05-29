@@ -60,22 +60,24 @@ layout: default
 </div>
 
  <div class="news" style="flex: 0 1 240px; min-width: 180px; font-size: 10px;">
-    <b>
-        {% for page in site.pages %}
-            {% if page.title == "News" %}
-                <a href="{{ page.url | relative_url }}">News</a>
-            {% endif %}
-        {% endfor %}
-    </b>
-    <ul style="list-style: none; padding-left: 0;">
-        {% for post in site.posts %}
-            <li>
-                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-                <p>{{ post.date | date: "%B %d, %Y" }}</p>
-                <p>{{ post.excerpt }}</p>
-            </li>
-        {% endfor %}
-    </ul>
-   </div>
+  <b>
+    {% for page in site.pages %}
+      {% if page.title == "News" %}
+        <a href="{{ page.url | relative_url }}">News</a>
+      {% endif %}
+    {% endfor %}
+  </b>
+  <ul style="list-style: none; padding-left: 0;">
+    {% for post in site.posts limit:3 %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <p>{{ post.date | date: "%B %d, %Y" }}</p>
+        <p>{{ post.excerpt }}</p>
+      </li>
+    {% endfor %}
+  </ul>
+  <div style="margin-top: 10px;">
+    <a href="{{ '/news' | relative_url }}">See all news →</a>
+  </div>
 </div>
 </body>
