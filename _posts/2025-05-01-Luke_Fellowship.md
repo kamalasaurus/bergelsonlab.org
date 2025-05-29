@@ -7,33 +7,14 @@ categories: news
 
 **Congratulations to Luke Henry** on being named a **Revson Fellow**—a prestigious award supporting early-career scientists in biomedical research!
 
-Luke holds undergraduate degrees in **biology and bassoon performance** from Bard College, an MS in biology from Indiana University, and a PhD in ecology and evolutionary biology from Princeton University.
+Luke's research focuses on **evolutionary processes in complex systems**, with an emphasis on how **host-microbiome interactions influence pathogen evolution**, blending evolutionary theory with experimental biology.
 
-His research broadly focuses on **evolutionary processes in complex systems**. He currently investigates how **host-microbiome interactions influence pathogen evolution**, blending evolutionary theory with experimental biology.
+His interdisciplinary background includes:
+- **B.A.** in Biology and Bassoon Performance, Bard College
+- **M.S.** in Biology, Indiana University
+- **Ph.D.** in Ecology & Evolutionary Biology, Princeton University
 
 We’re proud to celebrate Luke’s accomplishments and excited to see where his research takes him next!
 
 You can read more about the fellowship and past awardees <a href="https://revsonfoundation.org/about/fellowship-classes/">here</a>.
 
-<div style="display: flex; align-items: flex-start; gap: 15px;">
-  <img src="/assets/images/Luke.jpeg" alt="Luke Henry" style="max-width: 180px; height: auto; border-radius: 8px;">
-  <div>
-    <p>
-      <strong>Congratulations to Luke Henry</strong> for being named a <a href="https://revsonfoundation.org/about/fellowship-classes/">Revson Biomedical Fellow</a>.
-    </p>
-    <p>
-      Luke's research focuses on <strong>evolutionary processes in complex systems</strong>, with an emphasis on how <strong>host-microbiome interactions influence pathogen evolution</strong>. His interdisciplinary background includes:
-    </p>
-    <ul>
-      <li><strong>B.A.</strong> in Biology and Bassoon Performance, Bard College</li>
-      <li><strong>M.S.</strong> in Biology, Indiana University</li>
-      <li><strong>Ph.D.</strong> in Ecology & Evolutionary Biology, Princeton University</li>
-    </ul>
-    <p>
-      We’re proud to celebrate Luke’s accomplishments and excited to see where his research takes him next!
-      </p>
-    <p></p>
-      You can read more about the fellowship and past awardees <a href="https://revsonfoundation.org/about/fellowship-classes/">here</a>.
-    </p>
-  </div>
-</div>
