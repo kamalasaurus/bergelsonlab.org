@@ -27,7 +27,7 @@ layout: default
    <div class="callouts" style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
   <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/microbial-interactions-communities'"
           style="width: 500px; aspect-ratio: 1 / 1; position: relative; cursor: pointer; border-radius: 10px; overflow: hidden;">
-    <img src="{{ site.baseurl }}/assets/images/CI-Box3.png" alt="NLR Evolution"
+    <img src="{{ site.baseurl }}/assets/images/MIC-Box2.png" alt="NLR Evolution"
          style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
     </div>
    <div style="margin-top: 10px; text-align: center; font-weight: bold; font-size: 14px;">
@@ -41,7 +41,7 @@ layout: default
    <div class="callouts" style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
   <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/NLR-evolution'"
           style="width: 500px; aspect-ratio: 1 / 1; position: relative; cursor: pointer; border-radius: 10px; overflow: hidden;">
-    <img src="{{ site.baseurl }}/assets/images/CI-Box3.png" alt="NLR Evolution"
+    <img src="{{ site.baseurl }}/assets/images/NLR-Box2.png" alt="NLR Evolution"
          style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
     </div>
    <div style="margin-top: 10px; text-align: center; font-weight: bold; font-size: 14px;">
