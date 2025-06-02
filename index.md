@@ -20,6 +20,8 @@ layout: default
     We study the ecology and evolution of plant–pathogen interactions, focusing primarily on <em>Arabidopsis thaliana</em> and the bacteria that reside within it. Our approach is interdisciplinary; we draw upon tools from molecular genetics, molecular evolution, computation, field biology, chemistry, and population genetics to understand how ecological interactions shape evolutionary dynamics. Many of our field experiments are performed in the Midwest, or abroad, at sites in Sweden and France.
     </p>
 
+
+      <!-- Microbial Interactions box -->
 <div class="callouts">
   <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/microbial-interactions-communities'"
       onmouseover="this.style.backgroundColor='#D0E9DC';"
@@ -32,7 +34,9 @@ layout: default
       Microbial Interactions
     </div>
   </div>
-         
+
+               <!-- NLR Evolution box -->
+               
   <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/NLR-evolution'"
        style="width: 500px; aspect-ratio: 1 / 1; position: relative; cursor: pointer; border-radius: 10px; overflow: hidden;">
     <img src="{{ site.baseurl }}/assets/images/NLR-Box2.png" alt="NLR Evolution"
@@ -45,17 +49,21 @@ layout: default
     </div>
   </div>
 
-
+      <!-- Eco-evolutionary Interactions box -->
+      
   <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/ecoevolutionary-interactions'"
           style="width: 500px; aspect-ratio: 1 / 1; position: relative; cursor: pointer; border-radius: 10px; overflow: hidden;">
     <img src="{{ site.baseurl }}/assets/images/CI-Box3.png" alt="Eco-evolution"
          style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
     </div>
   <div style="margin-top: 10px; text-align: center; font-weight: bold; font-size: 14px;">
-    NLR Evolution
+    Eco-evolutionary Interactions
   </div>
   </div>
+
   </div>
+</div>
+
 </div>
 
  <div class="news" style="flex: 0 1 240px; min-width: 180px; font-size: 11px;">
