@@ -56,7 +56,9 @@ layout: default
     <img src="{{ site.baseurl }}/assets/images/CI-Box3.png" alt="Eco-evolution"
          style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
     </div>
-  <div style="margin-top: 10px; text-align: center; font-weight: bold; font-size: 14px;">
+   <div style="position: absolute; bottom: 10px; left: 50%; transform: translateX(-50%);
+              background-color: rgba(255, 255, 255, 0.85); padding: 5px 10px;
+              border-radius: 5px; font-weight: bold; font-size: 14px; text-align: center;">
     Eco-evolutionary Interactions
   </div>
   </div>
