@@ -22,22 +22,22 @@ layout: default
 
 
 <!-- Microbial Interactions box -->
-<div class="callouts">
+<div style="display: flex; flex-direction: column; align-items: center;">
+   <div class="callouts" style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
   <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/microbial-interactions-communities'"
-      onmouseover="this.style.backgroundColor='#D0E9DC';"
-       onmouseout="this.style.backgroundColor='#E6F3EE';"
-       style="width: 500px; aspect-ratio: 1 / 1; position: relative; cursor: pointer;
-              border-radius: 10px; overflow: hidden; background-color: #E6F3EE;
-              display: flex; align-items: center; justify-content: center;">
-    <div style="color: #003300; font-weight: bold; text-align: center;
-                font-size: 20px; letter-spacing: 1px;">
+          style="width: 500px; aspect-ratio: 1 / 1; position: relative; cursor: pointer; border-radius: 10px; overflow: hidden;">
+    <img src="{{ site.baseurl }}/assets/images/CI-Box3.png" alt="NLR Evolution"
+         style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
+    </div>
+   <div style="margin-top: 10px; text-align: center; font-weight: bold; font-size: 14px;">
       Microbial Interactions
     </div>
   </div>
-
+  
 <!-- NLR Evolution box -->
                
 <div style="display: flex; flex-direction: column; align-items: center;">
+   <div class="callouts" style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
   <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/NLR-evolution'"
           style="width: 500px; aspect-ratio: 1 / 1; position: relative; cursor: pointer; border-radius: 10px; overflow: hidden;">
     <img src="{{ site.baseurl }}/assets/images/CI-Box3.png" alt="NLR Evolution"
