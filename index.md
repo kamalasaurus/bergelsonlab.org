@@ -50,7 +50,7 @@ layout: default
   </div>
 
 <!-- Eco-evolutionary Interactions box -->
-      
+  <div style="display: flex; flex-direction: column; align-items: center;">
   <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/ecoevolutionary-interactions'"
           style="width: 500px; aspect-ratio: 1 / 1; position: relative; cursor: pointer; border-radius: 10px; overflow: hidden;">
     <img src="{{ site.baseurl }}/assets/images/CI-Box3.png" alt="Eco-evolution"
@@ -62,8 +62,6 @@ layout: default
   </div>
 
   </div>
-</div>
-
 </div>
 
  <div class="news" style="flex: 0 1 240px; min-width: 180px; font-size: 11px;">
@@ -88,3 +86,4 @@ layout: default
   </div>
 </div>
 
+</div>
