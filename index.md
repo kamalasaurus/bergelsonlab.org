@@ -22,13 +22,11 @@ layout: default
 
 <div class="callouts">
   <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/microbial-interactions-communities'"
-      onmouseover="this.style.backgroundColor='#D0E9DC';"
-       onmouseout="this.style.backgroundColor='#E6F3EE';"
-       style="width: 500px; aspect-ratio: 1 / 1; position: relative; cursor: pointer;
-              border-radius: 10px; overflow: hidden; background-color: #E6F3EE;
-              display: flex; align-items: center; justify-content: center;">
-    <div style="color: #003300; font-weight: bold; text-align: center;
-                font-size: 20px; letter-spacing: 1px;">
+        style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
+    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+                background: rgba(0, 0, 0, 0.7); color: white; padding: 10px 20px;
+                font-weight: bold; text-align: center; border-radius: 0px;
+                font-size: 9px;">
       Microbial Interactions
     </div>
   </div>
@@ -36,7 +34,7 @@ layout: default
   <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/NLR-evolution'"
        style="width: 500px; aspect-ratio: 1 / 1; position: relative; cursor: pointer; border-radius: 10px; overflow: hidden;">
     <img src="{{ site.baseurl }}/assets/images/NLR-Box2.png" alt="NLR Evolution"
-              style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px; filter: grayscale(100%);">
+              style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
                 background: rgba(0, 0, 0, 0.7); color: white; padding: 10px 20px;
                 font-weight: bold; text-align: center; border-radius: 0px;
