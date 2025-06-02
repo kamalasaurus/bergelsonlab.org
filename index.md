@@ -70,7 +70,7 @@ layout: default
         {% endfor %}
     </b>
     <ul style="list-style: none; padding-left: 0;">
-        {% for post in site.posts %}
+        {% for post in site.posts % limit:4 %}
             <li>
                 <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
                 <p>{{ post.date | date: "%B %d, %Y" }}</p>
@@ -78,7 +78,16 @@ layout: default
             </li>
         {% endfor %}
     </ul>
-   </div>
+
+   <!-- See more news link -->
+  {% for page in site.pages %}
+    {% if page.title == "News" %}
+      <a href="{{ page.url | relative_url }}" style="display: inline-block; margin-top: 10px; font-weight: bold; text-decoration: none;">
+        See all news →
+      </a>
+    {% endif %}
+  {% endfor %}
+</div>
 </div>
 </body>
 
