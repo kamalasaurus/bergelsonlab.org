@@ -37,14 +37,13 @@ layout: default
 
 <!-- NLR Evolution box -->
                
+<div style="display: flex; flex-direction: column; align-items: center;">
   <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/NLR-evolution'"
-       style="width: 500px; aspect-ratio: 1 / 1; position: relative; cursor: pointer; border-radius: 10px; overflow: hidden;">
-    <img src="{{ site.baseurl }}/assets/images/NLR-Box2.png" alt="NLR Evolution"
-              style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px; filter: grayscale(100%);">
-    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
-                background: rgba(0, 0, 0, 0.7); color: white; padding: 10px 20px;
-                font-weight: bold; text-align: center; border-radius: 0px;
-                font-size: 9px;">
+          style="width: 500px; aspect-ratio: 1 / 1; position: relative; cursor: pointer; border-radius: 10px; overflow: hidden;">
+    <img src="{{ site.baseurl }}/assets/images/CI-Box3.png" alt="NLR Evolution"
+         style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
+    </div>
+   <div style="margin-top: 10px; text-align: center; font-weight: bold; font-size: 14px;">
       NLR Evolution
     </div>
   </div>
@@ -56,9 +55,7 @@ layout: default
     <img src="{{ site.baseurl }}/assets/images/CI-Box3.png" alt="Eco-evolution"
          style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
     </div>
-   <div style="position: absolute; bottom: 10px; left: 50%; transform: translateX(-50%);
-              background-color: rgba(255, 255, 255, 0.85); padding: 5px 10px;
-              border-radius: 5px; font-weight: bold; font-size: 14px; text-align: center;">
+   <div style="margin-top: 10px; text-align: center; font-weight: bold; font-size: 14px;">
     Eco-evolutionary Interactions
   </div>
   </div>
