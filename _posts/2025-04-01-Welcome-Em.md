@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome Em to the Lab
+title: "Welcome Em to the Lab"
 date: 2025-04-01 10:00:00 -0400
 author: "Em Schissler"
 categories: news
