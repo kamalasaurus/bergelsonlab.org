@@ -25,9 +25,8 @@ layout: default
      style="width: 500px; aspect-ratio: 1 / 1; position: relative; cursor: pointer; border-radius: 10px; overflow: hidden;">
   <img src="{{ site.baseurl }}/assets/images/MIC-Box2.png" alt="NLR Evolution"
         style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
-     <div style="background: rgba(0, 0, 0, 0.7); color: white; padding: 10px 20px;
-              font-weight: bold; text-align: center; border-radius: 0px;
-              font-size: 9px; width: 100%;">
+       <div style="background: rgba(0, 0, 0, 0.7); color: white; padding: 10px 20px;
+              font-weight: bold; text-align: center; font-size: 9px;">
       Microbial Interactions
     </div>
   </div>
