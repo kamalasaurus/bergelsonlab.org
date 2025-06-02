@@ -47,11 +47,13 @@ layout: default
 
 
   <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/ecoevolutionary-interactions'"
-        style="width: 500px; height: 500px; position: relative; cursor: pointer; border-radius: 10px; overflow: hidden;">
+          style="width: 500px; aspect-ratio: 1 / 1; position: relative; cursor: pointer; border-radius: 10px; overflow: hidden;">
     <img src="{{ site.baseurl }}/assets/images/CI-Box3.png" alt="Eco-evolution"
          style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
-    
     </div>
+  <div style="margin-top: 10px; text-align: center; font-weight: bold; font-size: 14px;">
+    NLR Evolution
+  </div>
   </div>
   </div>
 </div>
