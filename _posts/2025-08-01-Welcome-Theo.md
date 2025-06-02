@@ -12,7 +12,7 @@ We’re thrilled to welcome **Theo Gibbs** to the lab!
 
 Theo is a Schmidt Science Fellow with a deep interest in how pathogen resistance emerges from ecological interactions within the microbiome.
 
-Theo previously earned his B.A. in Mathematics from the University of Chicago and worked with James O'Dwyer during a gap year at the University of Illinois at Urbana-Champaign. He then recently earned his PhD from Princeton University
+Theo previously earned his B.A. in Mathematics from the University of Chicago and worked with James O'Dwyer during a gap year at the University of Illinois at Urbana-Champaign. He recently earned his Ph.D. from Princeton University.
 
 His dissertation work blended mathematical theory with experimental ecology in annual plants to investigate how higher-order interactions—those involving three or more species—can maintain species coexistence in diverse ecological communities.
 
