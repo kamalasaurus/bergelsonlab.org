@@ -21,7 +21,7 @@ layout: default
     </p>
 
 
-      <!-- Microbial Interactions box -->
+<!-- Microbial Interactions box -->
 <div class="callouts">
   <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/microbial-interactions-communities'"
       onmouseover="this.style.backgroundColor='#D0E9DC';"
@@ -35,7 +35,7 @@ layout: default
     </div>
   </div>
 
-               <!-- NLR Evolution box -->
+<!-- NLR Evolution box -->
                
   <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/NLR-evolution'"
        style="width: 500px; aspect-ratio: 1 / 1; position: relative; cursor: pointer; border-radius: 10px; overflow: hidden;">
@@ -49,7 +49,7 @@ layout: default
     </div>
   </div>
 
-      <!-- Eco-evolutionary Interactions box -->
+<!-- Eco-evolutionary Interactions box -->
       
   <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/ecoevolutionary-interactions'"
           style="width: 500px; aspect-ratio: 1 / 1; position: relative; cursor: pointer; border-radius: 10px; overflow: hidden;">
