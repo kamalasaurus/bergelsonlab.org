@@ -29,12 +29,9 @@ layout: default
 
   <div style="background: rgba(0, 0, 0, 0.7); color: white; padding: 10px 20px;
               font-weight: bold; text-align: center; border-radius: 0 0 10px 10px;
-              font-size: 9px; ">
+              font-size: 9px;">
     Microbial Interactions
   </div>
-
-</div>
-
 </div>
          
   <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/NLR-evolution'"
