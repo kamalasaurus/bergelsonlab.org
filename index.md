@@ -20,20 +20,21 @@ layout: default
     We study the ecology and evolution of plant–pathogen interactions, focusing primarily on <em>Arabidopsis thaliana</em> and the bacteria that reside within it. Our approach is interdisciplinary; we draw upon tools from molecular genetics, molecular evolution, computation, field biology, chemistry, and population genetics to understand how ecological interactions shape evolutionary dynamics. Many of our field experiments are performed in the Midwest, or abroad, at sites in Sweden and France.
     </p>
 
-<!-- Section wrapper -->
-<div style="display: flex; justify-content: center; margin-top: 30px;">
-  <!-- Callouts container -->
-  <div class="callouts" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 1600px;">
-
+    <!-- Study Area Boxes -->
+    <div class="callouts" style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
   
 <!-- Microbial Interactions box -->
-  <div style="display: flex; flex-direction: column; align-items: center; width: 300px;">
+  <div class="study-area"
   <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/microbial-interactions-communities'"
-          style="width: 500px; aspect-ratio: 1 / 1; position: relative; cursor: pointer; border-radius: 10px; overflow: hidden;">
+          <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+                    background: rgba(0, 0, 0, 0.7); color: white; padding: 10px 20px;
+                    font-weight: bold; text-align: center; font-size: 12px;">
     <img src="{{ site.baseurl }}/assets/images/MIC-Box2.png" alt="NLR Evolution"
          style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
     </div>
-   <div style="margin-top: 10px; text-align: center; font-weight: bold; font-size: 14px;">
+   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+                    background: rgba(0, 0, 0, 0.7); color: white; padding: 10px 20px;
+                    font-weight: bold; text-align: center; font-size: 12px;">
       Microbial Interactions
     </div>
   </div>
@@ -42,11 +43,15 @@ layout: default
                
 <div style="display: flex; flex-direction: column; align-items: center; width: 300px;">
   <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/NLR-evolution'"
-          style="width: 500px; aspect-ratio: 1 / 1; position: relative; cursor: pointer; border-radius: 10px; overflow: hidden;">
+          <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+                    background: rgba(0, 0, 0, 0.7); color: white; padding: 10px 20px;
+                    font-weight: bold; text-align: center; font-size: 12px;">
     <img src="{{ site.baseurl }}/assets/images/NLR-Box2.png" alt="NLR Evolution"
          style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
     </div>
-   <div style="margin-top: 10px; text-align: center; font-weight: bold; font-size: 14px;">
+   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+                    background: rgba(0, 0, 0, 0.7); color: white; padding: 10px 20px;
+                    font-weight: bold; text-align: center; font-size: 12px;">
       NLR Evolution
     </div>
   </div>
@@ -54,11 +59,15 @@ layout: default
 <!-- Eco-evolutionary Interactions box -->
 <div style="display: flex; flex-direction: column; align-items: center; width: 300px;">
   <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/ecoevolutionary-interactions'"
-          style="width: 500px; aspect-ratio: 1 / 1; position: relative; cursor: pointer; border-radius: 10px; overflow: hidden;">
+          <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+                    background: rgba(0, 0, 0, 0.7); color: white; padding: 10px 20px;
+                    font-weight: bold; text-align: center; font-size: 12px;">
     <img src="{{ site.baseurl }}/assets/images/CI-Box3.png" alt="Eco-evolution"
          style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
     </div>
-   <div style="margin-top: 10px; text-align: center; font-weight: bold; font-size: 14px;">
+   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+                    background: rgba(0, 0, 0, 0.7); color: white; padding: 10px 20px;
+                    font-weight: bold; text-align: center; font-size: 12px;">
     Eco-evolutionary Interactions
   </div>
   </div>
