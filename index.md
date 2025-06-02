@@ -22,12 +22,11 @@ layout: default
 
 <div class="callouts">
   <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/microbial-interactions-communities'"
-     style="width: 500px; aspect-ratio: 1 / 1; position: relative; cursor: pointer;
-            border-radius: 10px; overflow: hidden; display: flex; flex-direction: column;">
+     style="width: 500px; aspect-ratio: 1 / 1; position: relative; cursor: pointer; border-radius: 10px; overflow: hidden; display: flex; flex-direction: column;">
   
   
   <img src="{{ site.baseurl }}/assets/images/MIC-Box2.png" alt="Microbial Interactions"
-       style="width: 100%; height: 100%; object-fit: cover; flex: 1;">
+       style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
 
   <div style="background: rgba(0, 0, 0, 0.7); color: white; padding: 10px 20px;
               font-weight: bold; text-align: center; border-radius: 0 0 10px 10px;
