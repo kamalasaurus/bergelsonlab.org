@@ -22,6 +22,7 @@ layout: default
 
 <div class="callouts">
   <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/microbial-interactions-communities'"
+  <img src="{{ site.baseurl }}/assets/images/MIC-Box2.png" alt="NLR Evolution"
         style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
                 background: rgba(0, 0, 0, 0.7); color: white; padding: 10px 20px;
