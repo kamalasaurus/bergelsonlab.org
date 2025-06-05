@@ -8,7 +8,7 @@ permalink: /people/
 
 <!-- Banner Section -->
 <div style="background: linear-gradient(135deg, #e6f3ee, #cde6dc); padding: 40px 20px; border-bottom: 2px solid #003366; text-align: center;">
-  <h1 style="margin: 0; color: #003366; letter-spacing: 1px;">
+  <h1 style="color: #003366; letter-spacing: 1px;">
     Meet the Team
   </h1>
   <h3 style="color: #333; max-width: 700px; margin: 5px auto 0;">

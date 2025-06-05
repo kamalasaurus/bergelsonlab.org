@@ -37,6 +37,22 @@ header {
 section {
     position: relative;
     z-index: 1;
+    color: black;
+    text-align: left;
+    width: 100%;
+    float: none;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    display: block;
+}
+
+section h1 b {
+    margin-top: 40px;
+}
+
+section div h1 {
+    margin-top: 40px;
 }
 
 header .item {
@@ -847,18 +863,6 @@ img.research-profile {
     .research-grid-span-2 {
         grid-column: span 1; /* Ensure wide items also span only 1 column on mobile */
     }
-}
-
-section {
-    color: black;
-    text-align: left;
-    width: 100%;
-    position: relative;
-    float: none;
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-    display: block;
 }
 
 footer {
