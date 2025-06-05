@@ -131,7 +131,7 @@ div.news {
     text-align: left;
     position: relative;
     max-height: 65vh; /* Limit the height to the viewport height */
-    overflow-y: auto;   /* vertical scrollbar when content is too tall */
+    overflow-y: auto;
 }
 
 b.section-title {
@@ -178,7 +178,6 @@ div.index div.callouts div.study-area {
     display: flex;
     flex-direction: column; /* Stack image and label vertically */
     justify-content: flex-start;
-    align-items: center;
     position: relative;
 }
 
@@ -186,15 +185,18 @@ div.index div.callouts div.study-area img {
     position: relative;
     width: 100%; /* Ensures the image fills the container */
     aspect-ratio: 1 / 1; /* Maintains a square aspect ratio */
-    border-radius: 5px;
+    border-radius: 5px 5px 0 0; /* Only top corners rounded */
 }
 
 div.index div.callouts div.study-area div.label {
-    margin-top: 10px; /* Adds spacing between image and label */
-    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
-    color: white; /* Text color */
+    box-sizing: border-box;
+    color: #444; /* Text color */
+    font-weight: bold;
+    border-bottom: 1px solid #ccc; /* Optional border at the bottom */
+    border-left: 1px solid #ccc; /* Optional border on the left */
+    border-right: 1px solid #ccc; /* Optional border on the right */
     padding: 5px 10px; /* Padding around the text */
-    border-radius: 5px; /* Rounded corners */
+    border-radius: 0 0 5px 5px; /* Only bottom corners rounded */
     font-size: 16px; /* Font size for the label */
     text-align: center;
 }
@@ -831,16 +833,6 @@ img.research-profile {
 }
 
 @media print, screen and (max-width: 720px) {
-    div.index {
-        width: 100%;
-        float: none;
-    }
-    
-    div.news {
-        width: 100%;
-        float: none;
-    }
-
     section {
         padding: 0;
         margin: 0;
@@ -891,13 +883,51 @@ img.research-profile {
         display: none; /* Hide the header row on mobile */
     }
 
-    .research-grid-container {
-        grid-template-columns: 1fr; /* Switch to a single column on narrow screens */
-    }
+  /* Make main-content a single column */
+  .main-content {
+    display: block;
+  }
 
-    .research-grid-span-2 {
-        grid-column: span 1; /* Ensure wide items also span only 1 column on mobile */
-    }
+  /* Ensure index and news take up full width and stack vertically */
+  div.index,
+  div.news {
+    width: 100%;
+    float: none;
+  }
+
+  /* Optionally add spacing so news appears below index */
+  div.index {
+    margin-bottom: 20px;
+  }
+
+  /* Remove max-height and scrolling on news */
+  div.news {
+    max-height: none;
+    overflow-y: visible;
+  }
+}
+
+@media print, screen and (max-width: 720px) {
+  .research-profile-row {
+    margin-top: 0 !important; /* Remove top margin for mobile */
+  }
+  .research-container {
+    margin-top: 0 !important; /* Remove top margin for mobile */
+  }
+  /* Force research grid container to be a single column */
+  .research-grid-container {
+    grid-template-columns: 1fr !important;
+  }
+  /* This forces any research grid items, whether normally spanning two columns, to span one column */
+  .research-grid-item,
+  .research-grid-span-2 {
+    grid-column: span 1 !important;
+  }
+  /* For all research profile row containers, override transforms and center them */
+  .research-profile-row .research-container {
+    align-self: center !important;
+    transform: none !important;
+  }
 }
 
 footer {
