@@ -3,11 +3,8 @@ layout: default
 title: People
 permalink: /people/
 ---
-<br />
-
-
 <!-- Banner Section -->
-<div style="background: linear-gradient(135deg, #e6f3ee, #cde6dc); padding: 40px 20px; border-bottom: 2px solid #003366; text-align: center;">
+<div class="banner" style="background: linear-gradient(135deg, #e6f3ee, #cde6dc); padding: 40px 20px; border-bottom: 2px solid #003366; text-align: center;">
   <h1 style="color: #003366; letter-spacing: 1px;">
     Meet the Team
   </h1>

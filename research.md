@@ -3,8 +3,6 @@ layout: default
 title: Research
 permalink: /research/
 ---
-<br />
-
 <h1><b class="section-title">Research</b></h1>
 <hr style="border: none; border-top: 1px solid black;">
 <p>

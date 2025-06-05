@@ -3,8 +3,6 @@ layout: default
 title: Contact
 permalink: /contact/
 ---
-<br />
-
 <div class="container">
   <img src="../assets/images/Contact_Banner.png" alt="Banner" style="width:100%; display: block; margin-bottom: 0;">
 </div>

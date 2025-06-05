@@ -5,7 +5,6 @@
 layout: default
 ---
 
-<hr>
 <body>
 <div class="container">
   <img src="assets/images/Main_Banner3.png" alt="Banner" style="width:100%;">

@@ -3,8 +3,6 @@ layout: default
 title: Publications
 permalink: /publications/
 ---
-<br />
-
 <h1><b class="section-title">Highlighted Publications</b></h1>
 
 <table class="publications">
