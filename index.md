@@ -21,7 +21,7 @@ layout: default
     <div class="callouts">
       <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/microbial-interactions-communities'">
       
-        <img src="{{ site.baseurl }}/assets/images/MIC-Box2.png" alt="Microbial Interactions" />
+        <img src="{{ site.baseurl }}/assets/images/MIC-Home.png" alt="Microbial Interactions" />
 
         <div class="label">
           Microbial Interactions
@@ -30,7 +30,7 @@ layout: default
             
       <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/NLR-evolution'">
 
-        <img src="{{ site.baseurl }}/assets/images/NLR-Box2.png" alt="NLR Evolution" />
+        <img src="{{ site.baseurl }}/assets/images/NLR-Home.png" alt="NLR Evolution" />
 
       <div class="label">
           NLR Evolution
