@@ -183,6 +183,7 @@ div.index div.callouts div.study-area {
     flex-direction: column; /* Stack image and label vertically */
     justify-content: flex-start;
     position: relative;
+    cursor: pointer;;
 }
 
 div.index div.callouts div.study-area img {
@@ -834,6 +835,10 @@ img.research-profile {
         padding-left: 5px;
         padding-right: 5px;
     }
+
+    .banner h1 {
+        margin-top: 0;
+    }
 }
 
 @media print, screen and (max-width: 720px) {
@@ -908,6 +913,10 @@ img.research-profile {
   div.news {
     max-height: none;
     overflow-y: visible;
+  }
+
+  div.index div.callouts {
+    grid-template-columns: 1fr !important;
   }
 }
 
