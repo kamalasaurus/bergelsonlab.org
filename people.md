@@ -20,7 +20,7 @@ permalink: /people/
 
 <!-- Static Banner Image -->
 <div style="margin: 30px auto; text-align: center;">
-  <img src="../assets/images/PostDoc.png" alt="Team Banner" 
+  <img src="../assets/images/Main-Group-Photo.JPG" alt="Team Banner" 
        style="max-width: 90%; width: 700px; border: 2px solid #003366; box-shadow: 0 4px 10px rgba(0,0,0,0.1); border-radius: 8px;">
 </div>
 
@@ -205,9 +205,8 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
 
 <div class="gallery-grid">
     <div class="card card-wide">
-        <div class="subtitle">Cherry Blossom Outing</div>
         <div class="image">
-            <img src="../assets/images/Cherryblossom.png" alt="Cherry blossoms" />
+            <img src="../assets/images/PostDoc.png" alt="Cherry blossoms" />
         </div>
     </div>
     <div class="card">
@@ -256,6 +255,13 @@ I am deeply motivated by the challenge of uncovering the molecular basis of comp
         <div class="subtitle">National Academy of Sciences Celebration in Chicago</div>
         <div class="image">
             <img src="../assets/images/Joy Celebration.jpg" alt="Celebration" />
+        </div>
+    </div>
+  <div class="gallery-grid">
+    <div class="card card-wide">
+        <div class="subtitle">Cherry Blossom Outing</div>
+        <div class="image">
+            <img src="../assets/images/Cherryblossom.png" alt="Cherry blossoms" />
         </div>
     </div>
 </div>
