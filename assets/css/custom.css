@@ -381,7 +381,7 @@ div.research {
 
 /* Resources Page */
 div.resources {
-    padding: 10px;
+    padding: 20px;
     box-sizing: border-box;
 }
 
@@ -413,10 +413,14 @@ div.resources {
 }
 
 /* Publications Page */
+div.publications {
+    padding: 20px;
+    box-sizing: border-box;
+}
+
 table.publications {
     width: 100%;
     border-collapse: collapse;
-    margin: 20px 0; /* Adds spacing above and below the table */
 }
 
 table.publications tr {

@@ -3,8 +3,9 @@ layout: default
 title: Publications
 permalink: /publications/
 ---
-<h1><b class="section-title">Highlighted Publications</b></h1>
+<h1 class="section-title">Highlighted Publications</h1>
 
+<div class="publications">
 <table class="publications">
     <tr><td>
     Kennedy, M, Freiburger, A, Cooper, M, Beilsmith, K, St. George, M, Kalski, M, Cham, C, Guzetta, A, Ng, SC, Chan, F, Rubin, D, Henry, CS, Bergelson*, J and EB Chang*. 2025. Diet outperforms microbial transplant to drive microbiome recovery in mice. Nature, in press.
@@ -147,3 +148,5 @@ Vetter, Madlen, Talia L. Karasov, and Joy Bergelson. 2016. “Differentiation be
 </table>
 
 <div class="google-scholar-link" onclick="window.open('https://scholar.google.com/citations?user=HUvwHP8AAAAJ', '_blank')">View All Publications</div>
+
+</div>
