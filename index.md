@@ -5,17 +5,16 @@
 layout: default
 ---
 
-<body>
 <div class="container">
-  <img src="assets/images/Main_Banner3.png" alt="Banner" style="width:100%;">
+  <img src="assets/images/Main_Banner3.png" alt="Banner">
 </div>
-<br>
+<br />
 <div class="main-content">
   <div class="index">
     <h2><b class="section-title">About Us</b></h2>
     <hr>
     <p>
-    We study the ecology and evolution of plant–pathogen interactions, focusing primarily on <em>Arabidopsis thaliana</em> and the bacteria that reside within it. Our approach is interdisciplinary; we draw upon tools from molecular genetics, molecular evolution, computation, field biology, chemistry, and population genetics to understand how ecological interactions shape evolutionary dynamics. Many of our field experiments are performed in the Midwest, or abroad, at sites in Sweden and France.
+      We study the ecology and evolution of plant–pathogen interactions, focusing primarily on <em>Arabidopsis thaliana</em> and the bacteria that reside within it. Our approach is interdisciplinary; we draw upon tools from molecular genetics, molecular evolution, computation, field biology, chemistry, and population genetics to understand how ecological interactions shape evolutionary dynamics. Many of our field experiments are performed in the Midwest, or abroad, at sites in Sweden and France.
     </p>
 
     <div class="callouts">
@@ -76,5 +75,4 @@ layout: default
     {% endfor %}
   </div>
 </div>
-</body>
 
