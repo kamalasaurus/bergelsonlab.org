@@ -27,177 +27,170 @@ permalink: /people/
 
 <div class="people">
     <div class="people-grid">
-    <h2 style="margin-top: 0; margin-bottom: 8px;">Principal Investigator</h2>
-        <div class="profile">
-            <div class="profile-image">
-                <img src="../assets/images/Joy Photo.png" alt="Joy Bergelson" />
-            </div>
-            <div class="description">
-            <p style="font-size: 13.75px; margin: 0; line-height: 1.5;"><b>Joy Bergelson</b></p>
-    <p style="margin: 0 0 6px 0;"><strong><em>Silver Professor and Provostial Fellow, New York University; Executive Vice President of Life Sciences, Simons Foundation</em></strong></p>
-    <p style="font-size: 13.75px; margin-top: 0;">I trained in a theoretical ecology lab doing experimental work on plants, and after obtaining my PhD decided to learn enough molecular biology to make my experimental designs to the level of the genome. Early fellowships from the Packard, Sloan and Life Sciences Research Foundations were pivotal in providing me the freedom to do this. When the first disease resistance genes were cloned, I focused my attention there and never looked back. Our work has spanned the ecology, molecular evolution, genomics and functional biology of disease resistance (as well as interactions with some other enemies and commensals) in <em>Arabidopsis thaliana</em>, with a strong emphasis on bringing the tools of genetics and genomics to ecology. Along the way, we have contributed to developing tools and resources for the study of natural variation in <em>Arabidopsis thaliana</em>. I am a member of the National Academy of Science and the American Academy of Arts and Sciences. I serve on many international science advisory boards and serve as EVP of Life Sciences at the Simons Foundation.</p>
-            </div>
-        </div>
-    
-    <h2 style="margin-top: 30px; margin-bottom: 5px;">Postdoctoral Fellows</h2>
-        <div class="profile">
-            <div class="profile-image">
-                <img src="../assets/images/Choghag.jpg" alt="Choghag" />
-            </div>
-            <div class="description">
-            <p style="font-size: 13.75px; margin: 0 0 4px 0; line-height: 1.5;"><b>Choghag Demirjian, PhD</b></p>
-        <p style="font-size: 13.75px; margin-top: 0;">I am a postdoctoral fellow in the compRgene project, which investigates the evolution of plant NLR genes across three Brassicaceae species. My research combines genomics, ecology, and functional biology to understand how genetic variation in both plants and pathogens shapes their evolutionary dynamics and immune responses. During my PhD, I studied how specific pathogenicity factors of <em>Ralstonia solanacearum</em> influence immune responses in <em>Arabidopsis thaliana</em>. Using natural variation in the host and effector mutants in the pathogen, I explored immune dynamics across both global and local plant populations and functionally validated genes, including an NLR gene, involved in susceptibility rather than resistance.
-    I am deeply motivated by the challenge of uncovering the molecular basis of complex biological processes, particularly the plant immune system. Outside the lab, I enjoy hiking, cooking, and discovering new cuisines—activities that reflect my curiosity and love for exploration, both in science and in life.
-    </p>
-            </div>
-        </div>
-
+    <h2 class="people-title">Principal Investigator</h2>
     <div class="profile">
-            <div class="profile-image">
-                <img src="../assets/images/Hanna.png" alt="Hanna" />
-            </div>
-            <div class="description">
-            <p style="font-size: 13.75px; margin: 0 0 4px 0; line-height: 1.5;"><b>Hanna Märkle, PhD</b></p>
-        <p style="font-size: 13.75px; margin-top: 0;">I’m fascinated by obtaining a better understanding of the interactions between hosts and pathogens, their long term (co)evolutionary dynamics, the genes involved in such interactions and the relevant contributions of ecology, functional biology and genomic architecture. My current research focuses on understanding the ecological, genomic and functional drivers of plant resistance gene evolution. Therefore, I’m studying accessions of three phylogenetically related Brassicaceae species (<em>Arabidopsis thaliana</em>, <em>Cardamine hirsuta</em> and <em>Draba verna</em>) which have been collected in the Midi-Pyrenees, France. My work combines genomic data analysis, bioinformatic methods and modeling techniques. Within the project I’m closely collaborating with Choghag Demirjian.</p>
-            </div>
+        <div class="profile-image">
+            <img src="../assets/images/Joy Photo.png" alt="Joy Bergelson" />
         </div>
-        <div class="profile">
-            <div class="profile-image">
-                <img src="../assets/images/Bio.png" alt="Jacopo" />
-            </div>
-            <div class="description">
-            <p style="font-size: 13.75px; margin: 0; line-height: 1.5;"><b>Jacopo Cirrone</b></p>
-    <p style="margin: 0 0 6px 0;"><b>Postdoctoral Fellow, PhD</b></p>
-    <p style="font-size: 13.75px; margin-top: 0;"></p>
-            </div>
-        </div>
-        <div class="profile">
-            <div class="profile-image">
-                <img src="../assets/images/Luke.jpeg" alt="Luke" />
-            </div>
-            <div class="description">
-                <p style="font-size: 13.75px; margin: 0 0 4px 0; line-height: 1.5;"><b>Luke Henry, PhD</b></p>
-        <p style="font-size: 13.75px; margin-top: 0;"> My research interests are focused on eco-evolutionary dynamics in host-associated microbiomes. I’ve worked in a wide range of systems, from the ecology of Lyme disease to sunflower domestication to mitochondria-Wolbachia interactions during oogenesis. My dissertation focused on the evolutionary potential of host-associated microbiomes by using <em>Drosophila melanogaster</em> to explore the relative contribution of the microbiome to local adaptation. Now, in the Bergelson lab, I investigate 1) the impact of host-microbiome interactions on pathogen dynamics, 2) seasonal processes that shape the <em>Arabidopsis</em> microbiome, and 3) ecologically informed microbiome engineering. <a href="https://scholar.google.com/citations?user=mfT999QAAAAJ">View Luke's Google Scholar here</a> </p>
-            </div>
-        </div>
-        <div class="profile">
-            <div class="profile-image">
-                <img src="../assets/images/Bio.png" alt="Mac" />
-            </div>
-            <div class="description">
-            <p style="font-size: 13.75px; margin: 0; line-height: 1.5;"><b>MacCall Calvert</b></p>
-    <p style="margin: 0 0 6px 0;"><b>Postdoctoral Fellow, PhD</b></p>
-            <p style="font-size: 13.75px; margin-top: 0;"></p>
-            </div>
-        </div>
-        <div class="profile">
-            <div class="profile-image">
-                <img src="../assets/images/Theo.jpg" alt="Theo"/>
-            </div>
-            <div class="description">
-                <p style="font-size: 13.75px; margin: 0 0 4px 0; line-height: 1.5;"><b>Theo Gibbs, PhD</b></p>
-        <p style="font-size: 13.75px; margin-top: 0;">I am a Schmidt Science Fellow interested in how pathogen resistance emerges from the ecological interactions in the microbiome. My dissertation research combined mathematical theory and experiments with annual plants to understand whether interactions involving three or more species (called higher-order interactions) maintain coexistence in diverse ecological communities. Outside of research, I like to play and watch soccer, go hiking and listen to new music. <a href="https://theogibbs.github.io/">View Theo's Website here</a></p>
-            </div>
-        </div>
-        <h2 style="margin-top: 30px; margin-bottom: 5px;">Lab Manager</h2>
-        <div class="profile">
-            <div class="profile-image">
-                <img src="../assets/images/Em.png" alt="Em" />
-            </div>
-            <div class="description">
-            <p style="font-size: 13.75px; margin: 0 0 4px 0; line-height: 1.5;"><b>Em Schissler</b></p>
-        <p style="font-size: 13.75px; margin-top: 0;">I earned a bachelor’s degree in Biology from Occidental College with a focus on zoology, followed by a master’s in Biology, concentrating in bioinformatics and systems biology, at New York University. There, I conducted analyses to study the decline of <em>Phoenix theophrasti</em> and contributed to research on new treatments and diagnostic tools for Alzheimer’s disease at NYU Langone. Currently, I manage a range of lab-related administrative tasks including grant administration, and support postdoctoral fellows with computational research projects. Outside the lab, I enjoy volunteering with animals—especially given my background in exotic and domestic animal care—and spend my free time at the theater, and rock climbing. <a href="https://www.linkedin.com/in/em-schissler/">View Em's LinkedIn here</a></p>
-            </div>
-        </div>
-    <h2 style="margin-top: 30px; margin-bottom: 5px;">Research Associate</h2>
-        <div class="profile">
-            <div class="profile-image">
-                <img src="../assets/images/Daniel.png" alt="Daniel" />
-            </div>
-            <div class="description">
-        <p style="font-size: 13.75px; margin: 0 0 4px 0; line-height: 1.5;"><b>Daniel de Souza</b></p>
-        <p style="font-size: 13.75px; margin-top: 0;">I am half Portuguese, half Indian but I was born and brought up in the UAE. I did my undergraduate biology degree at NYUAD, focusing on designing Nanoparticles for Cancer Therapeutics while doing internships at multiple oncology wards. Currently, I am working on experimental characterisation of a spectrum of microbe-microbe interactions on the PATHOCOM project. Outside the lab I love going to the gym, watching films/theater and baking the most elegant cheesecake you've ever tasted!</p>
-            </div>
-        </div>
-        <h2 style="margin-top: 30px; margin-bottom: 5px;">Graduate Researchers</h2>
-        <div class="profile">
-            <div class="profile-image">
-                <img src="../assets/images/Eric.jpg" alt="Eric" />
-            </div>
-            <div class="description">
-                <p style="font-size: 13.75px; margin: 0; line-height: 1.5;"><b>Eric Laderman</b></p>
-    <p style="margin: 0 0 6px 0;"><b>PhD Student</b>, NYU</p>
-            <p style="font-size: 13.75px; margin-top: 0;">I'm a PhD student in the Bergelson lab, where I'm interested in understanding how strain-level variation in plant pathogens is maintained and how this variation affects disease outcomes and bacterial competition in the phyllosphere. I graduated from Dartmouth College in 2020 with a BS in Biology and Biological Chemistry. While at Dartmouth, I worked in the Guerinot lab studying how plants alter photosynthesis in response to iron deficiency. After graduating, I joined the Bondy-Denomy lab at UCSF, where I researched how phages overcome CRISPR immunity in Listeria. When I’m not in the lab, you can probably find me playing tennis or enjoying a picnic in Central Park.</p>
-            </div>
-        </div>
-        <div class="profile">
-            <div class="profile-image">
-                <img src="../assets/images/Bio.png" alt="Kamal" />
-            </div>
-            <div class="description">
-                <p style="font-size: 13.75px; margin: 0; line-height: 1.5;"><b>Kamal Radharamanan</b></p>
-    <p style="margin: 0 0 6px 0;"><b>PhD Student</b>, NYU</p>
-            <p style="font-size: 13.75px; margin-top: 0;">In the past, I worked as a software engineer for a while. Currently, in the Bergelson Lab, I work with plant immunity and the protein-protein interactions therein.</p>
-            </div>
-        </div>
-        <div class="profile">
-            <div class="profile-image">
-                <img src="../assets/images/Yunze.png" alt="Yunze" />
-            </div>
-            <div class="description">
-                <p style="font-size: 13.75px; margin: 0; line-height: 1.5;"><b>Yunze Yang</b></p>
-    <p style="margin: 0 0 6px 0;"><b>PhD Student</b>, NYU</p>
-            <p style="font-size: 13.75px; margin-top: 0;">I earned my bachelor’s degree in Ecology from Zhejiang University, China, where I became fascinated by species interactions and studied the Rice-Fish symbiosis system and microbes in the rice paddy, like methanotrophs. Then I pursued my master’s degree at NYU, studied the diversity of plant pathogen <em>Pseudomonas syringae’s</em> effectors in wild populations in the Bergelson Lab. Currently, I am a PhD student co-advised by Dr. Joy Bergelson and Dr. Gloria Coruzzi. My research focuses on the interaction between rice and its root-associated microbiome, aiming to identify the rice genetic factors that determine the diverse microbiome composition and function across rice varieties by integrating multi-omics data and machine-learning methods.</p>
-            </div>
-        </div>
-        <div class="profile">
-            <div class="profile-image">
-                <img src="../assets/images/Abbie.jpeg" alt="Abbie" />
-            </div>
-            <div class="description">
-                <p style="font-size: 13.75px; margin: 0; line-height: 1.5;"><b>Abbie Patalinghug</b></p>
-    <p style="margin: 0 0 6px 0;"><b>Master's Student</b>, NYU</p>
-            <p style="font-size: 13.75px; margin-top: 0;">Originally from the Philippines and I have obtained my bachelors degree in Biochemistry from the University of Nevada - Las Vegas. After college, I spent a few years in the biotech industry starting with performing NGS on COVID-19 samples for variant tracing with the California Department of Public Health  during the height of the pandemic in 2020. Then, I transitioned to autoimmune disease research focusing on improving diagnostics for diseases including rheumatoid arthritis and systemic lupus. At the Bergelson lab, I am interested in investigating the molecular mechanisms of plant-pathogen interaction focusing on protein-protein interactions between NLRs and pathogen effectors.
-    </p>
-            </div>
-        </div> 
-        <div class="profile">
-            <div class="profile-image">
-                <img src="../assets/images/Bio.png" alt="Harrison" />
-            </div>
-            <div class="description">
-                <p style="font-size: 13.75px; margin: 0; line-height: 1.5;"><b>Harrison Vokshoor</b></p>
-    <p style="margin: 0 0 6px 0;"><b>Master's Student</b>, NYU</p>
-            <p style="font-size: 13.75px; margin-top: 0;"></p>
-            </div>
-        </div>
-    <h2 style="margin-top: 30px; margin-bottom: 5px;">Undergraduate Researchers</h2>
-        <div class="profile">
-            <div class="profile-image">
-                <img src="../assets/images/Hannah.jpg" alt="Hannah" />
-            </div>
-            <div class="description">
-                <p style="font-size: 13.75px; margin: 0; line-height: 1.5;"><b>Hannah Momsen</b></p>
-    <p style="margin: 0 0 6px 0;"><b>Undergraduate Student</b>, NYU</p>
-            <p style="font-size: 13.75px; margin-top: 0;">I am originally from San Francisco, CA and will be graduating from NYU in 2026 with a major in Biology and minor in Anthropology. At the Bergelson Lab, I have been working with Choghag Demirjian on the Comparative R Genes project, conducting phenotypic screens of disease response in <em>A. thaliana</em>. I is particularly interested in immunology and disease research and is looking forward to further exploring both throughout my career. In her free time, I love to run.</p>
-            </div>
-        </div>
-        <div class="profile">
-            <div class="profile-image">
-                <img src="../assets/images/Sam.jpg" alt="Sam" />
-            </div>
-            <div class="description">
-                <p style="font-size: 13.75px; margin: 0; line-height: 1.5;"><b>Sam Shteerman</b></p>
-    <p style="margin: 0 0 6px 0;"><b>Undergraduate Student</b>, NYU</p>
-            <p style="font-size: 13.75px; margin-top: 0;">I'm a native New Yorker studying biochemistry at NYU, graduating in 2027. I'm working with the amazing postdoctoral fellow Lucas Henry, investigating the way that seasonal processes shape the <em>Arabidopsis thaliana</em> microbiome. I've been studying the microbial make up of <em>Arabidopsis</em> populations native to New York city, along with helping out more generally with the Pathocom project. Besides my lab work, in my free time I enjoy reading, running, and the great outdoors.</p>
-            </div>
+        <div class="description">
+            <p class="people-name"><b>Joy Bergelson</b></p>
+            <p class="people-flair"><strong><em>Silver Professor and Provostial Fellow, New York University; Executive Vice President of Life Sciences, Simons Foundation</em></strong></p>
+            <p class="people-blurb">I trained in a theoretical ecology lab doing experimental work on plants, and after obtaining my PhD decided to learn enough molecular biology to make my experimental designs to the level of the genome. Early fellowships from the Packard, Sloan and Life Sciences Research Foundations were pivotal in providing me the freedom to do this. When the first disease resistance genes were cloned, I focused my attention there and never looked back. Our work has spanned the ecology, molecular evolution, genomics and functional biology of disease resistance (as well as interactions with some other enemies and commensals) in <em>Arabidopsis thaliana</em>, with a strong emphasis on bringing the tools of genetics and genomics to ecology. Along the way, we have contributed to developing tools and resources for the study of natural variation in <em>Arabidopsis thaliana</em>. I am a member of the National Academy of Science and the American Academy of Arts and Sciences. I serve on many international science advisory boards and serve as EVP of Life Sciences at the Simons Foundation.</p>
         </div>
     </div>
-
-    <br />
-
-    <h2 class="section-title">Gallery</h2>
-
+    <h2 class="people-title">Postdoctoral Fellows</h2>
+    <div class="profile">
+        <div class="profile-image">
+            <img src="../assets/images/Choghag.jpg" alt="Choghag" />
+        </div>
+        <div class="description">
+            <p class="people-name"><b>Choghag Demirjian, PhD</b></p>
+            <p class="people-blurb">I am a postdoctoral fellow in the compRgene project, which investigates the evolution of plant NLR genes across three Brassicaceae species. My research combines genomics, ecology, and functional biology to understand how genetic variation in both plants and pathogens shapes their evolutionary dynamics and immune responses. During my PhD, I studied how specific pathogenicity factors of <em>Ralstonia solanacearum</em> influence immune responses in <em>Arabidopsis thaliana</em>. Using natural variation in the host and effector mutants in the pathogen, I explored immune dynamics across both global and local plant populations and functionally validated genes, including an NLR gene, involved in susceptibility rather than resistance.
+            I am deeply motivated by the challenge of uncovering the molecular basis of complex biological processes, particularly the plant immune system. Outside the lab, I enjoy hiking, cooking, and discovering new cuisines—activities that reflect my curiosity and love for exploration, both in science and in life.
+            </p>
+        </div>
+    </div>
+    <div class="profile">
+        <div class="profile-image">
+            <img src="../assets/images/Hanna.png" alt="Hanna" />
+        </div>
+        <div class="description">
+            <p class="people-name"><b>Hanna Märkle, PhD</b></p>
+            <p class="people-blurb">I’m fascinated by obtaining a better understanding of the interactions between hosts and pathogens, their long term (co)evolutionary dynamics, the genes involved in such interactions and the relevant contributions of ecology, functional biology and genomic architecture. My current research focuses on understanding the ecological, genomic and functional drivers of plant resistance gene evolution. Therefore, I’m studying accessions of three phylogenetically related Brassicaceae species (<em>Arabidopsis thaliana</em>, <em>Cardamine hirsuta</em> and <em>Draba verna</em>) which have been collected in the Midi-Pyrenees, France. My work combines genomic data analysis, bioinformatic methods and modeling techniques. Within the project I’m closely collaborating with Choghag Demirjian.</p>
+        </div>
+    </div>
+    <div class="profile">
+        <div class="profile-image">
+            <img src="../assets/images/Bio.png" alt="Jacopo" />
+        </div>
+        <div class="description">
+            <p class="people-name"><b>Jacopo Cirrone</b></p>
+            <p class="people-flair"><b>Postdoctoral Fellow, PhD</b></p>
+            <p class="people-blurb"></p>
+        </div>
+    </div>
+    <div class="profile">
+        <div class="profile-image">
+            <img src="../assets/images/Luke.jpeg" alt="Luke" />
+        </div>
+        <div class="description">
+            <p class="people-name"><b>Luke Henry, PhD</b></p>
+            <p class="people-blurb"> My research interests are focused on eco-evolutionary dynamics in host-associated microbiomes. I’ve worked in a wide range of systems, from the ecology of Lyme disease to sunflower domestication to mitochondria-Wolbachia interactions during oogenesis. My dissertation focused on the evolutionary potential of host-associated microbiomes by using <em>Drosophila melanogaster</em> to explore the relative contribution of the microbiome to local adaptation. Now, in the Bergelson lab, I investigate 1) the impact of host-microbiome interactions on pathogen dynamics, 2) seasonal processes that shape the <em>Arabidopsis</em> microbiome, and 3) ecologically informed microbiome engineering. <a href="https://scholar.google.com/citations?user=mfT999QAAAAJ">View Luke's Google Scholar here</a></p>
+        </div>
+    </div>
+    <div class="profile">
+        <div class="profile-image">
+            <img src="../assets/images/Bio.png" alt="Mac" />
+        </div>
+        <div class="description">
+            <p class="people-name"><b>MacCall Calvert</b></p>
+            <p class="people-flair"><b>Postdoctoral Fellow, PhD</b></p>
+            <p class="people-blurb"></p>
+        </div>
+    </div>
+    <div class="profile">
+        <div class="profile-image">
+            <img src="../assets/images/Theo.jpg" alt="Theo"/>
+        </div>
+        <div class="description">
+            <p class="people-name"><b>Theo Gibbs, PhD</b></p>
+            <p class="people-blurb">I am a Schmidt Science Fellow interested in how pathogen resistance emerges from the ecological interactions in the microbiome. My dissertation research combined mathematical theory and experiments with annual plants to understand whether interactions involving three or more species (called higher-order interactions) maintain coexistence in diverse ecological communities. Outside of research, I like to play and watch soccer, go hiking and listen to new music. <a href="https://theogibbs.github.io/">View Theo's Website here</a></p>
+        </div>
+    </div>
+    <h2 class="people-title">Lab Manager</h2>
+    <div class="profile">
+        <div class="profile-image">
+            <img src="../assets/images/Em.png" alt="Em" />
+        </div>
+        <div class="description">
+            <p class="people-name"><b>Em Schissler</b></p>
+            <p class="people-blurb">I earned a bachelor’s degree in Biology from Occidental College with a focus on zoology, followed by a master’s in Biology, concentrating in bioinformatics and systems biology, at New York University. There, I conducted analyses to study the decline of <em>Phoenix theophrasti</em> and contributed to research on new treatments and diagnostic tools for Alzheimer’s disease at NYU Langone. Currently, I manage a range of lab-related administrative tasks including grant administration, and support postdoctoral fellows with computational research projects. Outside the lab, I enjoy volunteering with animals—especially given my background in exotic and domestic animal care—and spend my free time at the theater, and rock climbing. <a href="https://www.linkedin.com/in/em-schissler/">View Em's LinkedIn here</a></p>
+        </div>
+    </div>
+    <h2 class="people-title">Research Associate</h2>
+    <div class="profile">
+        <div class="profile-image">
+            <img src="../assets/images/Daniel.png" alt="Daniel" />
+        </div>
+        <div class="description">
+            <p class="people-name"><b>Daniel de Souza</b></p>
+            <p class="people-blurb">I am half Portuguese, half Indian but I was born and brought up in the UAE. I did my undergraduate biology degree at NYUAD, focusing on designing Nanoparticles for Cancer Therapeutics while doing internships at multiple oncology wards. Currently, I am working on experimental characterisation of a spectrum of microbe-microbe interactions on the PATHOCOM project. Outside the lab I love going to the gym, watching films/theater and baking the most elegant cheesecake you've ever tasted!</p>
+        </div>
+    </div>
+    <h2 class="people-title">Graduate Researchers</h2>
+    <div class="profile">
+        <div class="profile-image">
+            <img src="../assets/images/Eric.jpg" alt="Eric" />
+        </div>
+        <div class="description">
+            <p class="people-name"><b>Eric Laderman</b></p>
+            <p class="people-flair"><b>PhD Student</b>, NYU</p>
+            <p class="people-blurb">I'm a PhD student in the Bergelson lab, where I'm interested in understanding how strain-level variation in plant pathogens is maintained and how this variation affects disease outcomes and bacterial competition in the phyllosphere. I graduated from Dartmouth College in 2020 with a BS in Biology and Biological Chemistry. While at Dartmouth, I worked in the Guerinot lab studying how plants alter photosynthesis in response to iron deficiency. After graduating, I joined the Bondy-Denomy lab at UCSF, where I researched how phages overcome CRISPR immunity in Listeria. When I’m not in the lab, you can probably find me playing tennis or enjoying a picnic in Central Park.</p>
+        </div>
+    </div>
+    <div class="profile">
+        <div class="profile-image">
+            <img src="../assets/images/Bio.png" alt="Kamal" />
+        </div>
+        <div class="description">
+            <p class="people-name"><b>Kamal Radharamanan</b></p>
+            <p class="people-flair"><b>PhD Student</b>, NYU</p>
+            <p class="people-blurb">In the past, I worked as a software engineer for a while. Currently, in the Bergelson Lab, I work with plant immunity and the protein-protein interactions therein.</p>
+        </div>
+    </div>
+    <div class="profile">
+        <div class="profile-image">
+            <img src="../assets/images/Yunze.png" alt="Yunze" />
+        </div>
+        <div class="description">
+            <p class="people-name"><b>Yunze Yang</b></p>
+            <p class="people-flair"><b>PhD Student</b>, NYU</p>
+            <p class="people-blurb">I earned my bachelor’s degree in Ecology from Zhejiang University, China, where I became fascinated by species interactions and studied the Rice-Fish symbiosis system and microbes in the rice paddy, like methanotrophs. Then I pursued my master’s degree at NYU, studied the diversity of plant pathogen <em>Pseudomonas syringae’s</em> effectors in wild populations in the Bergelson Lab. Currently, I am a PhD student co-advised by Dr. Joy Bergelson and Dr. Gloria Coruzzi. My research focuses on the interaction between rice and its root-associated microbiome, aiming to identify the rice genetic factors that determine the diverse microbiome composition and function across rice varieties by integrating multi-omics data and machine-learning methods.</p>
+        </div>
+    </div>
+    <div class="profile">
+        <div class="profile-image">
+            <img src="../assets/images/Abbie.jpeg" alt="Abbie" />
+        </div>
+        <div class="description">
+            <p class="people-name"><b>Abbie Patalinghug</b></p>
+            <p class="people-flair"><b>Master's Student</b>, NYU</p>
+            <p class="people-blurb">Originally from the Philippines and I have obtained my bachelors degree in Biochemistry from the University of Nevada - Las Vegas. After college, I spent a few years in the biotech industry starting with performing NGS on COVID-19 samples for variant tracing with the California Department of Public Health  during the height of the pandemic in 2020. Then, I transitioned to autoimmune disease research focusing on improving diagnostics for diseases including rheumatoid arthritis and systemic lupus. At the Bergelson lab, I am interested in investigating the molecular mechanisms of plant-pathogen interaction focusing on protein-protein interactions between NLRs and pathogen effectors.</p>
+        </div>
+    </div> 
+    <div class="profile">
+        <div class="profile-image">
+            <img src="../assets/images/Bio.png" alt="Harrison" />
+        </div>
+        <div class="description">
+            <p class="people-name"><b>Harrison Vokshoor</b></p>
+            <p class="people-flair"><b>Master's Student</b>, NYU</p>
+            <p class="people-blurb"></p>
+        </div>
+    </div>
+    <h2 class="people-title">Undergraduate Researchers</h2>
+    <div class="profile">
+        <div class="profile-image">
+            <img src="../assets/images/Hannah.jpg" alt="Hannah" />
+        </div>
+        <div class="description">
+            <p class="people-name"><b>Hannah Momsen</b></p>
+            <p class="people-flair"><b>Undergraduate Student</b>, NYU</p>
+            <p class="people-blurb">I am originally from San Francisco, CA and will be graduating from NYU in 2026 with a major in Biology and minor in Anthropology. At the Bergelson Lab, I have been working with Choghag Demirjian on the Comparative R Genes project, conducting phenotypic screens of disease response in <em>A. thaliana</em>. I is particularly interested in immunology and disease research and is looking forward to further exploring both throughout my career. In her free time, I love to run.</p>
+        </div>
+    </div>
+    <div class="profile">
+        <div class="profile-image">
+            <img src="../assets/images/Sam.jpg" alt="Sam" />
+        </div>
+        <div class="description">
+            <p class="people-name"><b>Sam Shteerman</b></p>
+            <p class="people-flair"><b>Undergraduate Student</b>, NYU</p>
+            <p class="people-blurb">I'm a native New Yorker studying biochemistry at NYU, graduating in 2027. I'm working with the amazing postdoctoral fellow Lucas Henry, investigating the way that seasonal processes shape the <em>Arabidopsis thaliana</em> microbiome. I've been studying the microbial make up of <em>Arabidopsis</em> populations native to New York city, along with helping out more generally with the Pathocom project. Besides my lab work, in my free time I enjoy reading, running, and the great outdoors.</p>
+        </div>
+    </div>
+    </div> <!-- /people-grid -->
+    <h2 class="people-title">Gallery</h2>
     <div class="gallery-grid">
         <div class="card card-wide">
             <div class="subtitle">Cherry Blossom Outing</div>
@@ -254,12 +247,7 @@ permalink: /people/
             </div>
         </div>
     </div>
-
-
-    <br />
-
     <b class="section-title">Lab Alumni</b>
-
     <div class="alumni-grid">
         <div class="alumni-row header">
             <div class="alumni-cell">Name</div>
