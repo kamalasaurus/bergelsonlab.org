@@ -261,95 +261,31 @@ div.index div.callouts div.study-area div.label {
     text-align: center;
 }
 
-/* News Page */
-.flip-container {
-  perspective: 1000px;
-  width: 300px;
-  height: 200px;
-}
-
-.flip-card {
-  width: 100%;
-  height: 100%;
-  transition: transform 0.6s;
-  transform-style: preserve-3d;
-  position: relative;
-}
-
-.flip-container:hover .flip-card {
-  transform: rotateY(180deg);
-}
-
-.flip-front, .flip-back {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  backface-visibility: hidden;
-  padding: 20px;
-  box-sizing: border-box;
-  border: 1px solid #ccc;
-  border-radius: 10px;
-  background: #f9f9f9;
-}
-
-.flip-front {
-  z-index: 2;
-}
-
-.flip-back {
-  transform: rotateY(180deg);
-  background-color: #e6f3ee;
-  color: #333;
-}
-
-
 /* Research Page */
 div.research {
     padding: 20px;
     box-sizing: border-box;
 }
 
-.row {
-    display: flex;
-    flex-wrap: wrap; /* Allows items to wrap to the next row */
-    gap: 40px; /* Adds spacing between flex items */
-    justify-content: center; /* Centers the content horizontally */
-    margin-bottom: 40px; /* Adds spacing between rows */
-    align-items: stretch; /* Ensures all items in the row have the same height */
-}
-
-.flex-item {
-    display: flex;
-    flex-direction: column; /* Stacks text and square vertically */
-    align-items: center; /* Centers text and square horizontally */
-    flex: 1 1 calc(50% - 40px); /* Each item takes 50% of the row minus the gap */
-    max-width: calc(50% - 40px); /* Ensures items don't exceed 50% width */
-    justify-content: space-between; /* Ensures even spacing between text and square */
-}
-
-.text {
-    text-align: center; /* Centers the text horizontally */
-    margin-bottom: 10px; /* Adds spacing between text and square */
-    font-size: 16px; /* Adjust font size as needed */
-    color: #333; /* Text color */
-    flex-grow: 1; /* Ensures the text block stretches to fill available space */
-    display: flex;
-    align-items: center; /* Centers the text vertically within its container */
-    justify-content: center; /* Centers the text horizontally */
-}
-
-.square {
-    width: 100%; /* Ensures the square takes the full width of its container */
-    aspect-ratio: 1 / 1; /* Maintains a square aspect ratio */
-    background-color: #f0f0f0; /* Example background color */
-    display: flex;
-    justify-content: center; /* Centers content horizontally */
-    align-items: center; /* Centers content vertically */
-    border: 1px solid #ccc; /* Optional border */
-    border-radius: 5px; /* Optional rounded corners */
+.research-blurb {
+    font-size: 15px;
     text-align: center;
-    font-size: 14px; /* Adjust font size as needed */
-    color: #333; /* Text color */
+}
+
+.research-detail {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    margin-bottom: 14px;
+}
+
+.research-image {
+    max-width: 450px;
+    height: auto;
+}
+
+ul.selected-publications {
+    margin-top: 20px;
 }
 
 /* Overlay Style */
@@ -440,6 +376,56 @@ table.publications th, table.publications td {
     cursor: pointer;
 }
 
+
+/* News Page */
+div.news {
+    padding: 20px;
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+div.news .news-post {
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    background-color: #fff;
+}
+
+div.news .news-title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #004d40;
+    text-decoration: none;
+}
+
+div.news .news-date {
+    margin: 8px 0;
+    color: #666;
+}
+
+/* Contact Page */
+
+div.contact {
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.address-link {
+    display: block;
+}
+
+.address-container iframe, .address-container address {
+    display: inline-block;
+    margin-right: 20px;
+    vertical-align: top;
+}
+
+
 /* People Page */
 div.people {
     padding: 20px;
@@ -491,15 +477,6 @@ div.people {
     border-radius: 50%; /* Makes the image circular */
 }
 
-.description {
-    text-align: left; /* Aligns text to the left */
-}
-
-.description b {
-    font-size: 18px; /* Adjusts the font size for names */
-    color: #000000; /* Optional text color */
-}
-
 /* Gallery */
 .gallery-grid {
     display: grid;
@@ -543,144 +520,11 @@ div.people {
     text-align: left; /* Aligns text to the left */
 }
 
-/*Second Attempt Gallery*/
-.image-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr); /* 3 columns */
-  gap: 20px;
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 10px;
+.description b {
+    font-size: 18px; /* Adjusts the font size for names */
+    color: #000000; /* Optional text color */
 }
 
-.image-grid img {
-  width: 100%;
-  height: auto;
-  display: block;
-  object-fit: cover;
-}
-.album .responsive-container-block {
-  min-height: 75px;
-  height: fit-content;
-  width: 100%;
-  padding-top: 10px;
-  padding-right: 10px;
-  padding-bottom: 10px;
-  padding-left: 10px;
-  display: flex;
-  flex-wrap: wrap;
-  margin-top: 0px;
-  margin-right: auto;
-  margin-bottom: 0px;
-  margin-left: auto;
-  justify-content: flex-start;
-}
-
-.album .responsive-container-block.bg {
-  max-width: 1320px;
-  margin: 0 0 0 0;
-  justify-content: space-between;
-}
-
-.album .img {
-  width: 100%;
-  margin: 0 0 20px 0;
-}
-
-.album #i9rb {
-  color: black;
-}
-
-.album #ir6i {
-  color: black;
-}
-
-.album #ikz3b {
-  color: black;
-}
-
-.album .responsive-container-block.img-cont {
-  flex-direction: column;
-  max-width: 33.3%;
-  min-height: auto;
-  margin: 0 0 0 0;
-  height: 100%;
-}
-
-.album #ipix {
-  color: black;
-}
-
-.album #ipzoh {
-  color: black;
-}
-
-.album #ig5q8 {
-  color: black;
-}
-
-.album #imtzl {
-  color: black;
-}
-
-.album #i53es {
-  color: black;
-}
-
-.album .img.img-big {
-  height: 50%;
-  margin: 0 0 16px 0;
-}
-
-@media (max-width: 1024px) {
-  .album .img {
-    margin: 0 0 18px 0;
-  }
-}
-
-@media (max-width: 768px) {
-  .album .img {
-    max-width: 32.5%;
-    margin: 0 0 0 0;
-  }
-
-  .album .responsive-container-block.bg {
-    flex-direction: column;
-  }
-
-  .album .responsive-container-block.img-cont {
-    max-width: 100%;
-    flex-direction: row;
-    justify-content: space-between;
-  }
-
-  .album .img.img-big {
-    max-width: 49%;
-    margin: 0 0 0 0;
-  }
-}
-
-@media (max-width: 500px) {
-  .album .img {
-    max-width: 94%;
-    margin: 0 0 25px 0;
-  }
-
-  .album .responsive-container-block.img-cont {
-    flex-direction: column;
-    align-items: center;
-    padding: 10px 10px 10px 10px;
-  }
-
-  .album .img.img-big {
-    max-width: 94%;
-    margin: 0 0 25px 0;
-  }
-
-  .album .img.img-last {
-    margin: 0 0 5px 0;
-  }
-}
 /* Alumni */
 
 .alumni-grid {
@@ -719,9 +563,6 @@ div.people {
 }
 
 /* Research Pages */
-
-/* Circle Profile */
-
 
 /* Overlay text block */
 
@@ -993,52 +834,4 @@ img.research-profile {
     align-self: center !important;
     transform: none !important;
   }
-}
-
-/* News Page */
-div.news {
-    padding: 20px;
-    box-sizing: border-box;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    justify-content: center;
-}
-
-div.news .news-post {
-    width: 300px;
-    padding: 20px;
-    border: 1px solid #ccc;
-    border-radius: 10px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    background-color: #fff;
-}
-
-div.news .news-title {
-    font-size: 18px;
-    font-weight: bold;
-    color: #004d40;
-    text-decoration: none;
-}
-
-div.news .news-date {
-    margin: 8px 0;
-    color: #666;
-}
-
-/* Contact Page */
-
-div.contact {
-    padding: 20px;
-    box-sizing: border-box;
-}
-
-.address-link {
-    display: block;
-}
-
-.address-container iframe, .address-container address {
-    display: inline-block;
-    margin-right: 20px;
-    vertical-align: top;
 }
