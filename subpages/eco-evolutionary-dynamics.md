@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Ecoevolutionary Interactions
-permalink: /ecoevolutionary-interactions/
+title: Eco-Evolutionary Dynamics
+permalink: /eco-evolutionary-dynamics/
 ---
 <div class="container">
-  <img src="../assets/images/CI-Banner3.png" alt="Banner" style="width:100%;">
-  <div class="centered">Eco-evolutionary Dynamics</div>
+  <img src="../assets/images/CI-Banner3.png" alt="Banner" />
+  <div class="centered">Eco-Evolutionary Dynamics</div>
 </div>
 
 

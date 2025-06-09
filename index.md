@@ -47,7 +47,7 @@ layout: default
     </div>
   </div>
 
-  <div class="news">
+  <div class="news_column">
       <b><a href="{{ site.news_url | relative_url }}">News</a></b>
       <ul>
           {% for post in site.posts limit:4 %}

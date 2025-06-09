@@ -32,14 +32,12 @@ include:
   - subpages
 
 subpages:
-  - title: "Adaptation"
-    url: "{{ site.baseurl }}/adaptation"
-  - title: "Genomics"
-    url: "{{ site.baseurl }}/genomics"
-  - title: "Microbe-Host Co-Evolution"
-    url: "{{ site.baseurl }}/microbe-host-coevolution"
-  - title: "Microbial Networks & Communities"
-    url: "{{ site.baseurl }}/microbial-networks-and-communities"
+  - title: "Eco-Evolutionary Dynamics"
+    url: "{{ site.baseurl }}/eco-evolutionary-dynamics"
+  - title: "NLR Evolution"
+    url: "{{ site.baseurl }}/NLR-evolution"
+  - title: "Microbial Interactions & Communities"
+    url: "{{ site.baseurl }}/microbial-interactions-and-communities"
 
 # Build settings
 # theme: minima

@@ -14,7 +14,7 @@ permalink: /research/
   <h2><b class="section-title">Current areas of focus</b></h2>
 
   <div class="research-profile-row">
-    <div class="research-container" onclick="window.location.href='{{ site.baseurl }}/microbial-interactions-communities'">
+    <div class="research-container" onclick="window.location.href='{{ site.baseurl }}/microbial-interactions-and-communities'">
       <img src="../assets/images/MIC-Box2.png" alt="MIC" class="research-profile">
       <div class="research-text-block">
         <h4 style="color: white;">Microbial Interactions & Communities</h4>
@@ -28,10 +28,10 @@ permalink: /research/
         <p>What drives the evolution and diversification of NLR genes in <em>Arabidopsis</em> species?</p>
       </div>
     </div>
-    <div class="research-container" onclick="window.location.href='{{ site.baseurl }}/ecoevolutionary-interactions'">
+    <div class="research-container" onclick="window.location.href='{{ site.baseurl }}/eco-evolutionary-dynamics'">
       <img src="../assets/images/CI-Box3.png" alt="CI" class="research-profile">
       <div class="research-text-block">
-        <h4 style="color: white;">Eco-evolutionary Dynamics</h4>
+        <h4 style="color: white;">Eco-Evolutionary Dynamics</h4>
         <p>How is extensive strain diversity maintained in <em>Pseudomonas</em>?</p>
       </div>
     </div>

@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Microbial Interactions & Communities
-permalink: /microbial-interactions-communities/
+permalink: /microbial-interactions-and-communities/
 ---
 <div class="container">
-  <img src="../assets/images/MIC-Banner2.png" alt="Banner" style="width:100%;">
+  <img src="../assets/images/MIC-Banner2.png" alt="Banner" />
   <div class="centered">Microbial Interactions & Communities</div>
 </div>
 
