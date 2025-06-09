@@ -6,7 +6,7 @@ author: "Em Schissler"
 categories: news
 ---
 
-## We Are So Excited to Have New Faces Joining the Team This Summer!
+### We Are So Excited to Have New Faces Joining the Team This Summer!
 
 ### Welcome Amartya to the Lab!
 <!-- starting **May 20** -->
