@@ -4,30 +4,24 @@ title: People
 permalink: /people/
 ---
 <!-- Banner Section -->
-<div class="banner" style="background: linear-gradient(135deg, #e6f3ee, #cde6dc); padding: 40px 20px; border-bottom: 2px solid #003366; text-align: center;">
-  <h1 style="color: #003366; letter-spacing: 1px;">
+<div class="banner">
+  <h1>
     Meet the Team
   </h1>
-  <h3 style="color: #333; max-width: 700px; margin: 5px auto 0;">
+  <h3>
     Thank you for your interest in the Bergelson Lab. Get to know the researchers, postdocs, students, and staff driving our scientific discoveries.
   </h3>
 </div>
 
 <!-- Decorative Wave -->
-<svg viewBox="0 0 1440 100" style="display: block;" xmlns="http://www.w3.org/2000/svg">
+<svg class="wave" viewBox="0 0 1440 100" xmlns="http://www.w3.org/2000/svg">
   <path fill="#cde6dc" fill-opacity="1" d="M0,32L60,48C120,64,240,96,360,96C480,96,600,64,720,58.7C840,53,960,75,1080,74.7C1200,75,1320,53,1380,42.7L1440,32V0H0Z"></path>
 </svg>
 
 <!-- Static Banner Image -->
-<div style="margin: 30px auto; text-align: center;">
-  <img src="../assets/images/Main-Group-Photo.JPG" alt="Team Banner" 
-       style="max-width: 90%; width: 700px; border: 2px solid #003366; box-shadow: 0 4px 10px rgba(0,0,0,0.1); border-radius: 8px;">
+<div class="static-banner-image">
+  <img src="../assets/images/Main-Group-Photo.JPG" alt="Team Banner" />
 </div>
-
-
-<br>
-<hr style="border: none; border-top: 1px solid black; margin: 4px 0;">
-<br>
 
 <!-- Profiles -->
 
