@@ -8,7 +8,7 @@ layout: default
 <div class="container">
   <img src="assets/images/Main_Banner3.png" alt="Banner">
 </div>
-<br />
+
 <div class="main-content">
   <div class="index">
     <h2><b class="section-title">About Us</b></h2>

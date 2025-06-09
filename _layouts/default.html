@@ -14,7 +14,7 @@
 </head>
 <body>
     {% include header.html %}
-    <section class="{% if page.url == '/' %}index{% endif %}">
+    <section class="{% if page.url == '/' %}index{%else%}{{ page.title | downcase }}{% endif %}">
         {{ content }}
     </section>
     {% include footer.html %}
