@@ -3,23 +3,6 @@ body {
     margin: 0;
 }
 
-.header-background {
-    position: absolute;
-    top: 0;
-    left: 0;
-    background-color: #3BA585;
-    height: 20px;
-    width: 100%;
-}
-
-.container-background {
-    position: absolute;
-    left: 0;
-    background-color: #f0f0f0;
-    width: 100%;
-    z-index: -1;
-}
-
 header {
     position: relative;
     display: flex; /* Enables Flexbox */
@@ -141,6 +124,7 @@ div.news {
 b.section-title {
     display: inline-block;
     padding-bottom: 15px;
+    padding-left: 10px;
 }
 
 div.news ul {
@@ -163,6 +147,13 @@ p {
     text-align: justify;
 }
 
+ul {
+    list-style-type: disc;
+    margin-top: 0px;
+    padding: 0 20px 5px 20px;
+    text-align: justify;
+}
+
 div b.section-title, div.index b, div.news b {
     margin-left: 0;
 }
@@ -175,6 +166,7 @@ div.index div.callouts {
     max-width: 100%;
     gap: 20px; /* Adds spacing between callout items */
     box-sizing: border-box;
+    padding: 10px;
 }
 
 
@@ -183,7 +175,7 @@ div.index div.callouts div.study-area {
     flex-direction: column; /* Stack image and label vertically */
     justify-content: flex-start;
     position: relative;
-    cursor: pointer;;
+    cursor: pointer;
 }
 
 div.index div.callouts div.study-area img {
@@ -302,34 +294,6 @@ div.index div.callouts div.study-area div.label {
   margin: 0 auto;      /* center horizontally */
 }
 
-/* Bottom left text */
-.bottom-left {
-  position: absolute;
-  bottom: 8px;
-  left: 16px;
-}
-
-/* Top left text */
-.top-left {
-  position: absolute;
-  top: 8px;
-  left: 16px;
-}
-
-/* Top right text */
-.top-right {
-  position: absolute;
-  top: 8px;
-  right: 16px;
-}
-
-/* Bottom right text */
-.bottom-right {
-  position: absolute;
-  bottom: 8px;
-  right: 16px;
-}
-
 /* Centered text */
 .centered {
   position: absolute;
@@ -348,6 +312,11 @@ div.index div.callouts div.study-area div.label {
 
 
 /* Resources Page */
+div.resources {
+    padding: 10px;
+    box-sizing: border-box;
+}
+
 .grid-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr); /* 3 equal columns */
@@ -701,6 +670,7 @@ table.publications th, table.publications td {
 
 .research-profile-row .research-container:nth-child(3n+2) {
     align-self: flex-end; /* Aligns the second item of every group to the right */
+    transform: translateX(-100px);
 }
 
 .research-profile-row .research-container:nth-child(3n+3) {
@@ -945,14 +915,15 @@ img.research-profile {
 }
 
 footer {
+    border-top: 1px solid #eee;
     color: black;
-    padding: 10px 0;
+    padding: 10px;
     text-align: left;
     width: 100%;
     position: relative;
     margin-top: 50px;
     float: none;
-    display: border-box;
+    box-sizing: border-box;
 }
 
 footer > * {
@@ -976,106 +947,4 @@ footer img {
     display: inline-block;
     margin-right: 20px;
     vertical-align: top;
-}
-
-.cube-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 50vh;
-    margin: 0;
-    background-color: #f0f0f0;
-    perspective: 1000px;
-}
-
-.cube {
-    position: relative;
-    width: 200px;
-    height: 200px;
-    transform-style: preserve-3d;
-    transform: rotateX(0deg) rotateY(0deg);
-    animation: rotate 10s infinite linear;
-}
-
-.face {
-    position: absolute;
-    width: 200px;
-    height: 200px;
-    /* background: rgba(255, 255, 255, 0.9); */
-    background-color: white;
-    opacity: 0.8;
-    border: 1px solid #ccc;
-    text-align: center;
-    color: white;
-    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-    font-size: 24px;
-    font-weight: bold;
-    vertical-align: middle;
-}
-
-.face span {
-    position: relative;
-    top: 50%;
-    transform: translateY(-50%);
-    display: inline-block;
-    vertical-align: middle;
-}
-/* 
-.face img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-} */
-
-.front {
-    background-image: url('assets/images/athaliana_adaptation.jpg.webp');
-    background-size: cover;
-}
-
-/* .back {
-    background-image: url('/path/to/back-image.jpg');
-    background-size: cover;
-}
-
-.left {
-    background-image: url('/path/to/left-image.jpg');
-    background-size: cover;
-} */
-
-.right {
-    background-image: url('assets/images/athaliana_evolution.jpg.webp');
-    background-size: cover;
-}
-
-.top {
-    background-image: url('assets/images/athaliana_networks.jpeg.webp');
-    background-size: cover;
-}
-
-.bottom {
-    background-image: url('assets/images/athaliana_genomics.png.webp');
-    background-size: cover;
-}
-
-.front  { transform: translateZ(100px); }
-.back   { transform: rotateY(180deg) translateZ(100px); }
-.left   { transform: rotateY(-90deg) translateZ(100px); }
-.right  { transform: rotateY(90deg) translateZ(100px); }
-.top    { transform: rotateX(90deg) translateZ(100px); }
-.bottom { transform: rotateX(-90deg) translateZ(100px); }
-
-@keyframes rotate {
-    from {
-        transform: rotateX(0deg) rotateY(0deg);
-    }
-    to {
-        transform: rotateX(360deg) rotateY(360deg);
-    }
-}
-
-ul {
-    list-style-type: disc;
-    margin-top: 0px;
-    padding: 0 20px 5px 20px;
-    text-align: justify;
 }

@@ -9,6 +9,7 @@ permalink: /resources/
   </h1>
 </div>
 <hr>
+<div class="resources">
 <h2>Software Resources</h2>
 
 <h3>16Stimator</h3>
@@ -26,6 +27,7 @@ permalink: /resources/
 <h3>MARTA – Metagenomic and rDNA Taxonomic Assignment</h3>
 <p>
 Phylogenetically classifies DNA sequence data using the nucleotide database and Taxonomy database from NCBI. The java-based software blasts each sequence that you provide and looks for a consensus taxon among the top-hits returned from blast. The software suite is published in <a href="https://academic.oup.com/bioinformatics/article/26/4/568/243101">Horton et al. 2010.</a>.
+</p>
 
 <h3>Effectorsearch</h3>
 <p>
@@ -79,4 +81,4 @@ A set of primers for 149 SNPs has been established to quickly and cheaply finger
   <li>Members of the 1307-RegMap panel</li>
   <li>Swedish accessions used in local adaptation studies</li>
 </ul>
-<br />
+</div>
