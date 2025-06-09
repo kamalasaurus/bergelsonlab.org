@@ -453,6 +453,11 @@ table.publications th, table.publications td {
 }
 
 /* People Page */
+div.people {
+    padding: 20px;
+    box-sizing: border-box;
+}
+
 .people-grid {
     display: grid;
     grid-template-columns: 1fr; /* Single column layout */
