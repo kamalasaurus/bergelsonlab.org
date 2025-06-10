@@ -12,4 +12,4 @@ This paper presents a mathematical and physics-based model of Effector-Triggered
 
 **Authors:** Benjamin G. Weiner, Hanna Märkle, Eric Laderman, Choghag Demirjian, and Joy Bergelson  
 
-*In press* at *PNAS*—stay tuned for the full <a href="https://doi.org/10.1073/pnas.2502872122">publication</a>!
+*In press* at *PNAS*—stay tuned for the full <a href="http://pnas.org/doi/10.1073/pnas.2502872122">publication</a>!
