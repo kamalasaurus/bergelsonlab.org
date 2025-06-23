@@ -478,8 +478,9 @@ div.people {
     border-radius: 2px; /* Optional rounded corners */
 
     /* New additions below */
-    max-width: 900px; /* or whatever width looks good */
-    margin: 0 auto;    /* centers the box horizontally */
+    max-width: 1200px;
+    min-height: 150px; /* Ensures consistent height even with little or no text */
+    margin: 0 auto;
 }
 
 .profile-image img {
