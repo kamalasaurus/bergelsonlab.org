@@ -10,7 +10,7 @@ permalink: /eco-evolutionary-dynamics/
 
 
 <div class="research">
-  <p class="research-blurb" style="font-size: 15.5px;">
+  <p class="research-blurb" style="font-size: 15px;">
     <b>In parallel to the extensive diversity that we see in NLR alleles is an enormous strain diversity in the pathogens of <em>A. thaliana</em>. We are working to understand how this diversity is shaped and maintained.</b></p>
   
   <div class="research-detail">
