@@ -279,10 +279,12 @@ div.research {
 }
 
 .research-detail {
-    display: flex;
-    align-items: flex-start;
-    gap: 10px;
-    margin-bottom: 14px;
+  display: flex;
+  align-items: center; /* Center vertically */
+  justify-content: center; /* Center whole block horizontally on page */
+  gap: 20px;
+  max-width: 1000px;
+  margin: 0 auto 14px auto; /* Center on page */
 }
 
 .research-image {
