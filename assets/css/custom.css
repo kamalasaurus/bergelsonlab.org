@@ -476,11 +476,6 @@ div.people {
     padding: 15px; /* Adds padding inside each profile */
     border: 0.5px solid #000000; /* Optional border */
     border-radius: 2px; /* Optional rounded corners */
-
-    /* New additions below */
-    max-width: 1200px;
-    min-height: 150px; /* Ensures consistent height even with little or no text */
-    margin: 0 auto;
 }
 
 .profile-image img {
