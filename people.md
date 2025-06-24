@@ -61,16 +61,6 @@ permalink: /people/
     </div>
     <div class="profile">
         <div class="profile-image">
-            <img src="../assets/images/Bio.png" alt="Jacopo" />
-        </div>
-        <div class="description">
-            <p class="people-name"><b>Jacopo Cirrone</b></p>
-            <p class="people-flair"><b>Postdoctoral Fellow, PhD</b></p>
-            <p class="people-blurb"></p>
-        </div>
-    </div>
-    <div class="profile">
-        <div class="profile-image">
             <img src="../assets/images/Luke.jpeg" alt="Luke" />
         </div>
         <div class="description">
