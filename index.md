@@ -17,7 +17,7 @@ layout: default
     </p>
     <div class="callouts">
       <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/microbial-interactions-communities'">
-        <img src="{{ site.baseurl }}/assets/images/1MIC-Box.jpg" alt="Microbial Interactions" />
+        <img src="{{ site.baseurl }}/assets/images/3MIC-Box.jpg" alt="Microbial Interactions" />
         <div class="label">
           Microbial Interactions
         </div>
