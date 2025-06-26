@@ -245,6 +245,12 @@ permalink: /people/
             <div class="alumni-cell">Graduation Year</div>
             <div class="alumni-cell">Current Position</div>
         </div>
+      <div class="alumni-row">
+            <div class="alumni-cell">Jacopo Cirrone</div>
+            <div class="alumni-cell">Postdoctoral Fellow</div>
+            <div class="alumni-cell">2025</div>
+            <div class="alumni-cell">Postdoctoral Fellow</div>
+        </div>
         <div class="alumni-row">
             <div class="alumni-cell">Julianna Sosnowski</div>
             <div class="alumni-cell">Undergraduate Student</div>
