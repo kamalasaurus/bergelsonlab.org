@@ -15,7 +15,7 @@ permalink: /research/
 
   <div class="research-profile-row">
     <div class="research-container" onclick="window.location.href='{{ site.baseurl }}/microbial-interactions-and-communities'">
-      <img src="../assets/images/3MIC-Box.jpg" alt="MIC" class="research-profile">
+      <img src="../assets/images/1MIC-Box.jpg" alt="MIC" class="research-profile">
       <div class="research-text-block">
         <h4 style="color: white;">Microbial Interactions & Communities</h4>
         <p>What are the factors shaping the composition and function of microbiomes? </p>
