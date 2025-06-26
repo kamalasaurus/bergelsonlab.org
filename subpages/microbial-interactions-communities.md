@@ -4,7 +4,7 @@ title: Microbial Interactions & Communities
 permalink: /microbial-interactions-and-communities/
 ---
 <div class="container">
-  <img src="../assets/images/1MIC.jpg" alt="Banner" />
+  <img src="../assets/images/2MIC.jpg" alt="Banner" />
   <div class="centered">Microbial Interactions & Communities</div>
 </div>
 
