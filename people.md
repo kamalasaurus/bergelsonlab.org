@@ -125,7 +125,7 @@ permalink: /people/
         <div class="description">
             <p class="people-name"><b>Kamal Radharamanan</b></p>
             <p class="people-flair"><b>PhD Student</b>, NYU</p>
-            <p class="people-blurb">In the past, I worked as a software engineer for a while. Currently, in the Bergelson Lab, I work with plant immunity and the protein-protein interactions therein.</p>
+            <p class="people-blurb"></p>
         </div>
     </div>
     <div class="profile">
