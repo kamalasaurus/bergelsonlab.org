@@ -309,7 +309,7 @@ permalink: /people/
             <div class="alumni-cell">Parker Knight</div>
             <div class="alumni-cell">Masters Student</div>
             <div class="alumni-cell">2024</div>
-            <div class="alumni-cell">Junior Professor, Universite de Reims Champagne</div>
+            <div class="alumni-cell">Medical School</div>
         </div>
         <div class="alumni-row">
             <div class="alumni-cell">Colleen Mcloughlin</div>
@@ -375,7 +375,7 @@ permalink: /people/
             <div class="alumni-cell">Manus Thoen</div>
             <div class="alumni-cell">Postdoctoral Fellow</div>
             <div class="alumni-cell">2019</div>
-            <div class="alumni-cell">Senior Bioinformatics Scientist, Mascoma LLC</div>
+            <div class="alumni-cell">Sr. Scientist, Enza Seed Co., The Netherlands</div>
         </div>
         <div class="alumni-row">
             <div class="alumni-cell">Jacob Herman</div>
@@ -531,7 +531,7 @@ permalink: /people/
             <div class="alumni-cell">Dacheng Tian</div>
             <div class="alumni-cell">Postdoctoral Fellow</div>
             <div class="alumni-cell">2003</div>
-            <div class="alumni-cell">Professor, Nanjing UniversityU</div>
+            <div class="alumni-cell">Professor, Nanjing University</div>
         </div>
         <div class="alumni-row">
             <div class="alumni-cell">Gale Wichmann</div>
