@@ -8,7 +8,7 @@ categories: news
 
 ### Welcome Mac to the Lab!
 
-We’re excited to welcome Mac to the lab as he joins us for his postdoctoral work, where he will bring his expertise in evolutionary genomics and host–microbiome dynamics to explore how host genetic diversity shapes the spread and evolution of pathogens.
+We’re excited to welcome **Mac** to the lab as he joins us for his postdoctoral work, where he will bring his expertise in evolutionary genomics and host–microbiome dynamics to explore how host genetic diversity shapes the spread and evolution of pathogens.
 
 Mac holds an M.S. in Biology from the University of Colorado Denver and completed his Ph.D. in Evolutionary Biology at the University of Pennsylvania.
 
