@@ -6,7 +6,7 @@ layout: default
 ---
 
 <div class="container">
-  <img src="assets/images/Main_Banner3.png" alt="Banner">
+  <img src="assets/images/Main_Banner4.png" alt="Banner">
 </div>
 
 <div class="index">
