@@ -310,7 +310,7 @@ permalink: /people/
             <div class="alumni-cell">Parker Knight</div>
             <div class="alumni-cell">Masters Student</div>
             <div class="alumni-cell">2024</div>
-            <div class="alumni-cell">Medical School</div>
+            <div class="alumni-cell">Medical Student</div>
         </div>
         <div class="alumni-row">
             <div class="alumni-cell">Colleen Mcloughlin</div>
