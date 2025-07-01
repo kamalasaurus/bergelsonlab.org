@@ -166,7 +166,7 @@ permalink: /people/
         <div class="description">
             <p class="people-name"><b>Hannah Momsen</b></p>
             <p class="people-flair"><b>Undergraduate Student</b>, NYU</p>
-            <p class="people-blurb">I am originally from San Francisco, CA and will be graduating from NYU in 2026 with a major in Biology and minor in Anthropology. At the Bergelson Lab, I have been working with Choghag Demirjian on the Comparative R Genes project, conducting phenotypic screens of disease response in <em>A. thaliana</em>. I is particularly interested in immunology and disease research and is looking forward to further exploring both throughout my career. In her free time, I love to run.</p>
+            <p class="people-blurb">I am originally from San Francisco, CA and will be graduating from NYU in 2026 with a major in Biology and minor in Anthropology. At the Bergelson Lab, I have been working with Choghag Demirjian on the Comparative R Genes project, conducting phenotypic screens of disease response in A. thaliana. I am particularly interested in immunology and disease research and am looking forward to further exploring both throughout my career. In my free time, I love to run.</p>
         </div>
     </div>
     <div class="profile">
