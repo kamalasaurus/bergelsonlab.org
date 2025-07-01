@@ -155,7 +155,8 @@ permalink: /people/
         <div class="description">
             <p class="people-name"><b>Harrison Vokshoor</b></p>
             <p class="people-flair"><b>Master's Student</b>, NYU</p>
-            <p class="people-blurb"></p>
+            <p class="people-blurb">
+              I am currently pursuing my Master’s degree in Biology at New York University, where I work in the Bergelson Lab under the mentorship of Luke. My research focuses on experimental evolution, specifically investigating how host-microbiome interactions shape pathogen dynamics over time.            </p>
         </div>
     </div>
     <h2 class="people-title">Undergraduate Researchers</h2>
