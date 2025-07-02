@@ -4,7 +4,7 @@ title: NLR Evolution
 permalink: /NLR-evolution/
 ---
 <div class="container">
-  <img src="../assets/images/NLR_structure_banner.png" alt="Banner" />
+  <img src="../assets/images/NLR_structure_banner2.png" alt="Banner" />
   <div class="centered">NLR Evolution in <em>A. thaliana</em> and its Relatives</div>
 </div>
 
