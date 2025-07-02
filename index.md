@@ -23,7 +23,7 @@ layout: default
         </div>
       </div>
       <div class="study-area" onclick="window.location.href='{{ site.baseurl }}/NLR-evolution'">
-        <img src="{{ site.baseurl }}/assets/images/NLR-Home.png" alt="NLR Evolution" />
+        <img src="{{ site.baseurl }}/assets/images/NLR_structure_box.png" alt="NLR Evolution" />
         <div class="label">
           NLR Evolution
         </div>
