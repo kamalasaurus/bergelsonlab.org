@@ -22,7 +22,7 @@ permalink: /research/
       </div>
     </div>
     <div class="research-container" onclick="window.location.href='{{ site.baseurl }}/NLR-evolution'">
-      <img src="../assets/images/NLR-Box2.png" alt="NLR" class="research-profile">
+      <img src="../assets/images/NLR_structure_box.png" alt="NLR" class="research-profile">
       <div class="research-text-block">
         <h4 style="color: white;">NLR evolution in <em>A. thaliana</em></h4>
         <p>What drives the evolution and diversification of NLR genes in <em>Arabidopsis</em> species?</p>
