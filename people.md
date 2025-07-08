@@ -125,7 +125,7 @@ permalink: /people/
         <div class="description">
             <p class="people-name"><b>Kamal Radharamanan</b></p>
             <p class="people-flair"><b>PhD Student</b>, NYU</p>
-            <p class="people-blurb"></p>
+            <p class="people-blurb">I am a PhD student co-advised by Joy Bergelson and Carol Huang.  My research interest is in the molecular basis of plant-pathogen interactions, especially the protein-protein interactions that constitute effector-triggered immunity and differences between immune-recognition events.  In the past I was a software engineer working at various startups in various technical roles; and before that, I completed a Bachelor’s in Biomedical Engineering and a Master’s in Electrical Engineering at Georgia Tech.  In my spare time you may find me flaneuring about the beautiful city of New York, dabbling in the arts, and pretending at exercise.</p>
         </div>
     </div>
     <div class="profile">
