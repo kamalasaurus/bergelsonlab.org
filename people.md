@@ -456,6 +456,12 @@ permalink: /people/
             <div class="alumni-cell">2011</div>
             <div class="alumni-cell">Assistant Professor, Purdue University, West Lafayette, Indiana, United States</div>
         </div>
+      <div class="alumni-row">
+            <div class="alumni-cell">Hidetoshi Inamine</div>
+            <div class="alumni-cell">Research Technician</div>
+            <div class="alumni-cell">2011</div>
+            <div class="alumni-cell">Assistant Research Professor, Pennsylvania State University, Centre County, Pennsylvania</div>
+        </div>
         <div class="alumni-row">
             <div class="alumni-cell">Luke Barrett</div>
             <div class="alumni-cell">Postdoctoral Fellow</div>
@@ -473,6 +479,12 @@ permalink: /people/
             <div class="alumni-cell">Postdoctoral Fellow</div>
             <div class="alumni-cell">2009</div>
             <div class="alumni-cell">Senior Director Next Generation Breeding, Driscoll's Only the Fine, Watsonville, California</div>
+        </div>
+      <div class="alumni-row">
+            <div class="alumni-cell">Jody Higgins</div>
+            <div class="alumni-cell">Research Technician</div>
+            <div class="alumni-cell">2009</div>
+            <div class="alumni-cell">Head of Intellectual Property and Licensing, Grains Research and Development Corporation</div>
         </div>
         <div class="alumni-row">
             <div class="alumni-cell">Alison Anastasio</div>
