@@ -598,7 +598,7 @@ permalink: /people/
             <div class="alumni-cell">Juliette Winterer</div>
             <div class="alumni-cell">Postdoctoral Fellow</div>
             <div class="alumni-cell">1998</div>
-            <div class="alumni-cell">Franklin and Marshall College</div>
+            <div class="alumni-cell">Science Teacher at Lancaster Country Day School</div>
         </div>
         <div class="alumni-row">
             <div class="alumni-cell">Magnus Nordborg</div>
