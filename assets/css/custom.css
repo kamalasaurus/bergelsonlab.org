@@ -856,4 +856,10 @@ img.research-profile {
   .research-detail > div {
     width: 100%;
   }
+    .centered {
+    font-size: 1rem;
+    padding: 6px 12px;
+    max-width: 90%;
+    word-wrap: break-word;
+  }
 }
