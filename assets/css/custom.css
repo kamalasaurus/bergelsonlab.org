@@ -833,3 +833,27 @@ img.research-profile {
     transform: none !important;
   }
 }
+
+
+
+
+ /* For mobile try to transform and center them */
+
+@media screen and (max-width: 720px) {
+  .research-detail {
+    flex-direction: column;
+    align-items: center; /* Optional: center image/text on mobile */
+    text-align: left;
+    padding: 0 10px;
+  }
+
+  .research-detail img.research-image {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+  }
+
+  .research-detail > div {
+    width: 100%;
+  }
+}
