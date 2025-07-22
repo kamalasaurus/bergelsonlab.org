@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome Michael to the Lab"
-date: 2025-10-01 08:45:00 -0400
+date: 2025-09-15 08:45:00 -0400
 author: "Em Schissler"
 categories: news
 ---
