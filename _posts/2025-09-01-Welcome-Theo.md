@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome Our New Visitors and Team Members!"
-date: 2025-10-01 10:00:00 -0400
+date: 2025-09-01 10:00:00 -0400
 author: "Em Schissler"
 categories: news
 ---
