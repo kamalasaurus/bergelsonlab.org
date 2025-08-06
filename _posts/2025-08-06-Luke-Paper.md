@@ -6,6 +6,8 @@ author: "Em Schissler"
 categories: news
 ---
 
+### Congratulations to Luke on his New Paper
+
 **Huge congratulations to Luke** on his latest paper, “Applying ecological principles to microbiome engineering,” which has published and is now available at **Nature Microbiology.**
 
 This paper applies macroecological principles to microbiome engineering, proposing a framework that uses niche dynamics to guide the design, colonization, and maintenance of stable, functional microbial communities. Improving microbiome engineering in this way holds promise for solving pressing challenges in medicine and agriculture, while providing understanding of ecological processes that maintain biodiversity across biological scales.
