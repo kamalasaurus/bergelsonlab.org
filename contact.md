@@ -11,7 +11,7 @@ permalink: /contact/
 
 <div class="contact">
   <p>
-  We’re always excited to connect with creative and talented individuals. The Bergelson Lab brings together scientists to explore the complex relationships between plants and their microbial communities. Visit our <a href="https://kamalasaurus.github.io/bergelsonlab.org/research/">research page</a> to get a sense of what it’s like to be part of the lab.
+  We’re always excited to connect with creative and talented individuals. The Bergelson Lab brings together scientists to explore the complex relationships between plants and their microbial communities. Visit our <a href="https://kamalasaurus.github.io/bergelsonlab.org/research/">research page</a> to get a sense of what it’s like to be part of the lab.<em>Please note: We’re not currently offering opportunities for high school students.</em>
   </p>
   <p>
   Interested in plant-microbe interactions, evolution in natural populations, or genomics? Reach out to Joy at jb7684[at]nyu[dot]edu to ask about opportunities in the lab.
