@@ -15,9 +15,8 @@ permalink: /contact/
   </p>
   <p>
   Interested in plant-microbe interactions, evolution in natural populations, or genomics? Reach out to Joy at jb7684[at]nyu[dot]edu to ask about opportunities in the lab.
-    <em> 
-    Please note: We’re not currently offering opportunities for high school students.</em>
   </p>
+  <p><em> Please note: We’re not currently offering opportunities for high school students.</em></p>
   <p>
   The lab is located in the Center for Genomics and Systems Biology, near Washington Square in NYC.
   </p>
