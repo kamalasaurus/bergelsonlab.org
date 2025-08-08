@@ -6,7 +6,7 @@ author: "Em Schissler"
 categories: news
 ---
 
-### Congratulations to Luke on his New Paper
+### Congratulations to Luke on his New Paper!
 
 **Huge congratulations to Luke** on his latest paper, “Applying ecological principles to microbiome engineering,” which has published and is now available at **Nature Microbiology.**
 
