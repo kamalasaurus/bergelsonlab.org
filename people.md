@@ -73,8 +73,7 @@ permalink: /people/
             <img src="../assets/images/Mac.jpg" alt="Mac" />
         </div>
         <div class="description">
-            <p class="people-name"><b>McCall Calvert</b></p>
-            <p class="people-flair"><b>Postdoctoral Fellow, PhD</b></p>
+            <p class="people-name"><b>McCall Calvert, PhD</b></p>
             <p class="people-blurb">My research is motivated by a desire to understand the forces that generate, maintain, and structure diversity across biological scales. In the Bergelson Lab, I will be exploring how host genetic diversity shapes the spread and evolution of pathogens. My dissertation research, completed under the guidance of Dr. Corlett Wood at the University of Pennsylvania, investigated how the ecological and evolutionary outcomes of host-mutualist interactions are altered by parasites. Prior to that, I earned a master’s degree in Dr. Greg Ragland’s lab at the University of Colorado Denver where I studied the genomics of host adaptation in recently diverged populations of apple maggot flies. Outside of the lab I like to garden, bike, do arts and crafts, and explore the city with friends. <a href="https://scholar.google.com/citations?user=GR5KQDQAAAAJ&hl=en&oi=ao ">View McCall's Google Scholar here</a></p>
         </div>
     </div>
