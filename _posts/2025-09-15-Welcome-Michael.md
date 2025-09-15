@@ -10,7 +10,6 @@ categories: news
 
 We’re excited to welcome **Michael** to the lab as a new postdoc! He brings expertise in single-cell genomics, coexpression networks, and cross-species data integration.
 
-Michael earned his B.A. in Biology from Rice University and his Ph.D. from Cold Spring Harbor Laboratory, where he conceived and published methods to improve the integration of cross-species single-cell sequencing datasets. 
-His work identified key genes driving molecular phenotypes and led to highly successful collaborations resulting in publications in Nature and Science.
+Michael earned his B.A. in Biology from Rice University and his Ph.D. from Cold Spring Harbor Laboratory, where he focused on how gene modules are co-opted by cell types to drive the emergence of new phenotypes across species, and how we can identify this co-option with computational analysis of bulk and single-cell RNA-seq data. 
 
-At lab, Michael will focus on understanding the resistance response of <em>Arabidopsis thaliana</em> to pathogens using single-cell data and in-house resources. Welcome aboard!
+At lab, Michael will focus on exploring NLR interactions using coexpression networks and single-cell data and investigate NLR module evolution across plant species. Welcome aboard!
