@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Welcome Mac to the Lab"
-date: 2025-09-015 01:45:00 -0400
+title: "Welcome Michael to the Lab"
+date: 2025-9-15 01:45:00 -0400
 author: "Em Schissler"
 categories: news
 ---
