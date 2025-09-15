@@ -79,7 +79,7 @@ permalink: /people/
     </div>
      <div class="profile">
         <div class="profile-image">
-            <img src="../assets/images/Michael.jpg" alt="Michael P"/>
+            <img src="../assets/images/Michael.jpg" alt="Michael"/>
         </div>
         <div class="description">
             <p class="people-name"><b>Michael Passalacqua, PhD</b></p>
