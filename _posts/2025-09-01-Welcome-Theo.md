@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome Our New Visitors and Team Members!"
+title: "Welcome Theo to the Lab!"
 date: 2025-09-01 10:00:00 -0400
 author: "Em Schissler"
 categories: news
