@@ -77,15 +77,6 @@ permalink: /people/
             <p class="people-blurb">My research is motivated by a desire to understand the forces that generate, maintain, and structure diversity across biological scales. In the Bergelson Lab, I will be exploring how host genetic diversity shapes the spread and evolution of pathogens. My dissertation research, completed under the guidance of Dr. Corlett Wood at the University of Pennsylvania, investigated how the ecological and evolutionary outcomes of host-mutualist interactions are altered by parasites. Prior to that, I earned a master’s degree in Dr. Greg Ragland’s lab at the University of Colorado Denver where I studied the genomics of host adaptation in recently diverged populations of apple maggot flies. Outside of the lab I like to garden, bike, do arts and crafts, and explore the city with friends. <a href="https://scholar.google.com/citations?user=GR5KQDQAAAAJ&hl=en&oi=ao ">View McCall's Google Scholar here</a></p>
         </div>
     </div>
-     <div class="profile">
-        <div class="profile-image">
-            <img src="../assets/images/Michael.jpg" alt="Michael"/>
-        </div>
-        <div class="description">
-            <p class="people-name"><b>Michael Passalacqua, PhD</b></p>
-            <p class="people-blurb">I am interested in the evolution and specialization of plant gene modules across species, especially in cases of high selection pressure such as in pathogen response. My dissertation with Dr. Jesse Gillis focused on how gene modules are co-opted by cell types to drive the emergence of new phenotypes across species, and how we can identify this co-option with computational analysis of bulk and single-cell RNA-seq data. I also investigated the evolution and divergence of paralogs following speciation. Prior to my PhD, I worked with Dr. Cliona Rooney on CAR T-cell development and with Dr. Bonnie Bartel on autophagy of peroxisomes. When not working, I  birdwatch, hike, cook, and play board games.</p>
-        </div>
-    </div>
     <div class="profile">
         <div class="profile-image">
             <img src="../assets/images/Theo.jpg" alt="Theo"/>
