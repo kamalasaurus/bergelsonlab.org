@@ -161,7 +161,7 @@ permalink: /people/
     <h2 class="people-title">Undergraduate Researchers</h2>
     <div class="profile">
         <div class="profile-image">
-            <img src="../assets/images/Hannah.jpg" alt="Aabhi" />
+            <img src="../assets/images/Aabhi.png" alt="Aabhi" />
         </div>
         <div class="description">
             <p class="people-name"><b>Aabhi Patel</b></p>
