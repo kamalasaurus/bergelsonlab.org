@@ -149,6 +149,16 @@ permalink: /people/
     </div> 
     <div class="profile">
         <div class="profile-image">
+            <img src="../assets/images/Dominic.jpeg" alt="Dominic Florian" />
+        </div>
+        <div class="description">
+            <p class="people-name"><b>Dominic Florian</b></p>
+            <p class="people-flair"><b>Master's Student</b>, NYU</p>
+            <p class="people-blurb">Originally from New York, I obtained my bachelor’s degree in biology here at NYU. During my undergraduate years, I worked at NYU Langone as a research assistant in a protein interaction lab, giving me a strong foundation in scientific knowledge. As a Masters student in the Bergelson lab, I am enjoying working with McCall on Arabidopsis thaliana microbiome, and how plant community affects it and the neighboring microbiomes. In my free time I love to play soccer and golf.</p>
+        </div>
+    </div>
+    <div class="profile">
+        <div class="profile-image">
             <img src="../assets/images/Bio.png" alt="Harrison" />
         </div>
         <div class="description">
