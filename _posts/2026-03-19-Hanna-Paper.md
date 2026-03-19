@@ -12,7 +12,7 @@ categories: news
 
 This paper examines interactions with a generalist pathogen and shows that hosts are more likely to maintain polymorphism at a shared R gene than at R genes that are private to each host.
 
-Read the media summary below for a sneak peek:
+**Read the media summary below for a sneak peek:**
 
 Resistance polymorphisms are typically understood in terms of costs and benefits of alternative alleles. But how does ecological context shift that balance? Our simple model of two hosts interacting with a generalist pathogen reveals that polymorphism is more likely at shared resistance loci than at those specific to one host. However, the relative abundance of both hosts also matters—rare hosts tend to evolve fixed, species-specific resistance as the pathogen tracks the common host. These changes in resistance follow from the selective impact of community composition on effector repertoires, highlighting the tight interplay between ecology and molecular evolution.
 
