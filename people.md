@@ -347,13 +347,13 @@ permalink: /people/
             <div class="alumni-cell">Yang Yang</div>
             <div class="alumni-cell">Masters Student</div>
             <div class="alumni-cell">2023</div>
-            <div class="alumni-cell">University Illinois Champaign-Urbana</div>
+            <div class="alumni-cell">University of Maryland</div>
         </div>
         <div class="alumni-row">
             <div class="alumni-cell">Jiesheng Zhong</div>
             <div class="alumni-cell">Masters Student</div>
             <div class="alumni-cell">2023</div>
-            <div class="alumni-cell">University of Maryland</div>
+            <div class="alumni-cell">University Illinois Champaign-Urbana</div>
         </div>
         <div class="alumni-row">
             <div class="alumni-cell">Tien-Hao Chang</div>
