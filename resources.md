@@ -47,7 +47,7 @@ permalink: /resources/
 
   Due to the extensive size of this collection, these accessions enable mapping using either global or regional populations, and thus allow to compare the genetic basis of ecologically important traits among distinct subsets (Horton et al., 2012). These genotyped lines were created in collaboration with the Borevitz and Nordborg laboratories, and are available through the <a href="https://abrc.osu.edu/">Ohio State Arabidopsis Stock Center</a>.
 
-  SNPs genotypes are available <a href="https://drive.google.com/file/d/1ea0-FmHKuyuUfNEWPX3Xz7Xz6rvchpx6/view/">here</a> (note the file is a bit large: 1.1 GB). The latitude and longitude for these accessions are included in the archive. The annotations of individual SNPs are <a href="/assets/images/6cef3-ancestral_alleles.txt.zip" download>here</a>.
+  SNPs genotypes are available <a href="https://drive.google.com/file/d/1ea0-FmHKuyuUfNEWPX3Xz7Xz6rvchpx6/">here</a> (note the file is a bit large: 1.1 GB). The latitude and longitude for these accessions are included in the archive. The annotations of individual SNPs are <a href="/assets/images/6cef3-ancestral_alleles.txt.zip" download>here</a>.
 
 
   The regional mapping panel was used to search for candidate targets of selection using the pairwise haplotype sharing statistic (Toomajian et al., 2006), the composite likelihood ratio test (Nielsen et al., 2005), and a global FST scan (Lewontin & Krakauer, 1973). You can download these scores <a href="/assets/images/0b2c1-selection_scans.zip" download>here</a>. The map of recombination hot spots can be dowloaded <a href="/assets/images/f0ff9-hotspotsummaries.rho3_.txt.zip" download>here</a>.
