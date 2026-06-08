@@ -241,7 +241,7 @@ permalink: /people/
     <div class="card card-wide">
             <div class="subtitle">Field Trip to the NY Botanical Gardens</div>
             <div class="image">
-                <img src="../assets/images/NY-Botanical-Gardens.png" alt="NY Gardens" />
+                <img src="../assets/images/NY_Botanical_2026.jpg" alt="NY Gardens" />
             </div>
         </div>
     <div class="card">
