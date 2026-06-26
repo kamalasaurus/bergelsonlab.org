@@ -8,7 +8,7 @@ categories: news
 
 **Congratulations to Luke Henry** on his new position as a Scientific Officer at the Simons Foundation in Flatiron! 
 
-We are so proud of everything he has accomplished during his time here, culminating most recently in his fantastic new publication in Philosophical Transactions B!
+We are so proud of everything he has accomplished during his time here, culminating most recently in his fantastic new publication in Philosophical Transactions B.
 
 During his time in the lab, Luke made significant contributions to the PATHOCOM and NSF GEMS projects focusing on microbiome–pathogen interactions in wild populations of <i>Arabidopsis thaliana</i>.
 
