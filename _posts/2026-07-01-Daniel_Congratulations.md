@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Congratulations to Katharina"
-date: 2025-06-26 10:00:00 -0400
+title: "Congratulations to Daniel"
+date: 2026-06-26 10:00:00 -0400
 author: "Em Schissler"
 categories: news
 ---
