@@ -159,6 +159,16 @@ permalink: /people/
     </div> 
     <div class="profile">
         <div class="profile-image">
+            <img src="../assets/images/zhenyu.jpg" alt="Zhenyu Luo" />
+        </div>
+        <div class="description">
+            <p class="people-name"><b>Zhenyu Luo</b></p>
+            <p class="people-flair"><b>Master's Student</b>, NYU</p>
+            <p class="people-blurb">I am a NYU Tandon master student researching in the Bergelson lab. Right now I am in CompR project and focusing on the molecular mechanism of how plant NLRs and pathogen effectors interact with each other. Also getting started with GWAS in plant-pathogen response. I finished my undergraduate study in HUST,China and focused on C.elegans and Sorghum. Originally from a Cantonese family in Guangdong and I love to exercise and eat outside the lab.</p>
+        </div>
+    </div>
+      <div class="profile">
+        <div class="profile-image">
             <img src="../assets/images/Dominic.jpeg" alt="Dominic Florian" />
         </div>
         <div class="description">
