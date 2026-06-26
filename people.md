@@ -254,6 +254,18 @@ permalink: /people/
         <div class="alumni-cell">Graduation Year</div>
         <div class="alumni-cell">Current Position</div>
     </div>
+  <div class="alumni-row">
+        <div class="alumni-cell">Daniel de Souza</div>
+        <div class="alumni-cell">Junior Laboratory Associate</div>
+        <div class="alumni-cell">2026</div>
+        <div class="alumni-cell">PhD, New York Univeristy</div>
+    </div>
+    <div class="alumni-row">
+        <div class="alumni-cell">Luke Henry</div>
+        <div class="alumni-cell">Postdoctoral Fellow</div>
+        <div class="alumni-cell">2026</div>
+        <div class="alumni-cell">Scientific Officer, Simons Foundation</div>
+    </div>
     <div class="alumni-row">
         <div class="alumni-cell">Harrison Vokshoor</div>
         <div class="alumni-cell">Masters Student</div>
