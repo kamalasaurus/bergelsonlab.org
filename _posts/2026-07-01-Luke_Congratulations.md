@@ -10,7 +10,7 @@ categories: news
 
 We are so proud of everything he has accomplished during his time here, culminating most recently in his fantastic new publication in Philosophical Transactions B.
 
-During his time in the lab, Luke made significant contributions to the PATHOCOM and NSF GEMS projects focusing on microbiome–pathogen interactions in wild populations of <i>Arabidopsis thaliana</i>.
+During his time in the lab, Luke made significant contributions to the PATHOCOM project focusing on microbiome–pathogen interactions in wild populations of <i>Arabidopsis thaliana</i>.
 
 We are excited to see what comes next in this exciting new chapter. 
 
