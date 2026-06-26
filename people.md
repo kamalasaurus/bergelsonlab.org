@@ -176,11 +176,8 @@ permalink: /people/
             <p class="people-name"><b>Aabhi Patel</b></p>
             <p class="people-flair"><b>Undergraduate Student</b>, NYU</p>
             <p class="people-blurb">I am from Orange County, California and I will be graduating in 2028 with a degree in Global Public Health with a concentration in Biology. At the Bergelson Lab, I have been working under McCall Calvert where we focus on how genetic diversity shapes the spread and evolution of pathogens. Outside of school, I like to walk around the city and try new foods.</p>
-    </div>
-    </div>
-    </div> <!-- /people-grid -->
-    <h2 class="people-title">Gallery</h2>
-    <div class="gallery-grid">
+    </div> </div> </div> </div> <h2 class="people-title">Gallery</h2>
+<div class="gallery-grid">
         <div class="card card-wide">
             <div class="subtitle">Cherry Blossom Outing</div>
             <div class="image">
