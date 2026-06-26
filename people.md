@@ -112,7 +112,6 @@ permalink: /people/
         </div>
         <div class="description">
             <p class="people-name"><b>Hannah Momsen</b></p>
-            <p class="people-flair"><b>Undergraduate Student</b>, NYU</p>
             <p class="people-blurb">I am originally from San Francisco, CA. I recently graduated from NYU with a degree in Biology and am now working at the Bergelson Lab as a Research Associate. Along with continuing with my undergraduate work analyzing phenotypic disease responses in A. thaliana, in my new role I am contributing to studies of protein-protein interactions between plant NLRs and pathogen effector proteins. During my time here, I have loved applying my interests for immune systems and disease to exploring the complex molecular mechanisms that make up the plant immune system. Outside of the lab, I enjoy running, hiking, and exploring the city. </p>
         </div>
     </div>
