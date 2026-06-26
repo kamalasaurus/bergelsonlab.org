@@ -146,6 +146,7 @@ permalink: /people/
             <p class="people-blurb">I earned my bachelor’s degree in Ecology from Zhejiang University, China, where I became fascinated by species interactions and studied the Rice-Fish symbiosis system and microbes in the rice paddy, like methanotrophs. Then I pursued my master’s degree at NYU, studied the diversity of plant pathogen <em>Pseudomonas syringae’s</em> effectors in wild populations in the Bergelson Lab. Currently, I am a PhD student co-advised by Dr. Joy Bergelson and Dr. Gloria Coruzzi. My research focuses on the interaction between rice and its root-associated microbiome, aiming to identify the rice genetic factors that determine the diverse microbiome composition and function across rice varieties by integrating multi-omics data and machine-learning methods.</p>
         </div>
     </div>
+      <h2 class="people-title">Masters Researchers</h2>
     <div class="profile">
         <div class="profile-image">
             <img src="../assets/images/Abbie.jpeg" alt="Abbie" />
@@ -175,7 +176,6 @@ permalink: /people/
             <p class="people-name"><b>Aabhi Patel</b></p>
             <p class="people-flair"><b>Undergraduate Student</b>, NYU</p>
             <p class="people-blurb">I am from Orange County, California and I will be graduating in 2028 with a degree in Global Public Health with a concentration in Biology. At the Bergelson Lab, I have been working under McCall Calvert where we focus on how genetic diversity shapes the spread and evolution of pathogens. Outside of school, I like to walk around the city and try new foods.</p>
-        </div>
     </div>
     </div>
     </div> <!-- /people-grid -->
