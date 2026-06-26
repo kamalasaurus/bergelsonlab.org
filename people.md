@@ -233,10 +233,10 @@ permalink: /people/
             <div class="subtitle">National Academy of Sciences Celebration in Chicago</div>
             <div class="image">
                 <img src="../assets/images/Joy Celebration.jpg" alt="Celebration" />
-            </div>
         </div>
     </div>
-    <b class="section-title">Lab Alumni</b>
+</div>
+<h2 class="people-title">Lab Alumni</h2>
     <div class="alumni-grid">
         <div class="alumni-row header">
             <div class="alumni-cell">Name</div>
