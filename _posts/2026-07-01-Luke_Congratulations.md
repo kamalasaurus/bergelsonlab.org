@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Congratulations to Luke for position at the Simons Foundation"
-date: 2026-06-26 10:00:00 -0400
+date: 2026-07-01 10:00:00 -0400
 author: "Em Schissler"
 categories: news
 ---
