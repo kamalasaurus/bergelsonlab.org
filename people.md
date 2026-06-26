@@ -166,17 +166,6 @@ permalink: /people/
             <p class="people-blurb">Originally from New York, I obtained my bachelor’s degree in biology here at NYU. During my undergraduate years, I worked at NYU Langone as a research assistant in a protein interaction lab, giving me a strong foundation in scientific knowledge. As a Masters student in the Bergelson lab, I am enjoying working with McCall on Arabidopsis thaliana microbiome, and how plant community affects it and the neighboring microbiomes. In my free time I love to play soccer and golf.</p>
         </div>
     </div>
-    <div class="profile">
-        <div class="profile-image">
-            <img src="../assets/images/Bio.png" alt="Harrison" />
-        </div>
-        <div class="description">
-            <p class="people-name"><b>Harrison Vokshoor</b></p>
-            <p class="people-flair"><b>Master's Student</b>, NYU</p>
-            <p class="people-blurb">
-              I am currently pursuing my Master’s degree in Biology at New York University, where I work in the Bergelson Lab under the mentorship of Luke. My research focuses on experimental evolution, specifically investigating how host-microbiome interactions shape pathogen dynamics over time.            </p>
-        </div>
-    </div>
     <h2 class="people-title">Undergraduate Researchers</h2>
     <div class="profile">
         <div class="profile-image">
@@ -188,7 +177,7 @@ permalink: /people/
             <p class="people-blurb">I am from Orange County, California and I will be graduating in 2028 with a degree in Global Public Health with a concentration in Biology. At the Bergelson Lab, I have been working under McCall Calvert where we focus on how genetic diversity shapes the spread and evolution of pathogens. Outside of school, I like to walk around the city and try new foods.</p>
         </div>
     </div>
-
+    </div>
     </div> <!-- /people-grid -->
     <h2 class="people-title">Gallery</h2>
     <div class="gallery-grid">
