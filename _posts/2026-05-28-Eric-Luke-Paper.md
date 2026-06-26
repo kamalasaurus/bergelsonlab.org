@@ -6,9 +6,9 @@ author: "Em Schissler"
 categories: news
 ---
 
-### Congratulations to Luke and Eric and Team PATHOCOM on the New Paper!
+### Congratulations to Luke, Eric and Team PATHOCOM on the New Paper!
 
-**Huge congratulations to Luke and Eric Team PATHOCOM** on their latest paper, “Seasonality, land use and plant community diversity shape microbiome–pathogen interactions in wild populations of Arabidopsis thaliana”!
+**Huge congratulations to Luke, Eric, and Team PATHOCOM** on their latest paper, “Seasonality, land use and plant community diversity shape microbiome–pathogen interactions in wild populations of Arabidopsis thaliana”!
 
 This paper examines how seasonality, land use types, and surrounding plant community diversity collectively shape the variations in the commensal microbiome and associated disease dynamics within wild populations of Arabidopsis thaliana.
 
