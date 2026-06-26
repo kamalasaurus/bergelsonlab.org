@@ -106,6 +106,16 @@ permalink: /people/
             <p class="people-blurb">I am half Portuguese, half Indian but I was born and brought up in the UAE. I did my undergraduate biology degree at NYUAD, focusing on designing Nanoparticles for Cancer Therapeutics while doing internships at multiple oncology wards. Currently, I am working on experimental characterisation of a spectrum of microbe-microbe interactions on the PATHOCOM project. Outside the lab I love going to the gym, watching films/theater and baking the most elegant cheesecake you've ever tasted!</p>
         </div>
     </div>
+      <div class="profile">
+        <div class="profile-image">
+            <img src="../assets/images/Hannah.jpg" alt="Hannah" />
+        </div>
+        <div class="description">
+            <p class="people-name"><b>Hannah Momsen</b></p>
+            <p class="people-flair"><b>Undergraduate Student</b>, NYU</p>
+            <p class="people-blurb">I am originally from San Francisco, CA. I recently graduated from NYU with a degree in Biology and am now working at the Bergelson Lab as a Research Associate. Along with continuing with my undergraduate work analyzing phenotypic disease responses in A. thaliana, in my new role I am contributing to studies of protein-protein interactions between plant NLRs and pathogen effector proteins. During my time here, I have loved applying my interests for immune systems and disease to exploring the complex molecular mechanisms that make up the plant immune system. Outside of the lab, I enjoy running, hiking, and exploring the city. </p>
+        </div>
+    </div>
     <h2 class="people-title">Graduate Researchers</h2>
     <div class="profile">
         <div class="profile-image">
@@ -179,26 +189,7 @@ permalink: /people/
             <p class="people-blurb">I am from Orange County, California and I will be graduating in 2028 with a degree in Global Public Health with a concentration in Biology. At the Bergelson Lab, I have been working under McCall Calvert where we focus on how genetic diversity shapes the spread and evolution of pathogens. Outside of school, I like to walk around the city and try new foods.</p>
         </div>
     </div>
-    <div class="profile">
-        <div class="profile-image">
-            <img src="../assets/images/Hannah.jpg" alt="Hannah" />
-        </div>
-        <div class="description">
-            <p class="people-name"><b>Hannah Momsen</b></p>
-            <p class="people-flair"><b>Undergraduate Student</b>, NYU</p>
-            <p class="people-blurb">I am originally from San Francisco, CA and will be graduating from NYU in 2026 with a major in Biology and minor in Anthropology. At the Bergelson Lab, I have been working with Choghag Demirjian on the Comparative R Genes project, conducting phenotypic screens of disease response in A. thaliana. I am particularly interested in immunology and disease research and am looking forward to further exploring both throughout my career. In my free time, I love to run.</p>
-        </div>
-    </div>
-    <div class="profile">
-        <div class="profile-image">
-            <img src="../assets/images/Sam.jpg" alt="Sam" />
-        </div>
-        <div class="description">
-            <p class="people-name"><b>Sam Shteerman</b></p>
-            <p class="people-flair"><b>Undergraduate Student</b>, NYU</p>
-            <p class="people-blurb">I'm a native New Yorker studying biochemistry at NYU, graduating in 2027. I'm working with the amazing postdoctoral fellow Lucas Henry, investigating the way that seasonal processes shape the <em>Arabidopsis thaliana</em> microbiome. I've been studying the microbial make up of <em>Arabidopsis</em> populations native to New York city, along with helping out more generally with the Pathocom project. Besides my lab work, in my free time I enjoy reading, running, and the great outdoors.</p>
-        </div>
-    </div>
+
     </div> <!-- /people-grid -->
     <h2 class="people-title">Gallery</h2>
     <div class="gallery-grid">
@@ -264,6 +255,12 @@ permalink: /people/
             <div class="alumni-cell">Lab Position</div>
             <div class="alumni-cell">Graduation Year</div>
             <div class="alumni-cell">Current Position</div>
+        </div>
+        <div class="alumni-row">
+            <div class="alumni-cell">Harrison Vokshoor</div>
+            <div class="alumni-cell">Masters Student</div>
+            <div class="alumni-cell">2025</div>
+            <div class="alumni-cell">PhD</div>
         </div>
         <div class="alumni-row">
             <div class="alumni-cell">Julianna Sosnowski</div>
