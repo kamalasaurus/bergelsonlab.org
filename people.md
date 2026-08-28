@@ -126,6 +126,16 @@ permalink: /people/
             <p class="people-blurb">I'm a PhD student in the Bergelson lab, where I'm interested in understanding how strain-level variation in plant pathogens is maintained and how this variation affects disease outcomes and bacterial competition in the phyllosphere. I graduated from Dartmouth College in 2020 with a BS in Biology and Biological Chemistry. While at Dartmouth, I worked in the Guerinot lab studying how plants alter photosynthesis in response to iron deficiency. After graduating, I joined the Bondy-Denomy lab at UCSF, where I researched how phages overcome CRISPR immunity in Listeria. When I’m not in the lab, you can probably find me playing tennis or enjoying a picnic in Central Park.</p>
         </div>
     </div>
+      <div class="profile">
+        <div class="profile-image">
+            <img src="../assets/images/Caspar.JPG" alt="Caspar" />
+        </div>
+        <div class="description">
+            <p class="people-name"><b>Caspar Carson</b></p>
+            <p class="people-flair"><b>PhD Student</b>, NYU</p>
+            <p class="people-blurb"></p>
+        </div>
+    </div>
     <div class="profile">
         <div class="profile-image">
             <img src="../assets/images/Bio.png" alt="Kamal" />
