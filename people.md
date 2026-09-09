@@ -133,7 +133,7 @@ permalink: /people/
         <div class="description">
             <p class="people-name"><b>Caspar Carson</b></p>
             <p class="people-flair"><b>PhD Student</b>, NYU</p>
-            <p class="people-blurb"></p>
+            <p class="people-blurb">My current research interests focus on ecological interactions between bacteria and their viruses (phages), and how they influence the microbiome, virulence/immunity, and genetic transfer. Before my PhD, I obtained my Bachelor's from SUNY Binghamton where I studied co-infection interactions between pathogenic Enterococcus and Clostridioides difficile in the gut with the McKenney lab. Outside of the lab, you'll probably find me birding or on a hike (or both).</p>
         </div>
     </div>
     <div class="profile">
