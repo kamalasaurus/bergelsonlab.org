@@ -198,7 +198,16 @@ permalink: /people/
             <p class="people-blurb">I am from Orange County, California and I will be graduating in 2028 with a degree in Global Public Health with a concentration in Biology. At the Bergelson Lab, I have been working under McCall Calvert where we focus on how genetic diversity shapes the spread and evolution of pathogens. Outside of school, I like to walk around the city and try new foods.</p>
         </div>
     </div>
-
+<div class="profile">
+        <div class="profile-image">
+            <img src="../assets/images/Maria.png" alt="Maria Lazarou" />
+        </div>
+        <div class="description">
+            <p class="people-name"><b>Maria Lazarou</b></p>
+            <p class="people-flair"><b>Undergraduate Student</b>, NYU</p>
+            <p class="people-blurb">I am an undergraduate student from New Jersey at NYU, majoring in Biology and minoring in Hellenic Studies on the pre-medical track. In the Bergelson Lab, I investigate interactions between plant immune receptors and pathogen proteins to better understand the molecular processes involved in plant immunity. Outside of the lab, I enjoy baking, traveling, and exploring New York City.</p>
+        </div>
+    </div>
   </div> </div> <h2 class="people-title">Gallery</h2>
 <div class="gallery-grid">
         <div class="card card-wide">
