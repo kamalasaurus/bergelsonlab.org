@@ -97,15 +97,6 @@ permalink: /people/
         </div>
     </div>
     <h2 class="people-title">Research Associate</h2>
-    <div class="profile">
-        <div class="profile-image">
-            <img src="../assets/images/Daniel.png" alt="Daniel" />
-        </div>
-        <div class="description">
-            <p class="people-name"><b>Daniel de Souza</b></p>
-            <p class="people-blurb">I am half Portuguese, half Indian but I was born and brought up in the UAE. I did my undergraduate biology degree at NYUAD, focusing on designing Nanoparticles for Cancer Therapeutics while doing internships at multiple oncology wards. Currently, I am working on experimental characterisation of a spectrum of microbe-microbe interactions on the PATHOCOM project. Outside the lab I love going to the gym, watching films/theater and baking the most elegant cheesecake you've ever tasted!</p>
-        </div>
-    </div>
       <div class="profile">
         <div class="profile-image">
             <img src="../assets/images/Hannah.jpg" alt="Hannah" />
@@ -167,16 +158,6 @@ permalink: /people/
             <p class="people-blurb">Originally from the Philippines and I have obtained my bachelors degree in Biochemistry from the University of Nevada - Las Vegas. After college, I spent a few years in the biotech industry starting with performing NGS on COVID-19 samples for variant tracing with the California Department of Public Health  during the height of the pandemic in 2020. Then, I transitioned to autoimmune disease research focusing on improving diagnostics for diseases including rheumatoid arthritis and systemic lupus. At the Bergelson lab, I am interested in investigating the molecular mechanisms of plant-pathogen interaction focusing on protein-protein interactions between NLRs and pathogen effectors.</p>
         </div>
     </div> 
-      <div class="profile">
-        <div class="profile-image">
-            <img src="../assets/images/Dominic.jpeg" alt="Dominic Florian" />
-        </div>
-        <div class="description">
-            <p class="people-name"><b>Dominic Florian</b></p>
-            <p class="people-flair"><b>Master's Student</b>, NYU</p>
-            <p class="people-blurb">Originally from New York, I obtained my bachelor’s degree in biology here at NYU. During my undergraduate years, I worked at NYU Langone as a research assistant in a protein interaction lab, giving me a strong foundation in scientific knowledge. As a Masters student in the Bergelson lab, I am enjoying working with McCall on Arabidopsis thaliana microbiome, and how plant community affects it and the neighboring microbiomes. In my free time I love to play soccer and golf.</p>
-        </div>
-    </div>
       <div class="profile">
         <div class="profile-image">
             <img src="../assets/images/zhenyu.jpg" alt="Zhenyu Luo" />
@@ -272,6 +253,12 @@ permalink: /people/
         <div class="alumni-cell">Lab Position</div>
         <div class="alumni-cell">Graduation Year</div>
         <div class="alumni-cell">Current Position</div>
+    </div>
+  <div class="alumni-row">
+        <div class="alumni-cell">Dominic Florian</div>
+        <div class="alumni-cell">Masters Student</div>
+        <div class="alumni-cell">2026</div>
+        <div class="alumni-cell">Surgical Assistant</div>
     </div>
   <div class="alumni-row">
         <div class="alumni-cell">Daniel de Souza</div>
