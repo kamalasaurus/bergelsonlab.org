@@ -77,6 +77,15 @@ permalink: /people/
             <p class="people-blurb">My research is motivated by a desire to understand the forces that generate, maintain, and structure diversity across biological scales. In the Bergelson Lab, I will be exploring how host genetic diversity shapes the spread and evolution of pathogens. My dissertation research, completed under the guidance of Dr. Corlett Wood at the University of Pennsylvania, investigated how the ecological and evolutionary outcomes of host-mutualist interactions are altered by parasites. Prior to that, I earned a master’s degree in Dr. Greg Ragland’s lab at the University of Colorado Denver where I studied the genomics of host adaptation in recently diverged populations of apple maggot flies. Outside of the lab I like to garden, bike, do arts and crafts, and explore the city with friends. <a href="https://scholar.google.com/citations?user=GR5KQDQAAAAJ&hl=en&oi=ao ">View McCall's Google Scholar here</a></p>
         </div>
     </div>
+      <div class="profile">
+        <div class="profile-image">
+            <img src="../assets/images/SophieW.JPG" alt="Sophie"/>
+        </div>
+        <div class="description">
+            <p class="people-name"><b>Sophie Walton, PhD</b></p>
+            <p class="people-blurb">I am interested in understanding how microbes evolve in complex ecosystems. My dissertation work combined genomics and experiments to study microbial evolution in gut microbial communities. In the Bergelson lab, I am studying how pathogen evolution is shaped by interactions with plant hosts and other microbes. Outside of the lab, I like to run, spend time outside, and explore the city.</p>
+        </div>
+    </div>
     <div class="profile">
         <div class="profile-image">
             <img src="../assets/images/Theo.jpg" alt="Theo"/>
