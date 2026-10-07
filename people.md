@@ -65,7 +65,7 @@ permalink: /people/
         </div>
         <div class="description">
             <p class="people-name"><b>Luke Henry, PhD</b></p>
-            <p class="people-blurb"> My research interests are focused on eco-evolutionary dynamics in host-associated microbiomes. I’ve worked in a wide range of systems, from the ecology of Lyme disease to sunflower domestication to mitochondria-Wolbachia interactions during oogenesis. My dissertation focused on the evolutionary potential of host-associated microbiomes by using <em>Drosophila melanogaster</em> to explore the relative contribution of the microbiome to local adaptation. Now, in the Bergelson lab, I investigate 1) the impact of host-microbiome interactions on pathogen dynamics, 2) seasonal processes that shape the <em>Arabidopsis</em> microbiome, and 3) ecologically informed microbiome engineering. <a href="https://scholar.google.com/citations?user=mfT999QAAAAJ">View Luke's Google Scholar here</a></p>
+            <p class="people-blurb"> My research interests are focused on eco-evolutionary dynamics in host-associated microbiomes. I’ve worked in a wide range of systems, from the ecology of Lyme disease to sunflower domestication to mitochondria-Wolbachia interactions during oogenesis. My dissertation focused on the evolutionary potential of host-associated microbiomes by using <em>Drosophila melanogaster</em> to explore the relative contribution of the microbiome to local adaptation. Now, in the Bergelson lab, I investigate 1) the impact of host-microbiome interactions on pathogen dynamics, 2) seasonal processes that shape the <em>Arabidopsis</em> microbiome, and 3) ecologically informed microbiome engineering. <a href="https://scholar.google.com/citations?user=mfT999QAAAAJ">View Luke's Google Scholar here.</a></p>
         </div>
     </div>
     <div class="profile">
@@ -74,7 +74,7 @@ permalink: /people/
         </div>
         <div class="description">
             <p class="people-name"><b>McCall Calvert, PhD</b></p>
-            <p class="people-blurb">My research is motivated by a desire to understand the forces that generate, maintain, and structure diversity across biological scales. In the Bergelson Lab, I will be exploring how host genetic diversity shapes the spread and evolution of pathogens. My dissertation research, completed under the guidance of Dr. Corlett Wood at the University of Pennsylvania, investigated how the ecological and evolutionary outcomes of host-mutualist interactions are altered by parasites. Prior to that, I earned a master’s degree in Dr. Greg Ragland’s lab at the University of Colorado Denver where I studied the genomics of host adaptation in recently diverged populations of apple maggot flies. Outside of the lab I like to garden, bike, do arts and crafts, and explore the city with friends. <a href="https://scholar.google.com/citations?user=GR5KQDQAAAAJ&hl=en&oi=ao ">View McCall's Google Scholar here</a></p>
+            <p class="people-blurb">My research is motivated by a desire to understand the forces that generate, maintain, and structure diversity across biological scales. In the Bergelson Lab, I will be exploring how host genetic diversity shapes the spread and evolution of pathogens. My dissertation research, completed under the guidance of Dr. Corlett Wood at the University of Pennsylvania, investigated how the ecological and evolutionary outcomes of host-mutualist interactions are altered by parasites. Prior to that, I earned a master’s degree in Dr. Greg Ragland’s lab at the University of Colorado Denver where I studied the genomics of host adaptation in recently diverged populations of apple maggot flies. Outside of the lab I like to garden, bike, do arts and crafts, and explore the city with friends. <a href="https://scholar.google.com/citations?user=GR5KQDQAAAAJ&hl=en&oi=ao ">View McCall's Google Scholar here.</a></p>
         </div>
     </div>
       <div class="profile">
@@ -83,7 +83,7 @@ permalink: /people/
         </div>
         <div class="description">
             <p class="people-name"><b>Sophie Walton, PhD</b></p>
-            <p class="people-blurb">I am interested in understanding how microbes evolve in complex ecosystems. My dissertation work combined genomics and experiments to study microbial evolution in gut microbial communities. In the Bergelson lab, I am studying how pathogen evolution is shaped by interactions with plant hosts and other microbes. Outside of the lab, I like to run, spend time outside, and explore the city.</p>
+            <p class="people-blurb">I am interested in understanding how microbes evolve in complex ecosystems. My dissertation work combined genomics and experiments to study microbial evolution in gut microbial communities. In the Bergelson lab, I am studying how pathogen evolution is shaped by interactions with plant hosts and other microbes. Outside of the lab, I like to run, spend time outside, and explore the city.<a href="https://sophiejwalton.github.io/">View Sophie's Website here.</a></p>
         </div> 
     </div>
     <div class="profile">
@@ -92,7 +92,7 @@ permalink: /people/
         </div>
         <div class="description">
             <p class="people-name"><b>Theo Gibbs, PhD</b></p>
-            <p class="people-blurb">I am a Schmidt Science Fellow interested in how pathogen resistance emerges from the ecological interactions in the microbiome. My dissertation research combined mathematical theory and experiments with annual plants to understand whether interactions involving three or more species (called higher-order interactions) maintain coexistence in diverse ecological communities. Outside of research, I like to play and watch soccer, go hiking and listen to new music. <a href="https://theogibbs.github.io/">View Theo's Website here</a></p>
+            <p class="people-blurb">I am a Schmidt Science Fellow interested in how pathogen resistance emerges from the ecological interactions in the microbiome. My dissertation research combined mathematical theory and experiments with annual plants to understand whether interactions involving three or more species (called higher-order interactions) maintain coexistence in diverse ecological communities. Outside of research, I like to play and watch soccer, go hiking and listen to new music. <a href="https://theogibbs.github.io/">View Theo's Website here.</a></p>
         </div>
     </div>
     <h2 class="people-title">Lab Manager</h2>
