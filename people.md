@@ -83,7 +83,7 @@ permalink: /people/
         </div>
         <div class="description">
             <p class="people-name"><b>Sophie Walton, PhD</b></p>
-            <p class="people-blurb">I am interested in understanding how microbes evolve in complex ecosystems. My dissertation work combined genomics and experiments to study microbial evolution in gut microbial communities. In the Bergelson lab, I am studying how pathogen evolution is shaped by interactions with plant hosts and other microbes. Outside of the lab, I like to run, spend time outside, and explore the city.<a href="https://sophiejwalton.github.io/">View Sophie's Website here.</a></p>
+            <p class="people-blurb">I am interested in understanding how microbes evolve in complex ecosystems. My dissertation work combined genomics and experiments to study microbial evolution in gut microbial communities. In the Bergelson lab, I am studying how pathogen evolution is shaped by interactions with plant hosts and other microbes. Outside of the lab, I like to run, spend time outside, and explore the city. <a href="https://sophiejwalton.github.io/">View Sophie's Website here.</a></p>
         </div> 
     </div>
     <div class="profile">
