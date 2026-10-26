@@ -198,6 +198,17 @@ permalink: /people/
             <p class="people-blurb">I am an undergraduate student from New Jersey at NYU, majoring in Biology and minoring in Hellenic Studies on the pre-medical track. In the Bergelson Lab, I investigate interactions between plant immune receptors and pathogen proteins to better understand the molecular processes involved in plant immunity. Outside of the lab, I enjoy baking, traveling, and exploring New York City.</p>
         </div>
     </div>
+  <div class="profile">
+        <div class="profile-image">
+            <img src="../assets/images/Zoey.png" alt="Zoey Garcia-Shelton" />
+        </div>
+        <div class="description">
+            <p class="people-name"><b>Zoey Garcia-Shelton</b></p>
+            <p class="people-flair"><b>Undergraduate Student</b>, NYU</p>
+            <p class="people-blurb">I'm an undergraduate student at the NYU College of Arts and Sciences studying biology and graduating in 2029. In the Bergelson Lab, I'm working with Dr. McCall Calvert to explore how host genetics influence pathogen spread and evolution. I'm originally from North Carolina and love collecting comics and figures in my free time, as well as observing NYC's biodiversity on my quiet morning walks.</p>
+        </div>
+    </div>
+
   </div> </div> <h2 class="people-title">Gallery</h2>
 <div class="gallery-grid">
         <div class="card card-wide">
